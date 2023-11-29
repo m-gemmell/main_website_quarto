@@ -1,0 +1,101 @@
+project:
+  type: website
+  resources:
+    - "images/twitter-card.png"
+    
+website:
+  page-navigation: true
+  title: "PRIMEVAL DEITIES"
+  description: "Primeval deity and other factions designed for the FIST RPG"
+  site-url: "https://datasciencebox.org/"
+  
+  repo-url: https://github.com/rstudio-education/datascience-box
+  repo-actions: [edit, issue]
+
+
+  page-footer:
+    left: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    background: "#A7D5E8"
+    right:
+    - text: "License"
+      href: LICENSE.md
+    - text: "Code of Conduct"
+      href: CODE_OF_CONDUCT.md
+
+  navbar:
+    background: "#A7D5E8"
+    logo: "images/dsbox.png"
+    align: center
+    title: false
+    collapse-below: lg
+ 
+    right:
+      - icon: github
+        href: https://github.com/m-gemmell/PRIMEVAL_DEITIES
+        aria-label: GitHub
+
+    left:
+      - text: "Overview"
+        href: index.qmd
+      - text: "Alternate history"
+        href: history.qmd
+      - text: "Factions"
+        href: content.qmd
+      - text: "Units"
+        href: infrastructure.qmd
+      - text: "Items and traits"
+        href: design.qmd
+
+  sidebar:
+    - id: Alternate history
+      title: "Alternate history"
+      style: "floating"
+      collapse-level: 2
+      align: left
+      contents:
+        - href: history.qmd
+
+    - id: content
+      title: "Content"
+      contents:
+        - href: content.qmd
+        - href: 02-hello-world.qmd
+        - href: 02-exploring-data.qmd
+        - href: 02-ethics.qmd
+        - href: 02-making-rigorous-conclusions.qmd
+        - href: 02-looking-further.qmd
+        - href: 02-interactive-tutorials.qmd
+        - href: 02-project.qmd
+        - href: 02-exams.qmd
+
+    - id: infrastructure
+      title: "Infrastructure"
+      contents:
+        - href: infrastructure.qmd
+        - href: 03-access-r.qmd
+        - href: 03-version-control.qmd
+        - href: 03-discussion.qmd
+        - href: 03-sharing.qmd
+        - href: 03-alternative-setups.qmd
+
+    - id: design
+      align: left
+      contents:
+        - href: design.qmd
+        - href: 04-pedagogy.qmd
+        - href: 04-schedule.qmd
+
+format:
+  html:
+    theme:
+      light: [cosmo, style/dsbox.scss]
+      dark: [cosmo, style/dsbox.scss, style/dark.scss]
+    toc: true
+    code-copy: true
+    code-overflow: wrap
+    mainfont: "Atkinson Hyperlegible"
+    include-in-header: "style/fontawesome.html"
+
+freeze: auto
+
+editor: visual
