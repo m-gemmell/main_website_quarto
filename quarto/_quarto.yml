@@ -1,6 +1,5 @@
 project:
   type: website
-
 editor: source
 
 #Website
@@ -8,11 +7,10 @@ website:
   page-navigation: true
   title: "PRIMEVAL DEITIES"
   description: "Primeval deity and other factions designed for the FIST RPG"
-
 ##Navbar
   navbar:
-    background: "#A7D5E8"
-    logo: "images/dsbox.png"
+    logo: "images/kofi_button_blue.png"
+    logo-href: https://ko-fi.com/waveofinspiration
     align: center
     title: false
     collapse-below: lg
@@ -39,6 +37,7 @@ website:
       - icon: github
         href: https://github.com/m-gemmell/PRIMEVAL_DEITIES
         aria-label: GitHub
+
 ##Sidebar
   sidebar:
     - id: Alternate history
@@ -48,3 +47,11 @@ website:
       align: left
       contents:
         - href: history.qmd
+
+#Format
+format:
+  html:
+    theme: 
+    - styles.scss
+    mainfont: Lexend
+    toc: true
