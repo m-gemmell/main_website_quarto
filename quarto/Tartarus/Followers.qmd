@@ -1,0 +1,27 @@
+---
+title: "Followers"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+### Dotter of Tartarus (3 HP, CHOKE 4: Find the nearest hole to cower in)
+
+- Climbing pickaxe (3 DAMAGE)
+- Spelunking gear
+- Loupe (magnifying glass for gems)
+- Lockpick gear
+- Caving suit
+
+__EXPLORER:__ These followers of Tartarus are always on the lookout for entrances to the DOT, possible mining sites, and the enslaved to free. They seem to appear from nowhere and will interrogate anyone they see. They will follow the interrogatee, being near impossible to lose, until their questions have been answered.
+
+***
+
+### Elder Dotter of Tartarus (3 HP, CHOKE 4: Escape from current situation)
+
+- Rock fists (1D6 DAMAGE)
+- Rock armor (2 ARMOR)
+- Clean suits adorned with jewellery
+- Quick to defend their actions with the free market, meaning different things to capitalists and raiders
+
+__COVETOUS:__ Elder dotters are rich and powerful. Many are the CEOs of mining, fossil fuel, and nuclear companies on the surface and leaders of raiding settlements in the DOT. Whether they raid or capitalise others they will take the riches of Tartarus without laboring themselves. They are particularly fond of hoarding precious stones and metals. Their rock fists and armors are blessings from Taratarus that only they can manifest over their body and use.

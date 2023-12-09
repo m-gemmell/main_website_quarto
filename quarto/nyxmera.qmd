@@ -69,6 +69,9 @@ __DUALITY:__ These troopers embody the day and night extremes of Nyxmera. They w
 
 __STEADFAST:__ These heavy troopers stand strong against the dark. They routinely use the combination of their lanterns and hard light projectors to corner enemies.
 
+__Hardlight wall generator__ weapon: A heavy 2 handed device that can create a 2 ARMOR 5 foot tall by 10 foot wide hard light wall projection 10 feet in front of the device. It must be continuously fired whilst the user is illuminated. Due to the weight of the hard light the wall must be kept on the ground for normal humans. The hard light is frictionless and so can be moved slowly by the user.
+
+
 ### Nyxmera dark trooper (6 HP)
 
 - Meteor sword (1D6 + 1 DAMAGE, LIGHT)

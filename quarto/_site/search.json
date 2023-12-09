@@ -16,16 +16,16 @@
   {
     "objectID": "gaia.html",
     "href": "gaia.html",
-    "title": "Welcome",
+    "title": "Gaia",
     "section": "",
-    "text": "Created for the FIST rpg by CLAYMORE - https://claymorerpgs.itch.io/\nFIST and these materials are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)\nThis online work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International. Visit here for more information about the license."
+    "text": "Life was created by the combination of light, earth, and water. Gaia is life and yearns for unity. Its followers, Gaians, interpret this in many ways. As always unity brings division.\nMost followers cherish life. They farm, heal others, protect the environment, etc. Some think death is the great unifier and praise the degraders and carrion feeders. An even smaller subset hold hard to the wheel of life."
   },
   {
-    "objectID": "gaia.html#license",
-    "href": "gaia.html#license",
-    "title": "Welcome",
-    "section": "",
-    "text": "Created for the FIST rpg by CLAYMORE - https://claymorerpgs.itch.io/\nFIST and these materials are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)\nThis online work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International. Visit here for more information about the license."
+    "objectID": "gaia.html#tag-the-arrows-of-gaia",
+    "href": "gaia.html#tag-the-arrows-of-gaia",
+    "title": "Gaia",
+    "section": "TAG: The Arrows of Gaia",
+    "text": "TAG: The Arrows of Gaia\nClimate change and environmental destructions are existential threats to all life on earth. TAG are an organisation of eco warriors. Primarily they carry out peaceful protests and other activities that benefit the environment.\nSome members form more radical groups that sabotage environmentally damaging facilities such as oil pipes, chemical production companies, etc."
   },
   {
     "objectID": "history.html",
@@ -37,30 +37,37 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome",
+    "title": "Overview",
     "section": "",
-    "text": "Created for the FIST rpg by CLAYMORE - https://claymorerpgs.itch.io/\nFIST and these materials are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)\nThis online work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International. Visit here for more information about the license."
+    "text": "This is a website to host faction infomration of the Primeval deities for the FIST RPG. It is a work in progress."
   },
   {
     "objectID": "index.html#license",
     "href": "index.html#license",
-    "title": "Welcome",
-    "section": "",
-    "text": "Created for the FIST rpg by CLAYMORE - https://claymorerpgs.itch.io/\nFIST and these materials are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)\nThis online work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International. Visit here for more information about the license."
+    "title": "Overview",
+    "section": "License",
+    "text": "License\nCreated for the FIST rpg by CLAYMORE - https://claymorerpgs.itch.io/\nFIST and these materials are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)\nThis online work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International. Visit here for more information about the license."
   },
   {
-    "objectID": "missions.html",
-    "href": "missions.html",
-    "title": "Welcome",
+    "objectID": "Missions/M-POPS.html",
+    "href": "Missions/M-POPS.html",
+    "title": "POPS: Possible Oil Pipe Sabotage",
     "section": "",
-    "text": "Created for the FIST rpg by CLAYMORE - https://claymorerpgs.itch.io/\nFIST and these materials are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)\nThis online work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International. Visit here for more information about the license."
+    "text": "Hired by Kraken (Dotters of Tartarus) to prevent sabotage by Gaians.\nHired by Gaians to sabotage pipeline.\n\n3 different stations along the straight pipeline. They are situated in a dense forest."
   },
   {
-    "objectID": "missions.html#license",
-    "href": "missions.html#license",
-    "title": "Welcome",
+    "objectID": "Missions/M-POPS.html#choice-of-mission",
+    "href": "Missions/M-POPS.html#choice-of-mission",
+    "title": "POPS: Possible Oil Pipe Sabotage",
     "section": "",
-    "text": "Created for the FIST rpg by CLAYMORE - https://claymorerpgs.itch.io/\nFIST and these materials are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)\nThis online work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International. Visit here for more information about the license."
+    "text": "Hired by Kraken (Dotters of Tartarus) to prevent sabotage by Gaians.\nHired by Gaians to sabotage pipeline.\n\n3 different stations along the straight pipeline. They are situated in a dense forest."
+  },
+  {
+    "objectID": "Missions/M-POPS.html#sabotaging",
+    "href": "Missions/M-POPS.html#sabotaging",
+    "title": "POPS: Possible Oil Pipe Sabotage",
+    "section": "Sabotaging",
+    "text": "Sabotaging\nThe team will need to hack into 3 different small stations along the pipeline. They will be provided 4 eight inch floppy disks, 1 needed for each hack.\nTwo pairs of Kraken security guards at each base. If the alarm goes off, Kraken private contractors will appear in SUVs, this will take a bit of time.\nAt the last station there will be a Metal ore golem. It will not be alert if the alarm has not gone off. It will never fire if the oil pipeline is in the line of fire."
   },
   {
     "objectID": "nyxmera.html",
@@ -81,7 +88,7 @@
     "href": "nyxmera.html#troops",
     "title": "Nyxmera",
     "section": "Troops",
-    "text": "Troops\n\nNyxmera trooper (3 HP, 2D6 appear)\n\nSemi-Auto Laser rifle (Choose 1 of 2D6 DAMAGE, 1D6 DAMAGE for other users)\nMeteor scrap metal armor (1 ARMOR)\nRifle mounted light (Directional close range sight in the dark)\nBlack and white fatigues, covered in scraps of meteor metal.\n\nDUALITY: These troopers embody the day and night extremes of Nyxmera. They will shoot allies and enemies alike with their laser rifles. When dealing damage with these they harm the target on even totals and heal the target on odd totals. Normally the referee will choose which die to use. However, if a player adds one or more WAR DICE they choose which single dice to remove from the DAMAGE.\n\n\nNyxmera light trooper (3 HP, 1D6 appear)\n\nLaser shotgun (1D6 + 1 DAMAGE)\n1D6 stun grenades (temporary blinding, one use)\nHelmet mounted lantern (close range sight in the dark)\nMeteor metal armor (2 ARMOR)\nHard light projector (1 use)\n\nSTEADFAST: These heavy troopers stand strong against the dark. They routinely use the combination of their lanterns and hard light projectors to corner enemies.\n\n\nNyxmera dark trooper (6 HP)\n\nMeteor sword (1D6 + 1 DAMAGE, LIGHT)\nNight vision goggles (see at night)\nLight diffraction weave bodysuit (1 ARMOR, difficult to see)\nShadow boots (Can teleport from one shadow to another within a range of 30 feet, 1 use)\nDeployable hard light hoverboard (accessory)\n\nPATIENT: The dark trooper will watch and stalk enemies. It will bide its time for the best opportunity to reveal itself based on how cool it would be. If it begins a fight with no backup it will take no DAMAGE from the first attack against them, doing a narly flip or trick to evade it."
+    "text": "Troops\n\nNyxmera trooper (3 HP, 2D6 appear)\n\nSemi-Auto Laser rifle (Choose 1 of 2D6 DAMAGE, 1D6 DAMAGE for other users)\nMeteor scrap metal armor (1 ARMOR)\nRifle mounted light (Directional close range sight in the dark)\nBlack and white fatigues, covered in scraps of meteor metal.\n\nDUALITY: These troopers embody the day and night extremes of Nyxmera. They will shoot allies and enemies alike with their laser rifles. When dealing damage with these they harm the target on even totals and heal the target on odd totals. Normally the referee will choose which die to use. However, if a player adds one or more WAR DICE they choose which single dice to remove from the DAMAGE.\n\n\nNyxmera light trooper (3 HP, 1D6 appear)\n\nLaser shotgun (1D6 + 1 DAMAGE)\n1D6 stun grenades (temporary blinding, one use)\nHelmet mounted lantern (close range sight in the dark)\nMeteor metal armor (2 ARMOR)\nHard light projector (1 use)\n\nSTEADFAST: These heavy troopers stand strong against the dark. They routinely use the combination of their lanterns and hard light projectors to corner enemies.\nHardlight wall generator weapon: A heavy 2 handed device that can create a 2 ARMOR 5 foot tall by 10 foot wide hard light wall projection 10 feet in front of the device. It must be continuously fired whilst the user is illuminated. Due to the weight of the hard light the wall must be kept on the ground for normal humans. The hard light is frictionless and so can be moved slowly by the user.\n\n\nNyxmera dark trooper (6 HP)\n\nMeteor sword (1D6 + 1 DAMAGE, LIGHT)\nNight vision goggles (see at night)\nLight diffraction weave bodysuit (1 ARMOR, difficult to see)\nShadow boots (Can teleport from one shadow to another within a range of 30 feet, 1 use)\nDeployable hard light hoverboard (accessory)\n\nPATIENT: The dark trooper will watch and stalk enemies. It will bide its time for the best opportunity to reveal itself based on how cool it would be. If it begins a fight with no backup it will take no DAMAGE from the first attack against them, doing a narly flip or trick to evade it."
   },
   {
     "objectID": "nyxmera.html#starvatars",
@@ -93,23 +100,44 @@
   {
     "objectID": "proteus.html",
     "href": "proteus.html",
-    "title": "Welcome",
+    "title": "Proteus",
     "section": "",
-    "text": "Created for the FIST rpg by CLAYMORE - https://claymorerpgs.itch.io/\nFIST and these materials are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)\nThis online work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International. Visit here for more information about the license."
+    "text": "The elusive ever changing deity of water. Proteus goes with the flow, loathing stagnation and overworking. Proteus is ever changing, and agreeable. It is happy to be manipulated by others. Whether forming into cloud by the sun, falling down a mountain or becoming steam by lava this occurs to water. But when it is affected by others it will leave its own mark. Beaches formed by the interaction of the moon, water, and land. Clouds blocking the sun. Formation of Islands with magma. In this changing way Proteus brings life but it can take it away. The weakness of proteus is it is frozen in the absence of heat and evaporates with too much.\nThe followers of Proteus are called Proteans. Due to their philosophies their organisations tend to be smaller. However, they have a lot of smaller organisations and groups. Followers include: Pharmaceutical workers, Dealers and enjoyers of alcohol and drugs, water and snow sports enthusiasts, sailors, navy, sanitation workers, climatologists, and firefighters.\nProteans play well with other factions and you will see them regularly team up with other faction organisations. Examples include; Construction with Tartarus, Healthcare with Gaia, and extreme sports events with Nyxmera."
   },
   {
-    "objectID": "proteus.html#license",
-    "href": "proteus.html#license",
-    "title": "Welcome",
-    "section": "",
-    "text": "Created for the FIST rpg by CLAYMORE - https://claymorerpgs.itch.io/\nFIST and these materials are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)\nThis online work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International. Visit here for more information about the license."
+    "objectID": "proteus.html#triton-delta",
+    "href": "proteus.html#triton-delta",
+    "title": "Proteus",
+    "section": "Triton & Delta",
+    "text": "Triton & Delta\nA large company developing and selling drugs, both licit and illicit. It is an open secret they sell illicit drugs with many knowing Triton as the licit side and Delta as the Illicit side. They primarily create new drugs charging many local companies to produce, and distribute.\nThis is not only led by Proteans but many Gaians involved in health services. However, Gaian involvement normally is limited to the licit side."
+  },
+  {
+    "objectID": "proteus.html#refraction-sports",
+    "href": "proteus.html#refraction-sports",
+    "title": "Proteus",
+    "section": "Refraction sports",
+    "text": "Refraction sports\nA sports company specialising in snow and water sports. This company, its competitors, and fans consist of many Suns of Nyxmera and Proteans. It combines the go with the flow of these sports with the exhilarating voyeurism.\n\nProtean Surfer (3 HP, CHOKE 6: Irreversibly change into a puddle of water)\nNEEDS COMPLETEING\n\nBottle of Holy water (1 use)\nSunglasses and Surfer necklace\nAlways seems at least slightly stoned\n\nGAWKER: These followers of Nyxmera act as eyes of the deity and nothing more. They mindlessly consume content and go out of their way to witness danger. They will call in further Suns of Nyxmera if they see a dangerous event possibly causing further civilian casualties.\n\n\nProtean Snowboarder (3 HP, CHOKE 6: Collapse into a snowball)\nNEEDS COMPLETEING\n\nBottle of Holy water (1 use)\nSunglasses and Surfer necklace\nAlways seems at least slightly stoned\n\nGAWKER: These followers of Nyxmera act as eyes of the deity and nothing more. They mindlessly consume content and go out of their way to witness danger. They will call in further Suns of Nyxmera if they see a dangerous event possibly causing further civilian casualties."
+  },
+  {
+    "objectID": "proteus.html#pumice-construction-ltd.",
+    "href": "proteus.html#pumice-construction-ltd.",
+    "title": "Proteus",
+    "section": "Pumice construction Ltd.",
+    "text": "Pumice construction Ltd.\nA construction company run by Proteans and Dotters of Tartarus. They have amazing technologies that has shaped society.\nThey have a special concrete production method that allows them to shape and colour concrete in amazing ways. This has led to the boom of post modern brutalism. Additionally, they can easily melt concrete back to a liquid form allowing them to constantly change and/or replace buildings with relative ease.\nFor roads and foundations they are able to make a tough wearing igneous rock from lava and water.\nThese are energy hungry practices but with the abundance of nuclear energy in the world it is not an issue."
+  },
+  {
+    "objectID": "proteus.html#water-bodies",
+    "href": "proteus.html#water-bodies",
+    "title": "Proteus",
+    "section": "Water bodies",
+    "text": "Water bodies\nEach water body of Proteus represents a different body of water on earth. They are animated blobs of water. However, their structure is given to their form by the presence of water life such as plants and fish.\n\nOcean water body\n\n\nSea water body\n\n\nLake water body"
   },
   {
     "objectID": "tartarus.html",
     "href": "tartarus.html",
     "title": "Tartarus",
     "section": "",
-    "text": "Tartarus is the ground we live on, they are the rocks, dirt, metal, and oil. Tartarus was once free with explosive energy but now lays dormant, encaged by the sky, trapped by Nyxmera. Tartarus loathes Nyxmera and Nyxmera’s apathy towards Tartarus fuels its bottled rage further.\nThe greatest presence of Tartarus is felt underground where Nyxmera cannot see with its eyes. Here you may find a deep black hole that leads to the DOT. The DOT is the Domain Of Taratarus. Time and space are inconsistent in the DOT. You may enter and subsequently leave in the past, present or future no matter how long you were in the DOT. Many monsters live in the DOT. Think Journey to the Center of the Earth, Narnia, the Fey Wild, The underdark etc.\nWorld governments have used the DOT as a dumping ground for garbage, scientific waste, and nuclear waste. This has lead to mutated humans and creatures due to the combination of radiation, chemicals, and the magic of the DOT. They mostly stay contained in the DOT but occasionally cause havoc on the surface."
+    "text": "Tartarus is the ground we live on, they are the rocks, dirt, metal, and oil. Tartarus was once free with explosive energy but now lays dormant, encaged by the sky, trapped by Nyxmera. Tartarus loathes Nyxmera and Nyxmera’s apathy towards Tartarus fuels its bottled rage further.\nThe greatest presence of Tartarus is felt underground where Nyxmera cannot see with its eyes. Here you may find a deep black hole that leads to the DOT. The DOT is the Domain Of Taratarus. Time and space are inconsistent in the DOT. You may enter and subsequently leave in the past, present or future no matter how long you were in the DOT. Many monsters live in the DOT. Think Journey to the Center of the Earth, Narnia, the Fey Wild, The underdark etc.\nWorld governments have used the DOT as a dumping ground for garbage, scientific waste, and nuclear waste. This has lead to mutated humans and creatures due to the combination of radiation, chemicals, and the magic of the DOT. They mostly stay contained in the DOT but occasionally cause havoc on the surface.\n\nThe imprisoned deity of the earth.\nA seemingly calm surface with extreme power under the surface\nFollowers: Dotters of Tartarus\n\nFollowers include: Enslaved, prisoners, fighters, miners, oil workers, seismologists, & spelunkers\n\nGood activities\n\nFreeing the enslaved\nFight for justice\n\nEvil activities\n\nRaiding the surface\nRuthless capitalism\nDestruction of ecology\nPrison breaks\n\nBest followers\n\nRaider leader and Kraken higher ups who free modern day slaves and carry out prison breaks."
   },
   {
     "objectID": "tartarus.html#followers",
@@ -138,5 +166,54 @@
     "title": "Tartarus",
     "section": "Golems",
     "text": "Golems\nGolems of Tartarus are made from the bounties of Tartarus. They generally consist of local resources.\n\nMetal ore golem (11 HP)\n\nHeavy machine gun (1D6+2 DAMAGE, UNSTABLE)\nWarhammer (1D6+2 DAMAGE)\nOre body (2 ARMOR)\nMostly stationary and slow to react\nA crude approximation of a human in iron ore form.\n\nTOWER: It is a crude approximation of a human form made of dirt and local ores. Instead of legs, its body is a great pillar that can slowly shuffle over the ground. Although slow in movement they compensate with their unrelenting fire. If its enemies take cover it will slowly approach and destroy the cover with its warhammer dealing 2 DAMAGE from shrapnel to those behind it.\n\n\nObsidian lava golem (6 HP)\n\nObsidian arm blades (1D6+2 DAMAGE)\nObsidian lava spear (2D6 DAMAGE, golem takes one damage when used, 1 use)\nObsidian scales (1 ARMOR)\n\nGLASSBLOWER: The true form of this golem is formless lava. The golem can change any lava that is part of it or touches it to obsidian of any shape. With this ability it creates an obsidian based skeleton, armor, and weapons. Additionally, it can change obsidian back into lava.\n\n\nLithium golems (3 HP, 2D6 appear)\n\nExplosive spit (1D6 DAMAGE)\n\nCASCADE: These blobs of lithium like to hide in crevasses and behind rocks. They will wait till their prey are surrounded by them before attacking. When they die they explode for 3 DAMAGE, this may cause a cascade of explosions from all the Lithium golems. Many cave-ins have been known to occur due to this.\n\n\nRadioactive gem golems (9 HP)\n\nPlasma rifle (2D6 DAMAGE, NUCLEAR-POWERED)\nPower armor (2 ARMOR, NUCLEAR-POWERED)\nQuartz, amethyst, violet fluorite, blue salt, yellow sapphires or green diamond core.\n\nPROJECTION: A radioactive projection produced from a single gem at their core. Although the most human looking of all the golems they are also the most terrifying. They give off constant nuclear radiation which they use to power their weapons and armor. Anyone within melee range gets -2 to action rolls and loses 1HP per action.\nGEM: Their real body is their gem which has 3HP. If this is not destroyed the golem will reform in 1D6 days. Its gear is not part of its projection."
+  },
+  {
+    "objectID": "Missions/M-POPS.html#defense",
+    "href": "Missions/M-POPS.html#defense",
+    "title": "POPS: Possible Oil Pipe Sabotage",
+    "section": "Defense",
+    "text": "Defense\nThey will only need to defend one station from 3 waves. They will have access to an imprisoned Gaian spy.\nThe team should be encouraged to set up traps and defenses. Other plans are encouraged. A much easier mission but will definitely involve combat."
+  },
+  {
+    "objectID": "Tartarus/Followers.html",
+    "href": "Tartarus/Followers.html",
+    "title": "Followers",
+    "section": "",
+    "text": "Dotter of Tartarus (3 HP, CHOKE 4: Find the nearest hole to cower in)\n\nClimbing pickaxe (3 DAMAGE)\nSpelunking gear\nLoupe (magnifying glass for gems)\nLockpick gear\nCaving suit\n\nEXPLORER: These followers of Tartarus are always on the lookout for entrances to the DOT, possible mining sites, and the enslaved to free. They seem to appear from nowhere and will interrogate anyone they see. They will follow the interrogatee, being near impossible to lose, until their questions have been answered.\n\n\n\nElder Dotter of Tartarus (3 HP, CHOKE 4: Escape from current situation)\n\nRock fists (1D6 DAMAGE)\nRock armor (2 ARMOR)\nClean suits adorned with jewellery\nQuick to defend their actions with the free market, meaning different things to capitalists and raiders\n\nCOVETOUS: Elder dotters are rich and powerful. Many are the CEOs of mining, fossil fuel, and nuclear companies on the surface and leaders of raiding settlements in the DOT. Whether they raid or capitalise others they will take the riches of Tartarus without laboring themselves. They are particularly fond of hoarding precious stones and metals. Their rock fists and armors are blessings from Taratarus that only they can manifest over their body and use."
+  },
+  {
+    "objectID": "Tartarus/DOT_raiders.html",
+    "href": "Tartarus/DOT_raiders.html",
+    "title": "DOT raiders",
+    "section": "",
+    "text": "Settlements of people who live in the DOT. They raid the surface for food and supplies. May also free modern day slaves and carry out prison breaks.\n\nTartarus raider (3 HP, 3D6 appear)\n\nM1911 pistol (1D6 DAMAGE)\nObsidian blade (1D6 DAMAGE)\nThunderstick, explosive throwing spear (1D6 + 2 DAMAGE, ANTI-MATERIAL, 1 use)\nScrap armor (1 ARMOR)\nScrap armored school bus (12 HP, 2 ARMOR)\n\nHIT-AND-RUN: Raider war cries act as a harbinger of destruction. After a rapid pillage they scarper off leaving any wounded behind. They never abduct living things. The literal definition of scrappy, they like to bicker between themselves over loot. Tartarus raiders are good drivers and only use their thundersticks on pursuing vehicles, not wanting to destroy any possible loot.\n\n\n\nTartarus fire warriors (6 HP)\n\nFlame thrower (1D6 + 1 DAMAGE, INCENDIARY)\nNapalm grenade (1D6 + 2 DAMAGE, 1 use)\nPyrogen fire suppression grenade. Can douse fire in a medium enclosed area such as a skip or caravan (1 use)\nReinforced silver fire suit (1 ARMOR)\nBottled fire spirit, 1 DAMAGE to user, heals target +1D6 HP (1 use)\nInhibited movement and vision\n\nBURNT: These warriors have been wronged and fight for justice. They have little self preservation thinking their suits will prevent any dangerous burns. They are fiercely defensive of their allies and will attract aggro. Whilst a Tartarus fire warrior is alive and in combat, attacks to non Taratarus fire warriors have -1 DAMAGE.\n\n\n\nTartarus magnetic slinger (4 HP)\n\nLong range gauss rifle, requires a bright and loud charge up time (1D6 + 2 DAMAGE, ARMOR PIERCING)\nTripwire grenade (1D6 + 1 DAMAGE, 1 use)\nSmoke grenade (1 use)\nFlare gun (3 uses)\nGhillie suit\nSluggish and cramped legs.\n\nVOLCANIC: Like a volcano this slinger is patient and difficult to detect whilst dormant. However their weapon provides an obvious signal to their target a few seconds before they can fire. Will use their flare gun to call for backup or attract prey.\n\n\n\nScrapper\nTO BUILD: A mechanic who takes care of the cars and builds weapons with scraps. Can attack with their wrench and make various scrap based items during combat."
+  },
+  {
+    "objectID": "Tartarus/Kraken.html",
+    "href": "Tartarus/Kraken.html",
+    "title": "Kraken",
+    "section": "",
+    "text": "Kraken is a large energy and mining corporation. They deal in oil and nuclear power. They also mine for oil, nuclear ores, metal ores, and gems. The CEO is Marian Dullcoin (Elder Dotter of Tartarus).\n\nKraken security guard (4 HP, 2 appear)\n\nBioresonance disruptor rifle (1D6+1 DAMAGE, BIOLOGICAL)\nHazard foam grenade launcher, able to fill holes, quench fires, block radiation, and slow down foes (3 uses)\nHazard suit (1 ARMOR)\nHard hat (accessory)\nHigh vis jacket\nHalf a key card each\nProne to ask ridiculous either or questions with their buddy (“Would you rather fight a horse sized duck or 100 duck sized horses?”)\n\nSAFETY BUDDIES: Two guards make a whole. For security they are each given half of any security passes so both must be present, stopping 1 captured/pilfered guard from allowing breaches. They can and will use their hazard foam grenades to subdue trespassers.\n\n\n\nKraken private contractor (4 HP,1D6 appear)\n\nHeckler & Koch MP5K submachine gun (1D6+1 DAMAGE)\nCombat knife (1D6 DAMAGE)\nKevlar military vest (1 ARMOR)\nBattering ram (1D6 DAMAGE)\nKept in reserve until combat starts\nTrigger happy swat wannabes\n\nCQC: Rush into close quarter combat as they want the bonus for killing any enemies. With their battering ram they can break through any unbarricaded hinged door with abandon."
+  },
+  {
+    "objectID": "Tartarus/Kraken.html#kraken",
+    "href": "Tartarus/Kraken.html#kraken",
+    "title": "Kraken",
+    "section": "",
+    "text": "Kraken is a large energy and mining corporation. They deal in oil and nuclear power. They also mine for oil, nuclear ores, metal ores, and gems. The CEO is Marian Dullcoin (Elder Dotter of Tartarus).\n\n\n\nBioresonance disruptor rifle (1D6+1 DAMAGE, BIOLOGICAL)\nHazard foam grenade launcher, able to fill holes, quench fires, block radiation, and slow down foes (3 uses)\nHazard suit (1 ARMOR)\nHard hat (accessory)\nHigh vis jacket\nHalf a key card each\nProne to ask ridiculous either or questions with their buddy (“Would you rather fight a horse sized duck or 100 duck sized horses?”)\n\nSAFETY BUDDIES: Two guards make a whole. For security they are each given half of any security passes so both must be present, stopping 1 captured/pilfered guard from allowing breaches. They can and will use their hazard foam grenades to subdue trespassers.\n\n\n\n\nHeckler & Koch MP5K submachine gun (1D6+1 DAMAGE)\nCombat knife (1D6 DAMAGE)\nKevlar military vest (1 ARMOR)\nBattering ram (1D6 DAMAGE)\nKept in reserve until combat starts\nTrigger happy swat wannabes\n\nCQC: Rush into close quarter combat as they want the bonus for killing any enemies. With their battering ram they can break through any unbarricaded hinged door with abandon."
+  },
+  {
+    "objectID": "Tartarus/Golems.html",
+    "href": "Tartarus/Golems.html",
+    "title": "Golems",
+    "section": "",
+    "text": "Golems of Tartarus are made from the bounties of Tartarus. They generally consist of local resources.\n\nMetal ore golem (11 HP)\n\nHeavy machine gun (1D6+2 DAMAGE, UNSTABLE)\nWarhammer (1D6+2 DAMAGE)\nOre body (2 ARMOR)\nMostly stationary and slow to react\nA crude approximation of a human in iron ore form.\n\nTOWER: It is a crude approximation of a human form made of dirt and local ores. Instead of legs, its body is a great pillar that can slowly shuffle over the ground. Although slow in movement they compensate with their unrelenting fire. If its enemies take cover it will slowly approach and destroy the cover with its warhammer dealing 2 DAMAGE from shrapnel to those behind it.\n\n\nObsidian lava golem (6 HP)\n\nObsidian arm blades (1D6+2 DAMAGE)\nObsidian lava spear (2D6 DAMAGE, golem takes one damage when used, 1 use)\nObsidian scales (1 ARMOR)\n\nGLASSBLOWER: The true form of this golem is formless lava. The golem can change any lava that is part of it or touches it to obsidian of any shape. With this ability it creates an obsidian based skeleton, armor, and weapons. Additionally, it can change obsidian back into lava.\n\n\nLithium golems (3 HP, 2D6 appear)\n\nExplosive spit (1D6 DAMAGE)\n\nCASCADE: These blobs of lithium like to hide in crevasses and behind rocks. They will wait till their prey are surrounded by them before attacking. When they die they explode for 3 DAMAGE, this may cause a cascade of explosions from all the Lithium golems. Many cave-ins have been known to occur due to this.\n\n\nRadioactive gem golems (9 HP)\n\nPlasma rifle (2D6 DAMAGE, NUCLEAR-POWERED)\nPower armor (2 ARMOR, NUCLEAR-POWERED)\nQuartz, amethyst, violet fluorite, blue salt, yellow sapphires or green diamond core.\n\nPROJECTION: A radioactive projection produced from a single gem at their core. Although the most human looking of all the golems they are also the most terrifying. They give off constant nuclear radiation which they use to power their weapons and armor. Anyone within melee range gets -2 to action rolls and loses 1HP per action.\nGEM: Their real body is their gem which has 3HP. If this is not destroyed the golem will reform in 1D6 days. Its gear is not part of its projection."
+  },
+  {
+    "objectID": "Gaia/TAG.html",
+    "href": "Gaia/TAG.html",
+    "title": "TAG: The Arrows of Gaia",
+    "section": "",
+    "text": "Climate change and environmental destructions are existential threats to all life on earth. TAG are an organisation of eco warriors. Primarily they carry out peaceful protests and other activities that benefit the environment.\nTheir slogan is “you’re it” . ON one hand referring to those they are targeting or will target next. And on the other a call of action for everyone else to join the environmental fight.\nSome members form more radical groups that sabotage environmentally damaging facilities such as oil pipes, chemical production companies, etc.\n\nTAG Protestor (3 HP, CHOKE 5: Scatter and hide)\n\nPlacard & leaflets\nUnassuming clothing with a cap\nSnacks and drinks\nLoud and proud\n\nCONVICTED: Many protesters have been previously imprisoned for their convictions. They can be majorly disruptive but people will only deal with them if given orders they can’t refuse. A touch from a group of protesters will cause most to join the protest. Many that join this way leave with a very foggy memory of it all.\n\n\n\nTAG Eco Warrior (4 HP, 1D6 appear)\n\nWinchester Model 1200 Pump-action shotgun (1D6+1 DAMAGE)\nMolotov cocktail (1D6 DAMAGE, one use)\nHunting apparel with backpack\nBinoculars\nNormal men and women with some sign of damage by industrial exploitation\n\nJUSTIFIED: Eco warriors stand up for what is right. They have been harmed by industrial chemicals or machines. With nothing left they will put down their lives to ensure life will continue. They will never surrender, either fighting till the end or retreating to fight another day. Intimidation tactics never work of eco warriors.\n\n\n\nTAG demolition operative\n\n\n\nTAG leader"
   }
 ]

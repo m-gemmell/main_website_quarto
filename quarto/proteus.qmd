@@ -9,7 +9,7 @@ The elusive ever changing deity of water. Proteus goes with the flow, loathing s
 
 The followers of Proteus are called Proteans. Due to their philosophies their organisations tend to be smaller. However, they have a lot of smaller organisations and groups. Followers include: Pharmaceutical workers, Dealers and enjoyers of alcohol and drugs, water and snow sports enthusiasts, sailors, navy, sanitation workers, climatologists, and firefighters.
 
-Proteans play well with other factions and you will see them regularly team up with other faction organisations. Examples include; saunas with Tartarus, Healthcare with Gaia, and extreme sports events with Nyxmera.
+Proteans play well with other factions and you will see them regularly team up with other faction organisations. Examples include; Construction with Tartarus, Healthcare with Gaia, and extreme sports events with Nyxmera.
 
 - Followers: Proteans
   - Followers include: Pharmaceutical workers, Dealers and enjoyers of alcohol and drugs, water and snow sports enthusiasts, sailors, navy, sanitation workers, climatologists, and firefighters.
@@ -19,7 +19,19 @@ Proteans play well with other factions and you will see them regularly team up w
 - Evil activities
   - Illicit drug dealing
 
-## Followers
+## Triton & Delta
+
+A large company developing and selling drugs, both licit and illicit. It is an open secret they sell illicit drugs with many knowing Triton as the licit side and Delta as the Illicit side. They primarily create new drugs charging many local companies to produce, and distribute.
+
+This is not only led by Proteans but many Gaians involved in health services. However, Gaian involvement normally is limited to the licit side.
+
+__Holy water bottle (consumable)__ item: Drink to get +1 on your next REFLEXIVE roll. You have a X-IN-1D6 chance of turning into a puddle of water when you drink it, effectively dying. X = the amount of Holy water bottles you have previously drunk in the mission. 1st drink is 0-IN-1D6, 2nd is 1-IN-1D6, etc.
+
+
+
+## Refraction sports
+
+A sports company specialising in snow and water sports. This company, its competitors, and fans consist of many Suns of Nyxmera and Proteans. It combines the go with the flow of these sports with the exhilarating voyeurism.
 
 ### Protean Surfer (3 HP, CHOKE 6: Irreversibly change into a puddle of water)
 
@@ -41,9 +53,20 @@ NEEDS COMPLETEING
 
 ___GAWKER:___ These followers of Nyxmera act as eyes of the deity and nothing more. They mindlessly consume content and go out of their way to witness danger. They will call in further Suns of Nyxmera if they see a dangerous event possibly causing further civilian casualties.
 
-## Triton & Delta
+## Pumice construction Ltd.
 
-A large company developing and selling drugs, both licit and illicit. It is an open secret they sell illicit drugs with many knowing Triton as the licit side and Delta as the Illicit side. They primarily create new drugs charging many local companies to produce, and distribute.
+A construction company run by Proteans and Dotters of Tartarus.
+They have amazing technologies that has shaped society.
+
+They have a special concrete production method that allows them to shape and colour concrete in amazing ways. 
+This has led to the boom of post modern brutalism.
+Additionally, they can easily melt concrete back to a liquid form allowing them to constantly change and/or replace buildings with relative ease.
+
+For roads and foundations they are able to make a tough wearing igneous rock from lava and water.
+
+These are energy hungry practices but with the abundance of nuclear energy in the world it is not an issue.
+
+
 
 ## Water bodies
 

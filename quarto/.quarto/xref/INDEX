@@ -25,5 +25,26 @@
   },
   "missions.qmd": {
     "missions.html": "17f4ef72"
+  },
+  "M-POPS.qmd": {
+    "M-POPS.html": "f22b1c6b"
+  },
+  "Missions/M-POPS.qmd": {
+    "M-POPS.html": "cd11145b"
+  },
+  "Tartarus/Followers.qmd": {
+    "Followers.html": "735971ab"
+  },
+  "Tartarus/DOT_raiders.qmd": {
+    "DOT_raiders.html": "279c4b5e"
+  },
+  "Tartarus/Kraken.qmd": {
+    "Kraken.html": "818a4753"
+  },
+  "Tartarus/Golems.qmd": {
+    "Golems.html": "560be6e0"
+  },
+  "Gaia/TAG.qmd": {
+    "TAG.html": "86e118d6"
   }
 }

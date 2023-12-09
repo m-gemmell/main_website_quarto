@@ -1,9 +1,11 @@
 ---
-title: "Welcome"
+title: "Overview"
 editor: 
   markdown: 
     wrap: sentence
 ---
+
+This is a website to host faction infomration of the Primeval deities for the FIST RPG. It is a work in progress.
 
 ## License {.unnumbered}
 
