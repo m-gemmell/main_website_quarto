@@ -4,6 +4,7 @@ editor: source
 
 #Website
 website:
+  favicon: /images/Gaia_favicon.png
   page-navigation: true
   title: "PRIMEVAL DEITIES"
   description: "Primeval deity and other factions designed for the FIST RPG"
@@ -18,7 +19,7 @@ website:
     left:
       - text: "Overview"
         href: index.qmd
-      - text: "Alternate history"
+      - text: "History"
         href: history.qmd
       - text: "Nyxmera"
         href: nyxmera.qmd
@@ -30,7 +31,7 @@ website:
         href: gaia.qmd
       - text: "Missions"
         href: missions.qmd
-      - text: "Items and traits"
+      - text: "Catalog"
         href: catalog.qmd
 ###Navbar right
     right:
@@ -46,8 +47,8 @@ website:
       align: left
       contents:
         - href: index.qmd
-    - id: Alternate history
-      title: "Alternate history"
+    - id: History
+      title: "History"
       style: "floating"
       collapse-level: 2
       align: left
@@ -59,6 +60,9 @@ website:
       align: left
       contents:
         - href: nyxmera.qmd
+        - href: Nyxmera/Followers.qmd
+        - href: Nyxmera/Troops.qmd
+        - href: Nyxmera/Starvatars.qmd
     - id: Tartarus
       title: "Tartarus"
       style: "floating"
@@ -68,13 +72,17 @@ website:
         - href: Tartarus/Followers.qmd
         - href: Tartarus/DOT_raiders.qmd
         - href: Tartarus/Kraken.qmd
-        - href: Tartarus/Golems.qmd
+        - href: Tartarus/Taloes.qmd
     - id: Proteus
       title: "Proteus"
       style: "floating"
       align: left
       contents:
         - href: proteus.qmd
+        - href: Proteus/Triton_n_Delta.qmd
+        - href: Proteus/Refraction_Sports.qmd
+        - href: Proteus/Pumice_construction_ltd.qmd
+        - href: Proteus/Water_bodies.qmd
     - id: Gaia
       title: "Gaia"
       style: "floating"
@@ -89,8 +97,8 @@ website:
       contents:
         - href: missions.qmd
         - href: Missions/M-POPS.qmd
-    - id: Items and traits
-      title: "Overview"
+    - id: Catalog
+      title: "Catalog"
       style: "floating"
       align: left
       contents:

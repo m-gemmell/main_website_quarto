@@ -1,15 +1,43 @@
 ---
-title: "Welcome"
+title: "Catalog"
 editor: 
   markdown: 
     wrap: sentence
 ---
 
-## License {.unnumbered}
 
-Created for the FIST rpg by CLAYMORE - https://claymorerpgs.itch.io/
+## Link to all units
 
-FIST and these materials are licensed under \[CC-BY-SA 4.0\](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
-
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"/></a><br />This online work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a>.
-Visit [here](https://github.com/rstudio-education/datascience-box/blob/master/LICENSE.md) for more information about the license.
+- Nyxmera
+  - Followers
+    - [Sun of Nyxmera](/Nyxmera/Followers.qmd#sun_nyxmera)
+    - [Mouth of Nyxmera](/Nyxmera/Followers.qmd#mouth_nyxmera)
+  - Troops
+    - [Nyxmera trooper](/Nyxmera/Troops.qmd#nyxmera_tropper)
+    - [Nyxmera Light Trooper](/Nyxmera/Troops.qmd#nyxmera_light_tropper)
+    - [Nyxmera Dark Trooper](/Nyxmera/Troops.qmd#nyxmera_dark_trooper)
+  - Starvatars
+    - [Starvatar of Nyxmera](/Nyxmera/Starvatars.qmd#starvatar)
+- Tartarus
+  - Followers
+    - [Dotter of Tartarus](/Tartarus/Followers.qmd#Dotter)
+    - [Elder Dotter of Tartarus](/Tartarus/Followers.qmd#elder_dotter)
+  - DOT raiders
+    - [Tartarus raider](/Tartarus/DOT_raiders.qmd#raider)
+    - [Tartarus fire warriors](/Tartarus/DOT_raiders.qmd#fire_warrior)
+    - [Tartarus magnetic slinger](/Tartarus/DOT_raiders.qmd#magnetic_slinger)
+    - [Scrapper](/Tartarus/DOT_raiders.qmd#scrapper)
+  - Kraken
+    - [Kraken security guards](/Tartarus/Kraken.qmd#kraken_guard)
+    - [Kraken private contractors](/Tartarus/Kraken.qmd#kraken_contractors)
+  - Taloes
+    - [Metal Ore Talos](/Tartarus/Taloes.qmd#ore_talos)
+    - [Obsidian Lava Talos](/Tartarus/Taloes.qmd#obsidian_talos)
+    - [Litihum Talos](/Tartarus/Taloes.qmd#litium_talos)
+    - [Radiactive Gem Talos](/Tartarus/Taloes.qmd#rad_talos)
+- Gaia
+  - TAG
+    - [TAG Protestor](/Gaia/TAG.qmd#tag_protestor)
+    - [TAG Eco Fighter](/Gaia/TAG.qmd#tag_fighter)
+    - [TAG Hacker](/Gaia/TAG.qmd#tag_hacker)
+    - [TAG leader](/Gaia/TAG.qmd#tag_leader)

@@ -7,7 +7,9 @@ editor:
 
 Settlements of people who live in the DOT. They raid the surface for food and supplies. May also free modern day slaves and carry out prison breaks.
 
-### Tartarus raider (3 HP, 3D6 appear)
+### Tartarus raider {#raider}
+
+(3 HP, 3D6 appear)
 
 - M1911 pistol (1D6 DAMAGE)
 - Obsidian blade (1D6 DAMAGE)
@@ -19,7 +21,9 @@ __HIT-AND-RUN:__ Raider war cries act as a harbinger of destruction. After a rap
 
 ***
 
-### Tartarus fire warriors (6 HP)
+### Tartarus fire warriors {#fire_warrior}
+
+(6 HP)
 
 - Flame thrower (1D6 + 1 DAMAGE, INCENDIARY)
 - Napalm grenade (1D6 + 2 DAMAGE, 1 use)
@@ -32,7 +36,9 @@ __BURNT:__ These warriors have been wronged and fight for justice. They have lit
 
 ***
 
-### Tartarus magnetic slinger  (4 HP)
+### Tartarus magnetic slinger {#magnetic_slinger}
+
+(4 HP)
 
 - Long range gauss rifle, requires a bright and loud charge up time (1D6 + 2 DAMAGE, ARMOR PIERCING)
 - Tripwire grenade (1D6 + 1 DAMAGE, 1 use)
@@ -45,6 +51,6 @@ __VOLCANIC:__ Like a volcano this slinger is patient and difficult to detect whi
 
 ***
 
-### Scrapper
+### Scrapper {#scrapper}
 
 TO BUILD: A mechanic who takes care of the cars and builds weapons with scraps. Can attack with their wrench and make various scrap based items during combat.

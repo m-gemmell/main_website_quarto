@@ -7,7 +7,9 @@ editor:
 
 Kraken is a large energy and mining corporation. They deal in oil and nuclear power. They also mine for oil, nuclear ores, metal ores, and gems. The CEO is Marian Dullcoin (Elder Dotter of Tartarus).
 
-### Kraken security guard (4 HP, 2 appear) {#kraken_guard}
+### Kraken security guard {#kraken_guard}
+
+(4 HP, 2 appear)
 
 - Bioresonance disruptor rifle (1D6+1 DAMAGE, BIOLOGICAL)
 - Hazard foam grenade launcher, able to fill holes, quench fires, block radiation, and slow down foes (3 uses)
@@ -23,9 +25,11 @@ __BIOLOGICAL__ weapon trait: Only damages biological beings. Cannot damage struc
 
 ***
 
-### Kraken private contractor (4 HP,1D6 appear)
+### Kraken private contractor {#kraken_contractors}
 
-- Heckler & Koch MP5K submachine gun (1D6+1 DAMAGE)
+(4 HP, 1D6 appear)
+
+- Heckler & Koch MP5K submachine gun (1D6 DAMAGE)
 - Combat knife (1D6 DAMAGE)
 - Kevlar military vest (1 ARMOR)
 - Battering ram (1D6 DAMAGE)

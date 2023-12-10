@@ -5,7 +5,9 @@ editor:
     wrap: sentence
 ---
 
-### Dotter of Tartarus (3 HP, CHOKE 4: Find the nearest hole to cower in)
+### Dotter of Tartarus {#dotter}
+
+(3 HP, CHOKE 4: Find the nearest hole to cower in)
 
 - Climbing pickaxe (3 DAMAGE)
 - Spelunking gear
@@ -17,7 +19,9 @@ __EXPLORER:__ These followers of Tartarus are always on the lookout for entrance
 
 ***
 
-### Elder Dotter of Tartarus (3 HP, CHOKE 4: Escape from current situation)
+### Elder Dotter of Tartarus {#elder_dotter}
+
+(3 HP, CHOKE 4: Escape from current situation)
 
 - Rock fists (1D6 DAMAGE)
 - Rock armor (2 ARMOR)
