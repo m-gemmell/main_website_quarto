@@ -90,6 +90,7 @@ website:
       contents:
         - href: gaia.qmd
         - href: Gaia/TAG.qmd
+        - href: Gaia/Skyuss.qmd
     - id: Missions
       title: "Missions"
       style: "floating"
@@ -97,6 +98,7 @@ website:
       contents:
         - href: missions.qmd
         - href: Missions/M-POPS.qmd
+        - href: Missions/M-AWE.qmd
     - id: Catalog
       title: "Catalog"
       style: "floating"

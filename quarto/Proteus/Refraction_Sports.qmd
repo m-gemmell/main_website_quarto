@@ -1,11 +1,9 @@
 ---
-title: "Refraction sports"
+title: "Refraction Sports"
 editor: 
   markdown: 
     wrap: sentence
 ---
-
-## Refraction sports
 
 A sports company specialising in snow and water sports. This company, its competitors, and fans consist of many Suns of Nyxmera and Proteans. It combines the go with the flow of these sports with the exhilarating voyeurism.
 

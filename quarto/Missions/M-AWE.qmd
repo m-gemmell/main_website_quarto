@@ -1,0 +1,121 @@
+---
+title: "AWE: Auroras & Worm Eradication"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+![](images/aurora_resort.png){width=30% fig-align="center"}
+
+Snow sport enthusiasts are being found dead with shark like bites at the Aurora ski resort in Skifry, Canada. [Refraction Sports](/Proteus/Refraction_Sports.qmd) are planning to hold a televised event next year at the Aurora. They want these deaths to stop.
+
+## What is going on?
+
+Keep the information in this section unknown to the players unless you want to drop them straight into the action. 
+
+An abandoned radio tower outpost in the mountains has been taken over by the [Cult of Skyuss](/Gaia/Skyuss.qmd).
+They are an extreme branch of Gaians.
+They are breeding worms and experimenting on their use.
+
+The Deacon (Anne Lida) has been testing out the Aurora generator which attracts and enrages the snow worms,
+This has lead to the deaths of skiers, and snowboarders.
+They plan to grow snow worms and unleash a plague of them on the world.
+
+To successfully stop these attacks the team will need to figure out what is going on and Kill Anne Lida, a Deacon of Skyuss.
+
+## Reward
+
+Aurora diamond sword (1D6+1 DAMAGE, VALUABLE)
+
+__VALUABLE__ weapon tag: Utterly unique in history or make. Can be used as a bargaining chip in almost any situation.
+
+## Consequences
+
+If the cult is not stopped they will grow and appear in other areas across the globe. This will start with cold climes but spread to everywhere else if not stopped.
+
+Snow worms have frequented these mountain ranges for centuries. Without the cults' influence the snow worms will not be able to escape these mountain tops as the underground hot springs restrict their range (see more below).
+Their population will stay low and they will mostly hunt larger game (bears, moose etc).
+
+## Intel gatheirng
+
+Our FIST team will need to figure out what is going on. They can do a lot of intel gathering at the Aurora. I also encourage you to make up other stuff based on the suggestions of your players.
+
+### The Aurora
+
+The Aurora is a ski resort run by the Daman family. 
+The main building is a post-modern brutalism building of concrete and colour.
+The Damans have been told to accommodate the team and help with intel gathering.
+
+Some possible clues include:
+
+- Security guards: Know the locations and dates of skier and snowboarder deaths. Each was skiing/snowboarding in the dark before found dead. Some bodies were not found at all.
+- Dotters of Nyxmera stargaze every night on top of resort building. They have noticed localised Auroras. Many match nights when people went missing/found dead.
+
+The team can freely rent use snow mobiles (3 HP, 2 ARMOR) and other skiing/snowboarding gear provided by The Aurora during the mission.
+
+### Skifry
+
+Skifry is a secluded mountain town with a logo of a purple dragon bathed by the aurora.
+The town was founded in these mountains due to the underground hot spring acting a natural way to heat the town and produce electricity.
+Unfortunately, the underground hot spring are also the reason the cryophilic snow worms can so easily survive the cold climate here.
+
+The Aurora makes use of the hot water and citizens of Skifry.
+
+Some possible clues include:
+
+- Library at city hall: News articles about a radio tower abandoned in the 30s due to unexplained animal attacks.
+- Recruiters for cult: Will try to recruit the players to the cult. They are careful and coy as they are currently normal humans.
+- Hospital & morgue: Recent body of a victim.
+- Indigenous centre: The resident story teller has the following story if asked about tales of worms.
+  - The native Waawate & Icelandic Jokla were a warlock pair of great power. They vanquished the mighty ice worm. Waawate summoned the Northern lights to attract the beast. Then Jokla encased it in ice.
+- Strange shopper: A strange very wrapped up individual (Mutated cultists of Skyuss) going into the food store to buy a lot of meat, potatoes, and canned food.
+
+
+## Outpost
+
+Feel free to use the below, edit it, or make your own. Enemy stats and items are here: [Cult of Skyuss](/Gaia/Skyuss.qmd).
+
+The Cult of Skyuss' outpost is an abandoned radio tower within a forest a mile above the ski slopes, on top of a ridge. An old road leads to it but otherwise snow mobiles can be used to reach the outpost.
+
+The outpost is a square concrete 2 floor building with an inner outdoor square dominated by a radio tower.  The outpost is surrounded by a barbed wire topped fence with gate. Its insides and outside are littered with detritus and garbage. There is little else so the cult can make the place look abandoned.
+
+Inside is a buzz of activity and kept very hot with many radiators. A garage is connected to the main building which contains a large SUV (8 HP, 1 ARMOR).
+
+### Lower floor
+
+The lower floor contains 6 rooms with one hallway touching the inner walls. The rooms only connect to the hallway (except one stair case). A couple Mutated cultists of Skyuss patrol the hall and rooms.
+
+When entering a room use a D6 to determine which room it is from below. Ensure there is only one of each of the 6 rooms.
+
+  1. Room with stairs that lead to the next floor's hallway.
+  2. Incubation room with 3 Incubators of Skyuss.
+  3. Incubation room with 2 Incubators of Skyuss.
+  4. Recreation room with a table with some cards.
+  5. Cult of Skyuss prayer room. Books about the worm eating the planet and Gaian philosophy books.
+  6. Boiler room: If boiler is disabled the cultists will desperately try to fix as the cold will slow them down and harm them if cold enough.
+
+### Upper floor
+
+The upper floor contains 6 rooms with a hallway touching the outer walls. The rooms only connect to the hallway (except one way into the radio tower). 4 Mutated cultists of Skyuss patrol the halls and rooms, keeping an eye out on the outside via large windows. Another 4 Mutated cultists of Skyuss are awake but on break in rooms.
+
+When entering a room use a D6 to determine which room it is from below. Ensure there is only one of each of the 6 rooms.
+
+  1. This room has a door that leads to a walkway with a ladder up to the radio tower room.
+  2. Sleeping quarters: 4 sleeping mutated cultists of Skyuss.
+  3. Recreation room: tables for cards, sofas and tv, and a library. Contains a book on paranormal creatures.
+  4. Kitchen: First aid spray present (heal 1D6, consumable)
+  5. Makeshift armoury: M1 Thompson submachine gun (1D6 damage) & 1 combat helmet (1 ARMOR, accessory) present
+  6. Research room: A place where the deacon experiments on worms. Notes on snow worms and altered cultists are present. Also 2 Ultrasonic harmonic frequency grenades.
+
+### Radio tower room
+
+This is a warm room where the Deacon of Skyuss orchestrates plans and controls their Aurora generator. It contains the radio tower controls and a ceiling hatch leading to the top of the tower.
+
+The deacon's aurora generator is mounted on the top of the tower. Accessible by a metal ladder.
+
+## Worm attacks
+
+If Anne Lida (Deacon) has activated the aurora generator, every time a Juvenile Snow Worm appears roll a D6 to determine which room in the lower floor they emerge into. There are a total of 4 Juvenile Snow Worms that will appear. The generator can be turned off or broken to cause the worms to dig away.
+
+If all 4 Juvenile Snow Worms appear the single living Adult Snow Worm will appear attacking worms then humans. 
+The cult have been finding its eggs for their breeding program.

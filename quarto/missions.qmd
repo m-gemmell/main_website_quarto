@@ -5,4 +5,9 @@ editor:
     wrap: sentence
 ---
 
+This section contains various missions. A list of the missions is below:
+
+[__POPS: Possible Oil Pipe Sabotage__](/Missions/M-POPS.qmd): Either side with Kraken to prevent an oil pipe sabotage of TAG to do the sabotaging.
+
+[__AWE: Auroras & Worm Eradications__](/Missions/M-AWE.qmd): A Refraction Sports event may be stopped due to skiers and snowboarders being found eaten by beasts. Found out what's going on and stop it.
 

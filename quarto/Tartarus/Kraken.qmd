@@ -5,6 +5,8 @@ editor:
     wrap: sentence
 ---
 
+![](images/Kraken.png){width=30% fig-align="center"}
+
 Kraken is a large energy and mining corporation. They deal in oil and nuclear power. They also mine for oil, nuclear ores, metal ores, and gems. The CEO is Marian Dullcoin (Elder Dotter of Tartarus).
 
 ### Kraken security guard {#kraken_guard}
