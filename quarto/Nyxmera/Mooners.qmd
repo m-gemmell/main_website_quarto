@@ -1,0 +1,8 @@
+---
+title: "Mooners"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+Two major man made cities are on the moon. These were primarily first colonised by the refugees from Japan due to the end of WW2.

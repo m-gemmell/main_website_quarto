@@ -1,5 +1,5 @@
 ---
-title: "Overview"
+title: "Primeval Deities"
 editor: 
   markdown: 
     wrap: sentence
@@ -7,6 +7,22 @@ editor:
 ![](images/primeval_deities.png){width=50% fig-align="center"}
 
 This is a website to host faction information of the Primeval deities for the FIST RPG. It is a work in progress. Text and images created by Matthew R. Gemmell except for for some FIST content.
+
+There are four factions, each led by a Primeval deity; [Nyxmera](nyxmera.qmd), [Tartarus](tartarus.qmd), [Proteus](proteus.qmd), and [Gaia](gaia.qmd).
+They compete and collaborate in various ways.
+Importantly each faction is not united and there are many sub factions with various goals and aims.
+
+Please use these materials as you would like.
+You can be completely loyal and base your world on the [alternate history](/history.qmd) of this earth.
+You can add the factions into your world and use some of my [missions](missions.qmd).
+You can use various stat blocks such as the [Tartarus raider](/Tartarus/DOT_raiders.qmd#raider) and reskin them as one of your factions.
+Use the contents as you will in your own game.
+
+## Contact
+
+If you would like to contact me you can donate and private message me on Ko-fi with your contact details (you can donate a min of £1):
+
+<iframe id='kofiframe' src='https://ko-fi.com/waveofinspiration/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='waveofinspiration'></iframe>
 
 ## License {.unnumbered}
 

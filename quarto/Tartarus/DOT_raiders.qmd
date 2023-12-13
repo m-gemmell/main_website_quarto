@@ -7,11 +7,11 @@ editor:
 
 Settlements of people who live in the DOT. They raid the surface for food and supplies. May also free modern day slaves and carry out prison breaks.
 
-### Tartarus raider {#raider}
+### TARTARUS RAIDER {#raider}
 
-(3 HP, 3D6 appear)
+(3 HP, 2D6 appear)
 
-- M1911 pistol (1D6 DAMAGE)
+- [M1911](https://en.wikipedia.org/wiki/M1911_pistol) pistol (1D6 DAMAGE)
 - Obsidian blade (1D6 DAMAGE)
 - Thunderstick, explosive throwing spear (1D6 + 2 DAMAGE, ANTI-MATERIAL, 1 use)
 - Scrap armor (1 ARMOR)
@@ -21,7 +21,29 @@ __HIT-AND-RUN:__ Raider war cries act as a harbinger of destruction. After a rap
 
 ***
 
-### Tartarus fire warriors {#fire_warrior}
+### TARTARUS MUTANT {#tartarus_ghoul}
+
+(5 HP)
+
+- [MAS-36](https://en.wikipedia.org/wiki/MAS-36_rifle) bolt-action rifle (1D6+1 DAMAGE)
+- Tattered clothing barely covering their portfolio of scars
+- Faint blue/green glow from their veins
+- No two mutants are the same, the below mutations are left vague for the referee's and/or players' imagination to fill
+
+__ADAPTED:__ These were once normal humans who lived in the settlements of the DOT. They have survived longer than most and so have been mutated from the pervasive chemicals and radiation. When one appears roll 2D6 to determine which of the two following mutations they have (reroll duplicates).
+
+1. Exoskeleton (2 ARMOR)
+2. Lethal arms (1D6 + 1 DAMAGE)
+3. Powerful strides and jumps
+4. Enhanced sense
+5. Extra appendage
+6. TARTARUS MUTANT gets a total of 3 of the other options
+
+__MELTDOWN (BOSS MOVE):__ As a last resort and with a well choreographed lead up the TARTARUS MUTANT can cause itself to explode. It dies whilst dealing 2D6 DAMAGE to everything within 20 feet.
+
+***
+
+### TARTARUS FIRE WARRIORS {#fire_warrior}
 
 (6 HP)
 
@@ -36,7 +58,7 @@ __BURNT:__ These warriors have been wronged and fight for justice. They have lit
 
 ***
 
-### Tartarus magnetic slinger {#magnetic_slinger}
+### TARTARUS MAGNETIC SLINGER {#magnetic_slinger}
 
 (4 HP)
 
@@ -51,6 +73,6 @@ __VOLCANIC:__ Like a volcano this slinger is patient and difficult to detect whi
 
 ***
 
-### Scrapper {#scrapper}
+### SCRAPPER {#scrapper}
 
 TO BUILD: A mechanic who takes care of the cars and builds weapons with scraps. Can attack with their wrench and make various scrap based items during combat.
