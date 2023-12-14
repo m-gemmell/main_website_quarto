@@ -5,7 +5,7 @@ editor:
     wrap: sentence
 ---
 
-### Sun of Nyxmera {#sun_nyxmera}
+## SUN OF NYXMERA {#sun_nyxmera}
 
 (3 HP, CHOKE 3: Stare and applaud)
 
@@ -16,14 +16,12 @@ editor:
 
 __GAWKER:__ These followers of Nyxmera act as eyes of the deity and nothing more. They mindlessly consume content and go out of their way to witness danger. They will call in further Suns of Nyxmera if they see a dangerous event possibly causing further civilian casualties.
 
-***
-
-### Mouth of Nyxmera {#mouth_nyxmera}
+## MOUTH OF NYXMERA {#mouth_nyxmera}
 
 (3 HP, CHOKE 4: Escape from current situation and lie low)
 
-- Laser finger gun (worst of 2D6 DAMAGE)
-- Hard light shard (Teleport user to a pre designated place within 1 mile, 1 use,).
+- Laser finger gun (1D6 DAMAGE)
+- Hard light shard (Teleport user to a pre designated place within 1 mile, 1 use).
 - Very extravagant and bombastic
 - Outwardly Friendly to friends and aggressive to enemies
 

@@ -5,7 +5,7 @@ editor:
     wrap: sentence
 ---
 
-### Dotter of Tartarus {#dotter}
+### DOTTER OF TARTARUS {#dotter}
 
 (3 HP, CHOKE 4: Find the nearest hole to cower in)
 
@@ -19,7 +19,7 @@ __EXPLORER:__ These followers of Tartarus are always on the lookout for entrance
 
 ***
 
-### Elder Dotter of Tartarus {#elder_dotter}
+### ELDER DOTTER OF TARTARUS {#elder_dotter}
 
 (3 HP, CHOKE 4: Escape from current situation)
 
@@ -28,4 +28,4 @@ __EXPLORER:__ These followers of Tartarus are always on the lookout for entrance
 - Clean suits adorned with jewellery
 - Quick to defend their actions with the free market, meaning different things to capitalists and raiders
 
-__COVETOUS:__ Elder dotters are rich and powerful. Many are the CEOs of mining, fossil fuel, and nuclear companies on the surface and leaders of raiding settlements in the DOT. Whether they raid or capitalise others they will take the riches of Tartarus without laboring themselves. They are particularly fond of hoarding precious stones and metals. Their rock fists and armors are blessings from Taratarus that only they can manifest over their body and use.
+__COVETOUS:__ Elder dotters are rich and powerful. Many are the CEOs of mining, fossil fuel, and nuclear companies on the surface and leaders of raiding settlements in the DOT. Whether they raid or capitalise others they will take the riches of Tartarus without laboring themselves. They are particularly fond of hoarding precious stones and metals. Their rock fists and armors are blessings from Taratarus that they can manifest over their body and use.

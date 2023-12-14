@@ -7,7 +7,7 @@ editor:
 
 Settlements of people who live in the DOT. They raid the surface for food and supplies. May also free modern day slaves and carry out prison breaks.
 
-### TARTARUS RAIDER {#raider}
+## TARTARUS RAIDER {#raider}
 
 (3 HP, 2D6 appear)
 
@@ -19,9 +19,9 @@ Settlements of people who live in the DOT. They raid the surface for food and su
 
 __HIT-AND-RUN:__ Raider war cries act as a harbinger of destruction. After a rapid pillage they scarper off leaving any wounded behind. They never abduct living things. The literal definition of scrappy, they like to bicker between themselves over loot. Tartarus raiders are good drivers and only use their thundersticks on pursuing vehicles, not wanting to destroy any possible loot.
 
-***
+__ANTI-MATERIAL__ weapon tag: Deals double DAMAGE to vehicles and structures; cumbersome to carry around.
 
-### TARTARUS MUTANT {#tartarus_ghoul}
+## TARTARUS MUTANT {#tartarus_ghoul}
 
 (5 HP)
 
@@ -41,9 +41,7 @@ __ADAPTED:__ These were once normal humans who lived in the settlements of the D
 
 __MELTDOWN (BOSS MOVE):__ As a last resort and with a well choreographed lead up the TARTARUS MUTANT can cause itself to explode. It dies whilst dealing 2D6 DAMAGE to everything within 20 feet.
 
-***
-
-### TARTARUS FIRE WARRIORS {#fire_warrior}
+## TARTARUS FIRE WARRIORS {#fire_warrior}
 
 (6 HP)
 
@@ -56,23 +54,21 @@ __MELTDOWN (BOSS MOVE):__ As a last resort and with a well choreographed lead up
 
 __BURNT:__ These warriors have been wronged and fight for justice. They have little self preservation thinking their suits will prevent any dangerous burns. They are fiercely defensive of their allies and will attract aggro. Whilst a Tartarus fire warrior is alive and in combat, attacks to non Taratarus fire warriors have -1 DAMAGE.
 
-***
-
-### TARTARUS MAGNETIC SLINGER {#magnetic_slinger}
+## TARTARUS MAGNETIC SLINGER {#magnetic_slinger}
 
 (4 HP)
 
-- Long range gauss rifle, requires a bright and loud charge up time (1D6 + 2 DAMAGE, ARMOR PIERCING)
+- Long range gauss rifle, requires a bright and loud charge up time (1D6+2 DAMAGE, ARMOR PIERCING)
 - Tripwire grenade (1D6 + 1 DAMAGE, 1 use)
 - Smoke grenade (1 use)
 - Flare gun (3 uses)
 - Ghillie suit
 - Sluggish and cramped legs.
 
-__VOLCANIC:__ Like a volcano this slinger is patient and difficult to detect whilst dormant. However their weapon provides an obvious signal to their target a few seconds before they can fire. Will use their flare gun to call for backup or attract prey. 
+__VOLCANIC:__ Like a volcano this slinger is patient and difficult to detect whilst dormant. However their weapon provides an obvious signal to their target a few seconds before they can fire. Will use their flare gun to call for backup or attract prey.
 
-***
+__ARMOR-PIERCING__ weapon tag: Attacks with this weapon ignore ARMOR bonuses granted by physical means.
 
-### SCRAPPER {#scrapper}
+## SCRAPPER {#scrapper}
 
 TO BUILD: A mechanic who takes care of the cars and builds weapons with scraps. Can attack with their wrench and make various scrap based items during combat.

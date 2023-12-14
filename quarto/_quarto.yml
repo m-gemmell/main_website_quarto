@@ -62,6 +62,7 @@ website:
         - href: nyxmera.qmd
         - href: Nyxmera/Followers.qmd
         - href: Nyxmera/Troops.qmd
+        - href: Nyxmera/Camera_Obscura.qmd
         - href: Nyxmera/Mooners.qmd
         - href: Nyxmera/Starvatars.qmd
     - id: Tartarus
@@ -101,6 +102,7 @@ website:
         - href: Missions/M-POPS.qmd
         - href: Missions/M-DEBT.qmd
         - href: Missions/M-AVOW.qmd
+        - href: Missions/M-FAIR.qmd
         - href: Missions/M-AWE.qmd
         - href: Missions/M-TIDY.qmd
     - id: Catalog
@@ -114,6 +116,11 @@ website:
 #Format
 format:
   html:
+    grid:
+      sidebar-width: 250px
+      body-width: 1000px
+      margin-width: 150px
+      gutter-width: 1.5em
     theme: 
     - styles.scss
     mainfont: Lexend

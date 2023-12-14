@@ -1,0 +1,88 @@
+project:
+  type: book
+
+book:
+  title: Intro to Linux
+  author: Matthew R. Gemmell
+  date: 29 Nov 2023
+  favicon: figures/NEOF_favicon.png
+  description: NEOF book for the Introduction to command line bioinformatics workshop
+  sidebar:
+    logo: figures/neof_small_logo.png
+    logo-href: "https://neof.org.uk/"
+    style: "docked"
+    collapse-level: 3
+  
+  
+  
+  
+  chapters:
+  - part: Start
+    chapters:
+    - index.qmd
+  - part: Part 1
+    chapters:
+    - 01-Linux_Introduction.qmd
+    - 02-Starting.qmd
+    - 03-Directories_and_Files.qmd
+    - 04-Tips_and_tricks.qmd
+    - 05-Manipulating_directories.qmd
+    - 06-Exercise1.qmd
+  - part: Part 2
+    chapters:
+    - 07-File_reading_and_processing.qmd
+    - 08-Recap.qmd
+    - 09-Fastq.qmd
+    - 10-Exercise2.qmd
+  - part: Advanced topics
+    chapters:
+    - 11-Advanced_linux_practice.qmd
+    - 12-Advanced_practice_exercise.qmd
+    - 13-Bioinformatica_languages.qmd
+  - part: Answers
+    chapters:
+    - 14-Answers.qmd
+  appendices:
+    - 15-Appendix.qmd
+
+bibliography: references.bib
+
+
+knitr:
+#Change colour, border, and text of code chunks
+#Check style.css for .Rchunk
+#https://stackoverflow.com/questions/65627531/change-r-chunk-background-color-in-bookdown-gitbook
+#https://bookdown.org/yihui/rmarkdown-cookbook/chunk-styling.html
+#quarto knitr options
+#https://quarto.org/docs/computations/execution-options.html#knitr-options
+  opts_chunk:
+    class.source: "Rchunk"
+
+format:
+  html:
+    top-level-division: section
+    numbersections : true
+    toc: true
+    toc-location: left
+    toc-title: In this chapter
+    #Page layout
+    page-layout: full
+    grid:
+      sidebar-width: 300px
+      body-width: 1000px
+      margin-width: 0px
+      gutter-width: 1.5em
+    theme: cosmo
+    css:
+    - style.css
+    - include/webex.css
+    include-after-body: include/webex.js
+  pdf:
+    documentclass: scrreprt
+    
+
+
+#Font
+mainfont: Lexend
+monofont: Fira Mono
+editor: source
