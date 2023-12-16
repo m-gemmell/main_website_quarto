@@ -5,7 +5,7 @@ editor:
     wrap: sentence
 ---
 
-### DOTTER OF TARTARUS {#dotter}
+## DOTTER OF TARTARUS {#dotter}
 
 (3 HP, CHOKE 4: Find the nearest hole to cower in)
 
@@ -17,9 +17,7 @@ editor:
 
 __EXPLORER:__ These followers of Tartarus are always on the lookout for entrances to the DOT, possible mining sites, and the enslaved to free. They seem to appear from nowhere and will interrogate anyone they see. They will follow the interrogatee, being near impossible to lose, until their questions have been answered.
 
-***
-
-### ELDER DOTTER OF TARTARUS {#elder_dotter}
+## ELDER DOTTER OF TARTARUS {#elder_dotter}
 
 (3 HP, CHOKE 4: Escape from current situation)
 

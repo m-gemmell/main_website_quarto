@@ -22,7 +22,7 @@ Use the contents as you will in your own game.
 
 If you would like to contact me you can donate and private message me on my [Ko-fi](https://ko-fi.com/waveofinspiration) with your contact details (you can donate a min of £1):
 
-<p align="center"><iframe id='kofiframe' src='https://ko-fi.com/waveofinspiration/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:50%;padding:0px' height='650' title='waveofinspiration'></iframe>
+<p align="center"><iframe id='kofiframe' src='https://ko-fi.com/waveofinspiration/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:0px' height='650' title='waveofinspiration'></iframe>
 
 ## License {.unnumbered}
 

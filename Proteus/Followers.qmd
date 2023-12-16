@@ -5,7 +5,7 @@ editor:
     wrap: sentence
 ---
 
-### PROTEAN {#protean}
+## PROTEAN {#protean}
 
 (3HP, CHOKE 5: Find the nearest source of water to submerge in)
 
@@ -16,7 +16,7 @@ editor:
 
 __CALM:__ Proteans are naturally calm individuals. They are easy going and very agreeable. However, they don't like dry places and tend to congregate where it is wet or humid. Most are natural born sailors and rowers.
 
-### PROTEAN CAPTAIN {#protean_captain}
+## PROTEAN CAPTAIN {#protean_captain}
 
 (3 HP, CHOKE 6: Yell commands at others who will be compelled to obey)
 

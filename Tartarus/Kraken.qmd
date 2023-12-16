@@ -9,7 +9,7 @@ editor:
 
 Kraken is a large energy and mining corporation. They deal in oil and nuclear power. They also mine for oil, nuclear ores, metal ores, and gems. The CEO is Marian Dullcoin (Elder Dotter of Tartarus).
 
-### Kraken security guard {#kraken_guard}
+## KRAKEN SECURITY GUARD {#kraken_guard}
 
 (4 HP, 2 appear)
 
@@ -25,9 +25,7 @@ __SAFETY BUDDIES:__ Two guards make a whole. For security they are each given ha
 
 __BIOLOGICAL__ weapon trait: Only damages biological beings. Cannot damage structures, vehicles, or chemicals. 
 
-***
-
-### Kraken private contractor {#kraken_contractors}
+## KRAKEN PRIVATE CONTRACTOR {#kraken_contractors}
 
 (4 HP, 1D6 appear)
 

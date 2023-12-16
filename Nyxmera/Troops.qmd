@@ -5,7 +5,7 @@ editor:
     wrap: sentence
 ---
 
-### NYXMERA TROOPER {#nyxmera_tropper}
+## NYXMERA TROOPER {#nyxmera_tropper}
 
 (3 HP, 2D6 appear)
 
@@ -16,7 +16,7 @@ editor:
 
 __DUALITY:__ These troopers embody the day and night extremes of Nyxmera. They will shoot allies and enemies alike with their laser rifles. When dealing damage with these they harm the target on even totals and heal the target on odd totals. Normally the referee will choose which die to use. However, if a player adds one or more WAR DICE they choose which single dice to remove from the DAMAGE.
 
-### NYXMERA LIGHT TROOPER {#nyxmera_light_tropper}
+## NYXMERA LIGHT TROOPER {#nyxmera_light_tropper}
 
 (3 HP, 1D6 appear)
 
@@ -31,7 +31,7 @@ __STEADFAST:__ These heavy troopers stand strong against the dark. They routinel
 __Hardlight wall generator__ weapon: A heavy 2 handed device that can create a 2 ARMOR 5 foot tall by 10 foot wide hard light wall projection 10 feet in front of the device. It must be continuously fired whilst the user is illuminated. Due to the weight of the hard light the wall must be kept on the ground for normal humans. The hard light is frictionless and so can be moved slowly by the user.
 
 
-### NYXMERA DARk TROOPER {#nyxmera_dark_trooper}
+## NYXMERA DARk TROOPER {#nyxmera_dark_trooper}
 
 (6 HP)
 

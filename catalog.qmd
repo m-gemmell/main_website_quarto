@@ -28,7 +28,7 @@ editor:
     - [Tartarus magnetic slinger](/Tartarus/DOT_raiders.qmd#magnetic_slinger)
     - [Scrapper](/Tartarus/DOT_raiders.qmd#scrapper)
   - Kraken
-    - [Kraken security guards](/Tartarus/Kraken.qmd#kraken_guard)
+    - [KRAKEN SECURITY GUARDS](/Tartarus/Kraken.qmd#kraken_guard)
     - [Kraken private contractors](/Tartarus/Kraken.qmd#kraken_contractors)
   - Taloes
     - [Metal Ore Talos](/Tartarus/Taloes.qmd#ore_talos)

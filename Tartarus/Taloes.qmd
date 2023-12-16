@@ -5,9 +5,9 @@ editor:
     wrap: sentence
 ---
 
-Taloes (singula [talos](https://en.wikipedia.org/wiki/Talos)) of Tartarus are made from the bounties of Tartarus. They generally consist of local resources.
+Taloes (singular = [talos](https://en.wikipedia.org/wiki/Talos)) of Tartarus are made from the bounties of Tartarus. They generally consist of local resources.
 
-### Metal Ore Talos (11 HP) {#ore_talos}
+## METAL ORE TALOS (11 HP) {#ore_talos}
 
 - Heavy machine gun (1D6+2 DAMAGE, UNSTABLE)
 - Warhammer (1D6+2 DAMAGE)
@@ -17,9 +17,7 @@ Taloes (singula [talos](https://en.wikipedia.org/wiki/Talos)) of Tartarus are ma
 
 __TOWER:__ It is a crude approximation of a human form made of dirt and local ores. Instead of legs, its body is a great pillar that can slowly shuffle over the ground. Although slow in movement they compensate with their unrelenting fire. If its enemies take cover it will slowly approach and destroy the cover with its warhammer dealing 2 DAMAGE from shrapnel to those behind it.
 
-***
-
-### Obsidian Lava Talos (6 HP) {#obsidian_talos}
+## OBSIDIAN LAVA TALOS (6 HP) {#obsidian_talos}
 
 - Obsidian arm blades (1D6+2 DAMAGE)
 - Obsidian lava spear (2D6 DAMAGE, talos takes one damage when used, 1 use)
@@ -27,17 +25,13 @@ __TOWER:__ It is a crude approximation of a human form made of dirt and local or
 
 __GLASSBLOWER:__ The true form of this talos is formless lava. The talos can change any lava that is part of it or touches it to obsidian of any shape. With this ability it creates an obsidian based skeleton, armor, and weapons. Additionally, it can change obsidian back into lava. 
 
-***
-
-### Lithium Talos (3 HP, 2D6 appear) {#litium_talos}
+## LITHIUM TALOSs (3 HP, 2D6 appear) {#litium_talos}
 
 - Explosive spit (1D6 DAMAGE)
 
 __CASCADE:__ These blobs of lithium like to hide in crevasses and behind rocks. They will wait till their prey are surrounded by them before attacking. When they die they explode for 3 DAMAGE, this may cause a cascade of explosions from all the Lithium taloes. Many cave-ins have been known to occur due to this.
 
-***
-
-### Radioactive Gem Talos (9 HP) {#rad_talos}
+## RADIOACTIVE GEM TALOS (9 HP) {#rad_talos}
 
 - Plasma rifle (2D6 DAMAGE, NUCLEAR-POWERED)
 - Power armor (2 ARMOR, NUCLEAR-POWERED)
@@ -45,4 +39,4 @@ __CASCADE:__ These blobs of lithium like to hide in crevasses and behind rocks. 
 
 __PROJECTION:__ A radioactive projection produced from a single gem at their core. Although the most human looking of all the taloes they are also the most terrifying. They give off constant nuclear radiation which they use to power their weapons and armor. Anyone within melee range gets -2 to action rolls and loses 1HP per action.
 
-__GEM:__ Their real body is their gem which has 3HP. If this is not destroyed the talos will reform in 1D6 days. Its gear is not part of its projection.
+__GEM:__ Their real body is their core which has 3HP. If this is not destroyed the talos will reform in 1D6 days. Its gear is not part of its projection.

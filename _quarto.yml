@@ -90,6 +90,7 @@ website:
       align: left
       contents:
         - href: proteus.qmd
+        - href: Proteus/Followers.qmd
         - href: Proteus/Triton_n_Delta.qmd
         - href: Proteus/Refraction_Sports.qmd
         - href: Proteus/Pumice_construction_ltd.qmd

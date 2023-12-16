@@ -16,7 +16,7 @@ All Starvatars of Nyxmera look nearly identical except for their heads. These ar
 
 Powerful Starvatars can create temporary structures made of hard light
 
-## Stavatar of Nyxmera {#starvatar}
+## STARVATAR {#starvatar}
 
 (9 HP)
 
@@ -26,7 +26,9 @@ Powerful Starvatars can create temporary structures made of hard light
 
 __SHADOWMAKER:__ The star avatar’s body is that of the night sky. The shape of its head matches the mythology of the star or constellation it comes from. Upon this head is one eye made from the light of its star. It casts a great light from its eye and body. However shadows caused by this are irrationally dark and cannot be illuminated by other lights.
 
-## Purple Moon of Nyxmera
+## PURPLE MOON OF NYXMERA
+
+UNDER CONSTRUCTION
 
 - 
 - A humanoid of night sky larger than a blue whale.

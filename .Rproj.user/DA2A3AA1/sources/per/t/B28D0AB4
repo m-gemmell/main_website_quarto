@@ -1,27 +1,27 @@
 {
-    "id": "228CBC26",
-    "path": "F:/Git/PRIMEVAL_DEITIES/gaia.qmd",
-    "project_path": "gaia.qmd",
+    "id": "B28D0AB4",
+    "path": "F:/Git/PRIMEVAL_DEITIES/Gaia/TAG.qmd",
+    "project_path": "Gaia/TAG.qmd",
     "type": "quarto_markdown",
-    "hash": "2241306971",
+    "hash": "627645283",
     "contents": "",
     "dirty": false,
-    "created": 1702634932239.0,
+    "created": 1702747191721.0,
     "source_on_save": false,
     "relative_order": 3,
     "properties": {
         "rmdVisualMode": "false",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "7,0",
-        "scrollLine": "0"
+        "cursorPosition": "83,112",
+        "scrollLine": "30"
     },
     "folds": "",
-    "lastKnownWriteTime": 1702219583,
+    "lastKnownWriteTime": 1702747254,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1702219583,
+    "last_content_update": 1702747254844,
     "read_only": false,
     "read_only_alternatives": []
 }

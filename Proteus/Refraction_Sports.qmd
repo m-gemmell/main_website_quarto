@@ -7,9 +7,11 @@ editor:
 
 A sports company specialising in snow and water sports. This company, its competitors, and fans consist of many Suns of Nyxmera and Proteans. It combines the go with the flow of these sports with the exhilarating voyeurism.
 
-### Protean Surfer (3 HP, CHOKE 6: Irreversibly change into a puddle of water)
+## PROTEAN SURFER 
 
-NEEDS COMPLETEING
+(3 HP, CHOKE 6: Irreversibly change into a puddle of water)
+
+UNDER CONSTRUCTION
 
 - Bottle of Holy water (1 use)
 - Sunglasses and Surfer necklace
@@ -17,9 +19,11 @@ NEEDS COMPLETEING
 
 __GAWKER:__ These followers of Nyxmera act as eyes of the deity and nothing more. They mindlessly consume content and go out of their way to witness danger. They will call in further Suns of Nyxmera if they see a dangerous event possibly causing further civilian casualties.
 
-### Protean Snowboarder (3 HP, CHOKE 6: Collapse into a snowball)
+## PROTEAN SNOWBOARDER
 
-NEEDS COMPLETEING
+(3 HP, CHOKE 6: Collapse into a snowball)
+
+UNDER CONSTRUCTION
 
 - Bottle of Holy water (1 use)
 - Sunglasses and Surfer necklace
