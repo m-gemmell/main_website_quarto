@@ -25,7 +25,7 @@ __TOWER:__ It is a crude approximation of a human form made of dirt and local or
 
 __GLASSBLOWER:__ The true form of this talos is formless lava. The talos can change any lava that is part of it or touches it to obsidian of any shape. With this ability it creates an obsidian based skeleton, armor, and weapons. Additionally, it can change obsidian back into lava. 
 
-## LITHIUM TALOSs (3 HP, 2D6 appear) {#litium_talos}
+## LITHIUM TALOS (3 HP, 2D6 appear) {#litium_talos}
 
 - Explosive spit (1D6 DAMAGE)
 

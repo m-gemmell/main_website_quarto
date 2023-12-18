@@ -21,19 +21,20 @@ editor:
 - Tartarus
   - Followers
     - [Dotter of Tartarus](/Tartarus/Followers.qmd#Dotter)
-    - [Elder Dotter of Tartarus](/Tartarus/Followers.qmd#elder_dotter)
+    - [ELDER DOTTER OF TARTARUS](/Tartarus/Followers.qmd#elder_dotter)
   - DOT raiders
-    - [Tartarus raider](/Tartarus/DOT_raiders.qmd#raider)
-    - [Tartarus fire warriors](/Tartarus/DOT_raiders.qmd#fire_warrior)
-    - [Tartarus magnetic slinger](/Tartarus/DOT_raiders.qmd#magnetic_slinger)
+    - [TARTARUS RAIDER](/Tartarus/DOT_raiders.qmd#raider)
+    - [TARTARUS MUTANT](/Tartarus/DOT_raiders.qmd#tartarus_mutant)
+    - [TARTARUS FIRE WARRIOR](/Tartarus/DOT_raiders.qmd#fire_warrior)
+    - [TARTARUS MAGNETIC SLINGER](/Tartarus/DOT_raiders.qmd#magnetic_slinger)
     - [Scrapper](/Tartarus/DOT_raiders.qmd#scrapper)
   - Kraken
     - [KRAKEN SECURITY GUARDS](/Tartarus/Kraken.qmd#kraken_guard)
     - [Kraken private contractors](/Tartarus/Kraken.qmd#kraken_contractors)
   - Taloes
-    - [Metal Ore Talos](/Tartarus/Taloes.qmd#ore_talos)
-    - [Obsidian Lava Talos](/Tartarus/Taloes.qmd#obsidian_talos)
-    - [Litihum Talos](/Tartarus/Taloes.qmd#litium_talos)
+    - [METAL ORE TALOS](/Tartarus/Taloes.qmd#ore_talos)
+    - [OBSIDIAN LAVA TALOS](/Tartarus/Taloes.qmd#obsidian_talos)
+    - [LITHIUM TALOS](/Tartarus/Taloes.qmd#litium_talos)
     - [Radiactive Gem Talos](/Tartarus/Taloes.qmd#rad_talos)
 - Gaia
   - TAG

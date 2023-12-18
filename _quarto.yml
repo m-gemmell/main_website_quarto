@@ -108,13 +108,22 @@ website:
       style: "floating"
       align: left
       contents:
-        - href: missions.qmd
-        - href: Missions/M-POPS.qmd
-        - href: Missions/M-DEBT.qmd
-        - href: Missions/M-AVOW.qmd
-        - href: Missions/M-FAIR.qmd
-        - href: Missions/M-AWE.qmd
-        - href: Missions/M-TIDY.qmd
+        - section: "Intro"
+          contents:
+            - href: missions.qmd
+        - section: "Dilemmas"
+          contents:
+            - href: Missions/M-AVOW.qmd
+            - href: Missions/M-DEBT.qmd
+            - href: Missions/M-FAIR.qmd
+            - href: Missions/M-POPS.qmd
+        - section: "Paranormal event"
+          contents:
+            - href: Missions/M-AWE.qmd
+            - href: Missions/M-DELVE.qmd
+        - section: "Bombastic"
+          contents:
+            - href: Missions/M-TIDY.qmd
     - id: Catalog
       title: "Catalog"
       style: "floating"

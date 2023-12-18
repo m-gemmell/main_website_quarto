@@ -21,7 +21,7 @@ __HIT-AND-RUN:__ Raider war cries act as a harbinger of destruction. After a rap
 
 __ANTI-MATERIAL__ weapon tag: Deals double DAMAGE to vehicles and structures; cumbersome to carry around.
 
-## TARTARUS MUTANT {#tartarus_ghoul}
+## TARTARUS MUTANT {#tartarus_mutant}
 
 (5 HP)
 

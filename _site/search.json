@@ -4,14 +4,14 @@
     "href": "catalog.html",
     "title": "Catalog",
     "section": "",
-    "text": "Nyxmera\n\nFollowers\n\nSun of Nyxmera\nMouth of Nyxmera\n\nTroops\n\nNyxmera trooper\nNyxmera Light Trooper\nNyxmera Dark Trooper\n\nStarvatars\n\nStarvatar of Nyxmera\n\n\nTartarus\n\nFollowers\n\nDotter of Tartarus\nElder Dotter of Tartarus\n\nDOT raiders\n\nTartarus raider\nTartarus fire warriors\nTartarus magnetic slinger\nScrapper\n\nKraken\n\nKraken security guards\nKraken private contractors\n\nTaloes\n\nMetal Ore Talos\nObsidian Lava Talos\nLitihum Talos\nRadiactive Gem Talos\n\n\nGaia\n\nTAG\n\nTAG Protestor\nTAG Eco Fighter\nTAG Hacker\nTAG leader"
+    "text": "Nyxmera\n\nFollowers\n\nSun of Nyxmera\nMouth of Nyxmera\n\nTroops\n\nNyxmera trooper\nNyxmera Light Trooper\nNyxmera Dark Trooper\n\nStarvatars\n\nStarvatar of Nyxmera\n\n\nTartarus\n\nFollowers\n\nDotter of Tartarus\nELDER DOTTER OF TARTARUS\n\nDOT raiders\n\nTARTARUS RAIDER\nTARTARUS MUTANT\nTARTARUS FIRE WARRIOR\nTARTARUS MAGNETIC SLINGER\nScrapper\n\nKraken\n\nKRAKEN SECURITY GUARDS\nKraken private contractors\n\nTaloes\n\nMETAL ORE TALOS\nOBSIDIAN LAVA TALOS\nLITHIUM TALOS\nRadiactive Gem Talos\n\n\nGaia\n\nTAG\n\nTAG Protestor\nTAG Eco Fighter\nTAG Hacker\nTAG leader"
   },
   {
     "objectID": "catalog.html#link-to-all-units",
     "href": "catalog.html#link-to-all-units",
     "title": "Catalog",
     "section": "",
-    "text": "Nyxmera\n\nFollowers\n\nSun of Nyxmera\nMouth of Nyxmera\n\nTroops\n\nNyxmera trooper\nNyxmera Light Trooper\nNyxmera Dark Trooper\n\nStarvatars\n\nStarvatar of Nyxmera\n\n\nTartarus\n\nFollowers\n\nDotter of Tartarus\nElder Dotter of Tartarus\n\nDOT raiders\n\nTartarus raider\nTartarus fire warriors\nTartarus magnetic slinger\nScrapper\n\nKraken\n\nKraken security guards\nKraken private contractors\n\nTaloes\n\nMetal Ore Talos\nObsidian Lava Talos\nLitihum Talos\nRadiactive Gem Talos\n\n\nGaia\n\nTAG\n\nTAG Protestor\nTAG Eco Fighter\nTAG Hacker\nTAG leader"
+    "text": "Nyxmera\n\nFollowers\n\nSun of Nyxmera\nMouth of Nyxmera\n\nTroops\n\nNyxmera trooper\nNyxmera Light Trooper\nNyxmera Dark Trooper\n\nStarvatars\n\nStarvatar of Nyxmera\n\n\nTartarus\n\nFollowers\n\nDotter of Tartarus\nELDER DOTTER OF TARTARUS\n\nDOT raiders\n\nTARTARUS RAIDER\nTARTARUS MUTANT\nTARTARUS FIRE WARRIOR\nTARTARUS MAGNETIC SLINGER\nScrapper\n\nKraken\n\nKRAKEN SECURITY GUARDS\nKraken private contractors\n\nTaloes\n\nMETAL ORE TALOS\nOBSIDIAN LAVA TALOS\nLITHIUM TALOS\nRadiactive Gem Talos\n\n\nGaia\n\nTAG\n\nTAG Protestor\nTAG Eco Fighter\nTAG Hacker\nTAG leader"
   },
   {
     "objectID": "Gaia/Skyuss.html",
@@ -26,6 +26,34 @@
     "title": "TAG: The Arrows of Gaia",
     "section": "",
     "text": "Climate change and environmental destructions are existential threats to all life on earth. TAG are an organisation of eco warriors. Primarily they carry out peaceful protests and other activities that benefit the environment.\nTheir slogan is “you’re it” . ON one hand referring to those they are targeting or will target next. And on the other a call of action for everyone else to join the environmental fight.\nSome members form more radical groups that sabotage environmentally damaging facilities such as oil pipes, chemical production companies, etc."
+  },
+  {
+    "objectID": "Gaia/TAG.html#tag_protestor",
+    "href": "Gaia/TAG.html#tag_protestor",
+    "title": "TAG: The Arrows of Gaia",
+    "section": "TAG PROTESTOR",
+    "text": "TAG PROTESTOR\n(3 HP, CHOKE 5: Scatter and hide)\n\nPlacard & leaflets\nUnassuming clothing with a cap\nSnacks and drinks\nLoud and proud\n\nCONVICTED: Many protesters have been previously imprisoned for their convictions. They can be majorly disruptive but people will only deal with them if given orders they can’t refuse. A touch from a group of protesters will cause most to join the protest. Many that join this way leave with a very foggy memory of it all."
+  },
+  {
+    "objectID": "Gaia/TAG.html#tag_fighter",
+    "href": "Gaia/TAG.html#tag_fighter",
+    "title": "TAG: The Arrows of Gaia",
+    "section": "TAG ECO FIGHTER",
+    "text": "TAG ECO FIGHTER\n(4 HP, 1D6 appear)\n\nWinchester Model 1200 Pump-action shotgun (1D6+1 DAMAGE)\nMolotov cocktail (1D6 DAMAGE, one use)\nHunting apparel with backpack\nBinoculars\nNormal men and women who look like hunters\nSigns of damage by industrial exploitation\n\nJUSTIFIED: Eco warriors stand up for what is right. They have been harmed by industrial chemicals or machines. With nothing left they will put down their lives to ensure life will continue. They will never surrender, either fighting till the end or retreating to fight another day. Intimidation tactics never work of eco warriors."
+  },
+  {
+    "objectID": "Gaia/TAG.html#tag_hacker",
+    "href": "Gaia/TAG.html#tag_hacker",
+    "title": "TAG: The Arrows of Gaia",
+    "section": "TAG HACKER",
+    "text": "TAG HACKER\n(5 HP)\n\nPB silenced pistol (1D6 DAMAGE)\nHacker’s axe (1D6+1 DAMAGE, ELECTRIFIED)\nConcealed bullet resistant vest (1 ARMOR)\nHard helmet (accessory)\nFloppy disk wallet (5 uses)\nPhreak whistle\nMobile phone and voice changer\nLumberjack attire\n\nHACKED-OFF: Society is all a farce! A game this hacker now knows how to play. Incredible skills in hacking computers, phone lines, and social situations make them perfect agents for TAG. However, they must be kept on a short leash as they don’t hack for what is right but rather because they have been wronged. Hackers will quickly changed side if given enough incentives in finances, safety, and comfortability.\nELECTRIFIED weapon tag: Deals double DAMAGE to robots and other complex machines. Shorts out running electronics and briefly electrifies bodies of water.\nFloppy disk wallet item: Contains 5 floppy disks. Each disk is consumed when used to try to hack a computer system with a floppy disk input. Each disk has a single word indicating its effect; Ransom ware, Decrypt, Virus, Login, and Loop. The effect of each floppy disk is detremined by the circumstance, imagination of the players, result of relvant action roll, and the referee’s decision."
+  },
+  {
+    "objectID": "Gaia/TAG.html#tag_leader",
+    "href": "Gaia/TAG.html#tag_leader",
+    "title": "TAG: The Arrows of Gaia",
+    "section": "TAG LEADER",
+    "text": "TAG LEADER\n(6 HP)\n\nSteyr AUG assault rifle (1D6+1 DAMAGE)\nBlade of grass, sword (2D6 DAMAGE, RITUAL)\nTactical vest (1 ARMOR)\nEnchanted wood shield (2 ARMOR, equip as weapon)\nBlowing horn, calls forth the largest nearby land animals (1 use)\nLong flowing hair framing a beautiful face\nGentle but commanding voice\n\nTAMER: Able to keep TAG fighters in line this leader is vital to TAG violent activities. They can tame and enlarge multiple wild creatures of the same species with the blessing of Gaia. If the TAG Leader is killed or knocked unconscious the effect will immediately end.\nRITUAL weapon tag: Shatters to protect you from death once, negating lethal damage. Disintegrates afterwards."
   },
   {
     "objectID": "gaia.html",
@@ -84,18 +112,18 @@
     "text": "Preventing assasination\nFIST must stop the Camera Obscura shutterbugs. The players will be told by the Gaians when the assassinations will occur but have no further intel. The players can gather intel and should try to figure out who the shutterbugs are and their modes of assassination.\nThe team will be informed to not capture or stop the shutterbugs until each of their scheduled events. Otherwise an unknown less cautious backup shutterbug (NYXMERA DARK TROPPER) will appear in their place.\nThe team must do this covertly without the wedding guests, including the brides, realising what they are doing or that assassination attempts are occurring. The guards of the wedding have been told and will recognise and help the FIST team.\n\nRewards\nDepending on how well they accomplished the mission they will get up to 3 rewards. Some demerits include if they were spotted, and if they only saved one bride.\n\nWarhammer (1D6+1 DAMAGE, HEAVY, ROOTS)\n1D6 bulletproof vests (1 ARMOR)\nMedical supplies (1D6 medkits, +1D6+TAC HP)\n\nHEAVY weapon tag: This thing is too big to be called a weapon. Once per mission, take +3 on a FORCEFUL roll that involves this weapon.\nROOTS weapon tag: Once per mission, after hitting a target roots will explosively grow from the impact site. This can weaken cracked structures, bind objects or individuals together, and various other effects."
   },
   {
-    "objectID": "Missions/M-AVOW.html#carrying-out-assassination",
-    "href": "Missions/M-AVOW.html#carrying-out-assassination",
+    "objectID": "Missions/M-AVOW.html#carrying-out-the-assassinations",
+    "href": "Missions/M-AVOW.html#carrying-out-the-assassinations",
     "title": "AVOW: Assassinating the Veiled at the Opulent Wedding",
-    "section": "Carrying out assassination",
-    "text": "Carrying out assassination\nThe player team will get the chance to kill the brides in their nuptial bedroom. They must do this before they have started consummation of their marriage.\nHowever, they will also need to stop the 2 assassination attempts at the ceremony and dinner. Due to the Camera Obscura rules they cannot harm, kill, or kidnap the other “shutterbugs”.\nThe Camera Obscura client wants the assassination to occur at 1 of three times. They will not pay if it occurs outside of these times. Additionally, Camera Obscura will not pay shutterbugs who harm, kill, or kidnap any of the other guests as their are many rich and powerful people."
+    "section": "Carrying out the assassinations",
+    "text": "Carrying out the assassinations\nThe player team will get the chance to kill the brides in their consummation bedroom. They must do this before they have started consummation of their marriage.\nHowever, they will also need to stop the 2 assassination attempts at the ceremony and dinner. Due to the Camera Obscura rules they cannot harm, kill, or kidnap the other “shutterbugs”.\nThe Camera Obscura client wants the assassination to occur at 1 of three times. They will not pay if it occurs outside of these times. Additionally, Camera Obscura will not pay shutterbugs who harm, kill, or kidnap any of the other guests as there are many rich and powerful people.\n\nRewards\nDepending on how well they accomplished the mission they will get up to 3 rewards. Some demerits include if they broke Camera Obscura rules, and if they only killed one bride.\n\nSteyr SSG 69 bolt-action sniper rifle (1D6+2 DAMAGE, HUD)\nCombat knife (1D6 DAMAGE, LUCKY)\n1D6 smoke grenades & 1D6 frag grenades (1D6+1 DAMAGE)\n\nHUD weapon tag: Scans hostiles. When you kill something new, the referee will tell you a useful fact about it.\nLUCKY weapon tag: Rolling an ultra success while attacking with this weapon grants the user one WAR DIE."
   },
   {
-    "objectID": "Missions/M-AVOW.html#assassination-events",
-    "href": "Missions/M-AVOW.html#assassination-events",
+    "objectID": "Missions/M-AVOW.html#wedding-events",
+    "href": "Missions/M-AVOW.html#wedding-events",
     "title": "AVOW: Assassinating the Veiled at the Opulent Wedding",
-    "section": "Assassination events",
-    "text": "Assassination events\n\nRehearsal dinner\nNo assassination but a prime time for the players to carry out some intel gathering on the hired shutterbugs.\n\n\nCeremony\nKill them before they both put on their rings.\nTHE KING is using one of their personaes (Aurelia Blaine) to attend the wedding as an invited guest. They will steal River’s wedding ring and attempt to set their curse during the rehearsal dinner whilst they are entertaining and performing card tricks for the brides.\nClue: Players will overhear one of the bridesmaids saying they have lost River’s ring as they recruit help from the other bridesmaids.\nIf not stopped River and Ruby will turn into gold as Ruby puts River’s ring on.\n\n\nDinner\nKill them during the dinner. The dinner takes place in a large ball room with dining tables, a dance floor, and a stage with various bands and performances throughout the evening. The dinner will consists of the speeches followed by the main meal. This will be followed by cutting and eating of the cake which is followed by the first dance of the brides.\nThe designated shutterbug is THE ANTIDOTER. They have poisoned all the food with the first part of their poison and the entire wedding cake with the second part. They will die during their first dance. During the dinner the 2 brides will leave and a fog machine will go off before the dancing commences. This is the work of the antidoter and can act as a clue to what is going on.\n\n\nNuptials\nKill them in their nuptials bedroom before the wedding is consummated.\nIgnore the below shutterbugs if the players are carrying out the assassination. Team of assassins breach into guarded VIP building.\nThe last shutterbug is the THE SILHOUETTE. They will be parked a few miles away as they send in their 4 SILHOUETTE SHADOW CLONES to storm the private building on the mansion estate the recently married couple have as their night’s reprieve."
+    "section": "Wedding events",
+    "text": "Wedding events\nThe wedding is broken into several events. Only the Ceremony, Dinner, and Consummation will have an assassination attempt.\nAll the events take place on the estate grounds. No maps of the estate are given so you can create your own vision with the prompts in the below descriptions.\n\nRehearsal dinner\nThe rehearsal dinner takes place the evening before the actual wedding. It will be in the same ball room described in the Dinner section. No assassination will take place but it is a prime time for the players to carry out some intel gathering on the hired shutterbugs.\n\n\nCeremony\nThe ceremony takes place outside in a area flanked by the Ruby River and a rock garden full of beautiful geodes.\nTHE KING is using one of their personas (Aurelia Blaine) to attend the wedding as an invited guest. During the rehearsal dinner she will will steal River’s wedding ring. THE KING will attempt to set their curse on River and the wedding ring. They will entertain and perform card tricks for the brides to get close to them.\nClue: Players will overhear one of the bridesmaids saying they have lost River’s ring as they recruit help from the other bridesmaids.\nIf not stopped the couple will turn into gold as Ruby puts River’s ring on during the ceremony.\n\n\nFigure skating break\nAfter the ceremony the wedding party will move onto an outdoor skating rink. Here, River’s past and present skaters (all guests to the wedding) will provide an amazing show.\nAsk each of your players for a name of one of the skaters, then ask them for a name and description of a figure skating move. Give a WAR DIE to the player with the skater and move the table agrees is best.\n\n\nDinner\nThe dinner takes place in a large ball room dominated by a central large ornate water fountain sculpted from rock. On one side of the room lay the tables for the dinner. On the other is a large stage and dance floor.\nThe dinner will consist of the speeches followed by the main meal. The brides will then cut their wedding cake which will lead to their first dance.\nThe designated shutterbug is THE ANTIDOTER. They have poisoned all the food with the first part of their poison and the entire wedding cake with the second part.\nClue: During the dinner the 2 brides will leave and a fog machine will go off before the dancing commences. This is the work of the THE ANTIDOTER.\nIf not stopped the couple will die of heart attacks during their first dance.\n\n\nEntertainment\nAfter watching the first dance, the guests will join in the festivities with drinking and dancing. Various famous bands will play on the stage.\nUnsurprisingly, Ruby is a big fan of Rock and Metal bands. Ask your players for some fictional bands that will be performing. Give a WAR DIE to the player with band name the table agrees is the best.\n\n\nConsummation\nAt the end of the night the newly wedded couple will leave the ball room and go to their private building within the estate. This building is secluded on top of a rock outcropping. It is flanked by the river and surrounding forest. One side of the building is a large glass wall that overlooks the Ruby River.\nIf the players are assassinating they must do so after the couple have entered the building but before they have consummated the wedding. In this case the building is guarded by 4 KRAKEN SECURITY GUARDS. The team will succeed if they kill both brides and partially succeed if they kill at least one.\nIf the players are stopping the assassinations, the last shutterbug is the THE SILHOUETTE. They will be parked a few miles away as they send in their 4 SILHOUETTE SHADOW CLONES to storm the private building. The clones will try to stealthily enter but are not afraid to enter a gunfight. The team will succeed if they save both brides and partially succeed if they save at least one."
   },
   {
     "objectID": "Missions/M-AWE.html",
@@ -159,6 +187,34 @@
     "title": "DEBT: Drug Exchange on a Bridge Tonight",
     "section": "Mission",
     "text": "Mission\nDrug deal of holy water. Team will either represent Delta (Proteus) to sell the holy water to some Gaians. Drug deal on bridge outside some city. Gaians will sneakily try to pay less than agreed.\nThis will be disrupted by Tartarus vigilantes. They don’t imprison criminals, only disrupt, redeem or kill them."
+  },
+  {
+    "objectID": "Missions/M-DELVE.html",
+    "href": "Missions/M-DELVE.html",
+    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
+    "section": "",
+    "text": "UNDER CONSTRUCTION"
+  },
+  {
+    "objectID": "Missions/M-DELVE.html#mission",
+    "href": "Missions/M-DELVE.html#mission",
+    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
+    "section": "Mission",
+    "text": "Mission\nDue to an earthquake a new cave has appeared at the extinct volcano near the village Warboys, England. This cave has an entrance to the DOT and DOT raiders have recently ransacked the town.\nThe military are currently setting up a quarantine and building a protective wall around the cave. This takes time so they want the raider trouble taken care of at the source.\nThe team’s mission is to team up with THE SILHOUETTE and prevent further raids from occurring.\nThe real threat is that OBSIDIAN LAVA TALOES are currently trying to reawaken the extinct volcano. They have attacked the Raider settlement, preventing any interference."
+  },
+  {
+    "objectID": "Missions/M-DELVE.html#start-of-mission",
+    "href": "Missions/M-DELVE.html#start-of-mission",
+    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
+    "section": "Start of mission",
+    "text": "Start of mission\nThe players will drive through Warboy to see the devastation brought upon it by the DOT raiders. They will then be brought to the ad hoc base camp set up by the military. An unfriendly lieutenant will give a brief introduction to the situation and to THE SILHOUETTE who has also be hired by the military."
+  },
+  {
+    "objectID": "Missions/M-DELVE.html#the-expedition",
+    "href": "Missions/M-DELVE.html#the-expedition",
+    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
+    "section": "The Expedition",
+    "text": "The Expedition\nThe expedition is in 2 parts. First the players will control THE SILHOUETTE’s SILHOUETTE SHADOW CLONES investigating the DOT. The referee will act as THE SILHOUETTE coordinating the crew via radio. During this the players will each use the stats of a SILHOUETTE SHADOW CLONE. Each player will control a shadow clone and there will be 2 backup clones. When one clone dies allow the player to take over a backup clone. The clones will most likely die.\nOnce the clones have died, let your players agree as to which clone died in the coolest/funniest way. Reward that player a WAR DIE.\nIn the second part the players will go into the DOT to complete the mission. They will have all the intel from the clone’s incursion. Additionally, they will hopefully have less threats. They can also ask the military for some gear, this will require some good rolls and/or bargaining."
   },
   {
     "objectID": "Missions/M-FAIR.html",
@@ -235,7 +291,7 @@
     "href": "missions.html#paranormal-event",
     "title": "Missions",
     "section": "Paranormal event",
-    "text": "Paranormal event\nIn the below missions the team will have to investigate and stop a paranormal event. This may involve monster hunting, exploring strange places, or something completely different.\nAWE: Auroras & Worm Eradications. A Refraction Sports event may be stopped due to skiers and snowboarders being found eaten by beasts. Found out what’s going on and stop it."
+    "text": "Paranormal event\nIn the below missions the team will have to investigate and stop a paranormal event. This may involve monster hunting, exploring strange places, or something completely different.\nDELVE: DOT Expedition Leads to Vein Encounters. An new entrance to the DOT has opened. Investigate and stop further raids from occurring.\nAWE: Auroras & Worm Eradications. A Refraction Sports event may be stopped due to skiers and snowboarders being found eaten by beasts. Found out what’s going on and stop it."
   },
   {
     "objectID": "missions.html#bombastic",
@@ -264,6 +320,20 @@
     "title": "Camera Obscura",
     "section": "THE KING",
     "text": "THE KING\n(4 HP, CHOKE 2: Lifts midas touch curse and barters for mercy with pilfered goods)\n\nDeck of cards\nLock picking tools\nGreat sleight of hand and distraction skills\nCovered in pilfered jewellery\nWill not wear gold\nSimple but stylish dress\nReal identity is [\n\nCONCEITED: Their real identity is Queen Hermodike II/Damodice, the wife of King Midas. Turned into gold by her husband she was changed back by Nyxmera in the modern day. Their rage towards their late husband means they only target the rich and greedy. They are vain, prideful, and beautiful. Using a portfolio of personaes they have infiltrated into various upper social circles. They can’t help themselves from stealing jewellery and immediately wearing it. Their overbearing charisma stops the vast majority from questioning or confronting THE KING about this.\nMIDAS TOUCH (BOSS MOVE): They can imbue one gold item and one person with the Midas curse. THE KING must touch the gold and person at the same time to cast the curse. If and when the cursed person willingly touches the cursed gold the victim will permanently turn into solid gold. Any other person touching the cursed gold and/or person during the transformation will also turn to gold. After transformation is complete the curse is complete and the gold will not convert anymore people."
+  },
+  {
+    "objectID": "Nyxmera/Camera_Obscura.html#the_silhouette",
+    "href": "Nyxmera/Camera_Obscura.html#the_silhouette",
+    "title": "Camera Obscura",
+    "section": "THE SILHOUETTE",
+    "text": "THE SILHOUETTE\n(6 HP)\n\nFAMAS assault rifle (1D6+1 DAMAGE, COLLAPSIBLE)\nTrucker gear\nHidden bulletproof vest (1 ARMOR)\nDisguised truck with gear for shadow clones in hold\nNo visible shadow\n\nSHADOW-PLAY: This shutterbug is cautious and never gets their own hands dirty. Instead, they always leave Captures and Negatives to their SILHOUETTE SHADOW CLONES. They park a good distance away orchestrating the clones via their truck’s radio system, speaking in trucker terminology as code. If the missions goes south they will calmly retreat.\nSHADOW CAST (BOSS MOVE): Creates 4 SILHOUETTE SHADOW CLONES. They have the memories and skill of the caster and will follows its commands. Unfortunately, shadow clones appear with no clothes and gear. For full effect they need to be used in advance to gear up. The clones can only be summoned and maintained on moonlit nights."
+  },
+  {
+    "objectID": "Nyxmera/Camera_Obscura.html#silhouette_shadow_clone",
+    "href": "Nyxmera/Camera_Obscura.html#silhouette_shadow_clone",
+    "title": "Camera Obscura",
+    "section": "SILHOUETTE SHADOW CLONE",
+    "text": "SILHOUETTE SHADOW CLONE\n(1 HP)\n\nFAMAS assault rifle (1D6+1 DAMAGE)\nHeavy riot shield (2 ARMOR, equip as weapon)\nDeep black tactical gear (1 ARMOR)\nRadio headset\n\nIMMATERIAL: These beings are shadows given life. Their only desire is to complete their mission and become one with the darkness again. When they die they leave only their gear behind. They can die at will so will never be captured."
   },
   {
     "objectID": "Nyxmera/Followers.html",
@@ -322,6 +392,27 @@
     "text": "(3 HP, 2D6 appear)\n\nSemi-Auto Laser rifle (Choose 1 of 2D6 DAMAGE, 1D6 DAMAGE for other users)\nMeteor scrap metal armor (1 ARMOR)\nRifle mounted light (Directional close range sight in the dark)\nBlack and white fatigues, covered in scraps of meteor metal.\n\nDUALITY: These troopers embody the day and night extremes of Nyxmera. They will shoot allies and enemies alike with their laser rifles. When dealing damage with these they harm the target on even totals and heal the target on odd totals. Normally the referee will choose which die to use. However, if a player adds one or more WAR DICE they choose which single dice to remove from the DAMAGE."
   },
   {
+    "objectID": "Nyxmera/Troops.html#nyxmera_tropper",
+    "href": "Nyxmera/Troops.html#nyxmera_tropper",
+    "title": "Troops",
+    "section": "",
+    "text": "(3 HP, 2D6 appear)\n\nSemi-Auto Laser rifle (Choose 1 of 2D6 DAMAGE, 1D6 DAMAGE for other users)\nMeteor scrap metal armor (1 ARMOR)\nRifle mounted light (Directional close range sight in the dark)\nBlack and white fatigues, covered in scraps of meteor metal.\n\nDUALITY: These troopers embody the day and night extremes of Nyxmera. They will shoot allies and enemies alike with their laser rifles. When dealing damage with these they harm the target on even totals and heal the target on odd totals. Normally the referee will choose which die to use. However, if a player adds one or more WAR DICE they choose which single dice to remove from the DAMAGE."
+  },
+  {
+    "objectID": "Nyxmera/Troops.html#nyxmera_light_tropper",
+    "href": "Nyxmera/Troops.html#nyxmera_light_tropper",
+    "title": "Troops",
+    "section": "NYXMERA LIGHT TROOPER",
+    "text": "NYXMERA LIGHT TROOPER\n(3 HP, 1D6 appear)\n\nLaser shotgun (1D6 + 1 DAMAGE)\n1D6 stun grenades (temporary blinding, one use)\nHelmet mounted lantern (close range sight in the dark)\nMeteor metal armor (2 ARMOR)\nHard light projector (1 use)\n\nSTEADFAST: These heavy troopers stand strong against the dark. They routinely use the combination of their lanterns and hard light projectors to corner enemies.\nHardlight wall generator weapon: A heavy 2 handed device that can create a 2 ARMOR 5 foot tall by 10 foot wide hard light wall projection 10 feet in front of the device. It must be continuously fired whilst the user is illuminated. Due to the weight of the hard light the wall must be kept on the ground for normal humans. The hard light is frictionless and so can be moved slowly by the user."
+  },
+  {
+    "objectID": "Nyxmera/Troops.html#nyxmera_dark_trooper",
+    "href": "Nyxmera/Troops.html#nyxmera_dark_trooper",
+    "title": "Troops",
+    "section": "NYXMERA DARk TROOPER",
+    "text": "NYXMERA DARk TROOPER\n(6 HP)\n\nMeteor sword (1D6 + 1 DAMAGE, LIGHT)\nNight vision goggles (see at night)\nLight diffraction weave bodysuit (1 ARMOR, difficult to see)\nShadow boots (Can teleport from one shadow to another within a range of 30 feet, 1 use)\nDeployable hard light hoverboard (accessory)\n\nPATIENT: The dark trooper will watch and stalk enemies. It will bide its time for the best opportunity to reveal itself based on how cool it would be. If it begins a fight with no backup it will take no DAMAGE from the first attack against them, doing a narly flip or trick to evade it."
+  },
+  {
     "objectID": "nyxmera.html",
     "href": "nyxmera.html",
     "title": "Nyxmera",
@@ -334,6 +425,20 @@
     "title": "Followers",
     "section": "",
     "text": "(3HP, CHOKE 5: Find the nearest source of water to submerge in)\n\nCompass\nDowsing rods\nBeanie & deck shoes\nCallused hands from rowing\n\nCALM: Proteans are naturally calm individuals. They are easy going and very agreeable. However, they don’t like dry places and tend to congregate where it is wet or humid. Most are natural born sailors and rowers."
+  },
+  {
+    "objectID": "Proteus/Followers.html#protean",
+    "href": "Proteus/Followers.html#protean",
+    "title": "Followers",
+    "section": "",
+    "text": "(3HP, CHOKE 5: Find the nearest source of water to submerge in)\n\nCompass\nDowsing rods\nBeanie & deck shoes\nCallused hands from rowing\n\nCALM: Proteans are naturally calm individuals. They are easy going and very agreeable. However, they don’t like dry places and tend to congregate where it is wet or humid. Most are natural born sailors and rowers."
+  },
+  {
+    "objectID": "Proteus/Followers.html#protean_captain",
+    "href": "Proteus/Followers.html#protean_captain",
+    "title": "Followers",
+    "section": "PROTEAN CAPTAIN",
+    "text": "PROTEAN CAPTAIN\n(3 HP, CHOKE 6: Yell commands at others who will be compelled to obey)\n\nIce daggers (1D6 DAMAGE, MELT) that CAPTAIN can materialise from water or air\nSteam spray from hands and feet (allows limited propulsion and fall negation)\nGills & lungs\nKey to their yacht\nSailing attire\n\nDELEGATOR: PROTEAN CAPTAINS are leaders amongst Proteans. They manage this by being lazy and telling everybody else what to do. Their clear communication and relaxing presence can be a boon in stressful environments. This leads them to being ship captains, sports coaches, managers, and various other leadership roles. They put up with these roles so they can afford fine luxury ships and their crew.\nMELT weapon tag: Weapon (melee) or projectiles (firearm) are made from a non-metallic substance that will melt over time. DAMAGE NEGATION by ARMOR is doubled for this weapon."
   },
   {
     "objectID": "Proteus/Pumice_construction_ltd.html",
@@ -350,6 +455,20 @@
     "text": "A sports company specialising in snow and water sports. This company, its competitors, and fans consist of many Suns of Nyxmera and Proteans. It combines the go with the flow of these sports with the exhilarating voyeurism."
   },
   {
+    "objectID": "Proteus/Refraction_Sports.html#protean-surfer",
+    "href": "Proteus/Refraction_Sports.html#protean-surfer",
+    "title": "Refraction Sports",
+    "section": "PROTEAN SURFER",
+    "text": "PROTEAN SURFER\n(3 HP, CHOKE 6: Irreversibly change into a puddle of water)\nUNDER CONSTRUCTION\n\nBottle of Holy water (1 use)\nSunglasses and Surfer necklace\nAlways seems at least slightly stoned\n\nGAWKER: These followers of Nyxmera act as eyes of the deity and nothing more. They mindlessly consume content and go out of their way to witness danger. They will call in further Suns of Nyxmera if they see a dangerous event possibly causing further civilian casualties."
+  },
+  {
+    "objectID": "Proteus/Refraction_Sports.html#protean-snowboarder",
+    "href": "Proteus/Refraction_Sports.html#protean-snowboarder",
+    "title": "Refraction Sports",
+    "section": "PROTEAN SNOWBOARDER",
+    "text": "PROTEAN SNOWBOARDER\n(3 HP, CHOKE 6: Collapse into a snowball)\nUNDER CONSTRUCTION\n\nBottle of Holy water (1 use)\nSunglasses and Surfer necklace\nAlways seems at least slightly stoned\n\nGAWKER: These followers of Nyxmera act as eyes of the deity and nothing more. They mindlessly consume content and go out of their way to witness danger. They will call in further Suns of Nyxmera if they see a dangerous event possibly causing further civilian casualties."
+  },
+  {
     "objectID": "Proteus/Triton_n_Delta.html",
     "href": "Proteus/Triton_n_Delta.html",
     "title": "Triton & Delta",
@@ -364,11 +483,25 @@
     "text": "Each water body of Proteus represents a different body of water on earth. They are animated blobs of water. However, their structure is given to their form by the presence of water life such as plants and fish."
   },
   {
-    "objectID": "Proteus/Water_bodies.html#water-bodies",
-    "href": "Proteus/Water_bodies.html#water-bodies",
+    "objectID": "Proteus/Water_bodies.html#ocean-water-body",
+    "href": "Proteus/Water_bodies.html#ocean-water-body",
     "title": "Water bodies",
-    "section": "",
-    "text": "Each water body of Proteus represents a different body of water on earth. They are animated blobs of water. However, their structure is given to their form by the presence of water life such as plants and fish."
+    "section": "Ocean water body",
+    "text": "Ocean water body"
+  },
+  {
+    "objectID": "Proteus/Water_bodies.html#sea-water-body",
+    "href": "Proteus/Water_bodies.html#sea-water-body",
+    "title": "Water bodies",
+    "section": "Sea water body",
+    "text": "Sea water body"
+  },
+  {
+    "objectID": "Proteus/Water_bodies.html#lake-water-body",
+    "href": "Proteus/Water_bodies.html#lake-water-body",
+    "title": "Water bodies",
+    "section": "Lake water body",
+    "text": "Lake water body"
   },
   {
     "objectID": "proteus.html",
@@ -392,8 +525,8 @@
     "text": "TARTARUS RAIDER\n(3 HP, 2D6 appear)\n\nM1911 pistol (1D6 DAMAGE)\nObsidian blade (1D6 DAMAGE)\nThunderstick, explosive throwing spear (1D6 + 2 DAMAGE, ANTI-MATERIAL, 1 use)\nScrap armor (1 ARMOR)\nScrap armored school bus (12 HP, 2 ARMOR)\n\nHIT-AND-RUN: Raider war cries act as a harbinger of destruction. After a rapid pillage they scarper off leaving any wounded behind. They never abduct living things. The literal definition of scrappy, they like to bicker between themselves over loot. Tartarus raiders are good drivers and only use their thundersticks on pursuing vehicles, not wanting to destroy any possible loot.\nANTI-MATERIAL weapon tag: Deals double DAMAGE to vehicles and structures; cumbersome to carry around."
   },
   {
-    "objectID": "Tartarus/DOT_raiders.html#tartarus_ghoul",
-    "href": "Tartarus/DOT_raiders.html#tartarus_ghoul",
+    "objectID": "Tartarus/DOT_raiders.html#tartarus_mutant",
+    "href": "Tartarus/DOT_raiders.html#tartarus_mutant",
     "title": "DOT raiders",
     "section": "TARTARUS MUTANT",
     "text": "TARTARUS MUTANT\n(5 HP)\n\nMAS-36 bolt-action rifle (1D6+1 DAMAGE)\nTattered clothing barely covering their portfolio of scars\nFaint blue/green glow from their veins\nNo two mutants are the same, the below mutations are left vague for the referee’s and/or players’ imagination to fill\n\nADAPTED: These were once normal humans who lived in the settlements of the DOT. They have survived longer than most and so have been mutated from the pervasive chemicals and radiation. When one appears roll 2D6 to determine which of the two following mutations they have (reroll duplicates).\n\nExoskeleton (2 ARMOR)\nLethal arms (1D6 + 1 DAMAGE)\nPowerful strides and jumps\nEnhanced sense\nExtra appendage\nTARTARUS MUTANT gets a total of 3 of the other options\n\nMELTDOWN (BOSS MOVE): As a last resort and with a well choreographed lead up the TARTARUS MUTANT can cause itself to explode. It dies whilst dealing 2D6 DAMAGE to everything within 20 feet."
@@ -427,104 +560,6 @@
     "text": "(3 HP, CHOKE 4: Find the nearest hole to cower in)\n\nClimbing pickaxe (3 DAMAGE)\nSpelunking gear\nLoupe (magnifying glass for gems)\nLockpick gear\nCaving suit\n\nEXPLORER: These followers of Tartarus are always on the lookout for entrances to the DOT, possible mining sites, and the enslaved to free. They seem to appear from nowhere and will interrogate anyone they see. They will follow the interrogatee, being near impossible to lose, until their questions have been answered."
   },
   {
-    "objectID": "Tartarus/Kraken.html",
-    "href": "Tartarus/Kraken.html",
-    "title": "Kraken",
-    "section": "",
-    "text": "Kraken is a large energy and mining corporation. They deal in oil and nuclear power. They also mine for oil, nuclear ores, metal ores, and gems. The CEO is Marian Dullcoin (Elder Dotter of Tartarus)."
-  },
-  {
-    "objectID": "Tartarus/Taloes.html",
-    "href": "Tartarus/Taloes.html",
-    "title": "Taloes",
-    "section": "",
-    "text": "Taloes (singular = talos) of Tartarus are made from the bounties of Tartarus. They generally consist of local resources."
-  },
-  {
-    "objectID": "tartarus.html",
-    "href": "tartarus.html",
-    "title": "Tartarus",
-    "section": "",
-    "text": "Tartarus is the ground we live on, they are the rocks, dirt, metal, and oil. Tartarus was once free with explosive energy but now lays dormant, encaged by the sky, trapped by Nyxmera. Tartarus loathes Nyxmera and Nyxmera’s apathy towards Tartarus fuels its bottled rage further.\nThe greatest presence of Tartarus is felt underground where Nyxmera cannot see with its eyes. Here you may find a deep black hole that leads to the DOT. The DOT is the Domain Of Taratarus. Time and space are inconsistent in the DOT. You may enter and subsequently leave in the past, present or future no matter how long you were in the DOT. Many monsters live in the DOT. Think Journey to the Center of the Earth, Narnia, the Fey Wild, The underdark etc.\nWorld governments have used the DOT as a dumping ground for garbage, scientific waste, and nuclear waste. This has lead to mutated humans and creatures due to the combination of radiation, chemicals, and the magic of the DOT. They mostly stay contained in the DOT but occasionally cause havoc on the surface.\n\nThe imprisoned deity of the earth.\nA seemingly calm surface with extreme power under the surface\nFollowers: Dotters of Tartarus\n\nFollowers include: Enslaved, prisoners, fighters, miners, oil workers, seismologists, & spelunkers\n\nGood activities\n\nFreeing the enslaved\nFight for justice\n\nEvil activities\n\nRaiding the surface\nRuthless capitalism\nDestruction of ecology\nPrison breaks\n\nBest followers\n\nRaider leader and Kraken higher ups who free modern day slaves and carry out prison breaks."
-  },
-  {
-    "objectID": "Nyxmera/Camera_Obscura.html#the_silhouette",
-    "href": "Nyxmera/Camera_Obscura.html#the_silhouette",
-    "title": "Camera Obscura",
-    "section": "THE SILHOUETTE",
-    "text": "THE SILHOUETTE\n(6 HP)\n\nFAMAS assault rifle (1D6+1 DAMAGE, COLLAPSIBLE)\nTrucker gear\nHidden bulletproof vest (1 ARMOR)\nDisguised truck with gear for shadow clones in hold\nNo visible shadow\n\nSHADOW-PLAY: This shutterbug is cautious and never gets their own hands dirty. Instead, they always leave Captures and Negatives to their SILHOUETTE SHADOW CLONES. They park a good distance away orchestrating the clones via their truck’s radio system, speaking in trucker terminology as code. If the missions goes south they will calmly retreat.\nSHADOW CAST (BOSS MOVE): Creates 4 SILHOUETTE SHADOW CLONES. They have the memories and skill of the caster and will follows its commands. Unfortunately, shadow clones appear with no clothes and gear. For full effect they need to be used in advance to gear up. The clones can only be summoned and maintained on moonlit nights."
-  },
-  {
-    "objectID": "Nyxmera/Camera_Obscura.html#silhouette_shadow_clone",
-    "href": "Nyxmera/Camera_Obscura.html#silhouette_shadow_clone",
-    "title": "Camera Obscura",
-    "section": "SILHOUETTE SHADOW CLONE",
-    "text": "SILHOUETTE SHADOW CLONE\n(1 HP)\n\nFAMAS assault rifle (1D6+1 DAMAGE)\nHeavy riot shield (2 ARMOR, equip as weapon)\nDeep black tactical gear (1 ARMOR)\nRadio headset\n\nIMMATERIAL: These beings are shadows given life. Their only desire is to complete their mission and become one with the darkness again. When they die they leave only their gear behind. They can die at will so will never be captured."
-  },
-  {
-    "objectID": "Proteus/Followers.html#protean",
-    "href": "Proteus/Followers.html#protean",
-    "title": "Followers",
-    "section": "",
-    "text": "(3HP, CHOKE 5: Find the nearest source of water to submerge in)\n\nCompass\nDowsing rods\nBeanie & deck shoes\nCallused hands from rowing\n\nCALM: Proteans are naturally calm individuals. They are easy going and very agreeable. However, they don’t like dry places and tend to congregate where it is wet or humid. Most are natural born sailors and rowers."
-  },
-  {
-    "objectID": "Proteus/Followers.html#protean_captain",
-    "href": "Proteus/Followers.html#protean_captain",
-    "title": "Followers",
-    "section": "PROTEAN CAPTAIN",
-    "text": "PROTEAN CAPTAIN\n(3 HP, CHOKE 6: Yell commands at others who will be compelled to obey)\n\nIce daggers (1D6 DAMAGE, MELT) that CAPTAIN can materialise from water or air\nSteam spray from hands and feet (allows limited propulsion and fall negation)\nGills & lungs\nKey to their yacht\nSailing attire\n\nDELEGATOR: PROTEAN CAPTAINS are leaders amongst Proteans. They manage this by being lazy and telling everybody else what to do. Their clear communication and relaxing presence can be a boon in stressful environments. This leads them to being ship captains, sports coaches, managers, and various other leadership roles. They put up with these roles so they can afford fine luxury ships and their crew.\nMELT weapon tag: Weapon (melee) or projectiles (firearm) are made from a non-metallic substance that will melt over time. DAMAGE NEGATION by ARMOR is doubled for this weapon."
-  },
-  {
-    "objectID": "Proteus/Refraction_Sports.html#protean-surfer",
-    "href": "Proteus/Refraction_Sports.html#protean-surfer",
-    "title": "Refraction Sports",
-    "section": "PROTEAN SURFER",
-    "text": "PROTEAN SURFER\n(3 HP, CHOKE 6: Irreversibly change into a puddle of water)\nUNDER CONSTRUCTION\n\nBottle of Holy water (1 use)\nSunglasses and Surfer necklace\nAlways seems at least slightly stoned\n\nGAWKER: These followers of Nyxmera act as eyes of the deity and nothing more. They mindlessly consume content and go out of their way to witness danger. They will call in further Suns of Nyxmera if they see a dangerous event possibly causing further civilian casualties."
-  },
-  {
-    "objectID": "Proteus/Refraction_Sports.html#protean-snowboarder",
-    "href": "Proteus/Refraction_Sports.html#protean-snowboarder",
-    "title": "Refraction Sports",
-    "section": "PROTEAN SNOWBOARDER",
-    "text": "PROTEAN SNOWBOARDER\n(3 HP, CHOKE 6: Collapse into a snowball)\nUNDER CONSTRUCTION\n\nBottle of Holy water (1 use)\nSunglasses and Surfer necklace\nAlways seems at least slightly stoned\n\nGAWKER: These followers of Nyxmera act as eyes of the deity and nothing more. They mindlessly consume content and go out of their way to witness danger. They will call in further Suns of Nyxmera if they see a dangerous event possibly causing further civilian casualties."
-  },
-  {
-    "objectID": "Missions/M-AVOW.html#wedding-events",
-    "href": "Missions/M-AVOW.html#wedding-events",
-    "title": "AVOW: Assassinating the Veiled at the Opulent Wedding",
-    "section": "Wedding events",
-    "text": "Wedding events\nThe wedding is broken into several events. Only the Ceremony, Dinner, and Consummation will have an assassination attempt.\nAll the events take place on the estate grounds. No maps of the estate are given so you can create your own vision with the prompts in the below descriptions.\n\nRehearsal dinner\nThe rehearsal dinner takes place the evening before the actual wedding. It will be in the same ball room described in the Dinner section. No assassination will take place but it is a prime time for the players to carry out some intel gathering on the hired shutterbugs.\n\n\nCeremony\nThe ceremony takes place outside in a area flanked by the Ruby River and a rock garden full of beautiful geodes.\nTHE KING is using one of their personas (Aurelia Blaine) to attend the wedding as an invited guest. During the rehearsal dinner she will will steal River’s wedding ring. THE KING will attempt to set their curse on River and the wedding ring. They will entertain and perform card tricks for the brides to get close to them.\nClue: Players will overhear one of the bridesmaids saying they have lost River’s ring as they recruit help from the other bridesmaids.\nIf not stopped the couple will turn into gold as Ruby puts River’s ring on during the ceremony.\n\n\nFigure skating break\nAfter the ceremony the wedding party will move onto an outdoor skating rink. Here, River’s past and present skaters (all guests to the wedding) will provide an amazing show.\nAsk each of your players for a name of one of the skaters, then ask them for a name and description of a figure skating move. Give a WAR DIE to the player with the skater and move the table agrees is best.\n\n\nDinner\nThe dinner takes place in a large ball room dominated by a central large ornate water fountain sculpted from rock. On one side of the room lay the tables for the dinner. On the other is a large stage and dance floor.\nThe dinner will consist of the speeches followed by the main meal. The brides will then cut their wedding cake which will lead to their first dance.\nThe designated shutterbug is THE ANTIDOTER. They have poisoned all the food with the first part of their poison and the entire wedding cake with the second part.\nClue: During the dinner the 2 brides will leave and a fog machine will go off before the dancing commences. This is the work of the THE ANTIDOTER.\nIf not stopped the couple will die of heart attacks during their first dance.\n\n\nEntertainment\nAfter watching the first dance, the guests will join in the festivities with drinking and dancing. Various famous bands will play on the stage.\nUnsurprisingly, Ruby is a big fan of Rock and Metal bands. Ask your players for some fictional bands that will be performing. Give a WAR DIE to the player with band name the table agrees is the best.\n\n\nConsummation\nAt the end of the night the newly wedded couple will leave the ball room and go to their private building within the estate. This building is secluded on top of a rock outcropping. It is flanked by the river and surrounding forest. One side of the building is a large glass wall that overlooks the Ruby River.\nIf the players are assassinating they must do so after the couple have entered the building but before they have consummated the wedding. In this case the building is guarded by 4 KRAKEN SECURITY GUARDS. The team will succeed if they kill both brides and partially succeed if they kill at least one.\nIf the players are stopping the assassinations, the last shutterbug is the THE SILHOUETTE. They will be parked a few miles away as they send in their 4 SILHOUETTE SHADOW CLONES to storm the private building. The clones will try to stealthily enter but are not afraid to enter a gunfight. The team will succeed if they save both brides and partially succeed if they save at least one."
-  },
-  {
-    "objectID": "Missions/M-AVOW.html#carrying-out-the-assassinations",
-    "href": "Missions/M-AVOW.html#carrying-out-the-assassinations",
-    "title": "AVOW: Assassinating the Veiled at the Opulent Wedding",
-    "section": "Carrying out the assassinations",
-    "text": "Carrying out the assassinations\nThe player team will get the chance to kill the brides in their consummation bedroom. They must do this before they have started consummation of their marriage.\nHowever, they will also need to stop the 2 assassination attempts at the ceremony and dinner. Due to the Camera Obscura rules they cannot harm, kill, or kidnap the other “shutterbugs”.\nThe Camera Obscura client wants the assassination to occur at 1 of three times. They will not pay if it occurs outside of these times. Additionally, Camera Obscura will not pay shutterbugs who harm, kill, or kidnap any of the other guests as there are many rich and powerful people.\n\nRewards\nDepending on how well they accomplished the mission they will get up to 3 rewards. Some demerits include if they broke Camera Obscura rules, and if they only killed one bride.\n\nSteyr SSG 69 bolt-action sniper rifle (1D6+2 DAMAGE, HUD)\nCombat knife (1D6 DAMAGE, LUCKY)\n1D6 smoke grenades & 1D6 frag grenades (1D6+1 DAMAGE)\n\nHUD weapon tag: Scans hostiles. When you kill something new, the referee will tell you a useful fact about it.\nLUCKY weapon tag: Rolling an ultra success while attacking with this weapon grants the user one WAR DIE."
-  },
-  {
-    "objectID": "Nyxmera/Troops.html#nyxmera_tropper",
-    "href": "Nyxmera/Troops.html#nyxmera_tropper",
-    "title": "Troops",
-    "section": "",
-    "text": "(3 HP, 2D6 appear)\n\nSemi-Auto Laser rifle (Choose 1 of 2D6 DAMAGE, 1D6 DAMAGE for other users)\nMeteor scrap metal armor (1 ARMOR)\nRifle mounted light (Directional close range sight in the dark)\nBlack and white fatigues, covered in scraps of meteor metal.\n\nDUALITY: These troopers embody the day and night extremes of Nyxmera. They will shoot allies and enemies alike with their laser rifles. When dealing damage with these they harm the target on even totals and heal the target on odd totals. Normally the referee will choose which die to use. However, if a player adds one or more WAR DICE they choose which single dice to remove from the DAMAGE."
-  },
-  {
-    "objectID": "Nyxmera/Troops.html#nyxmera_light_tropper",
-    "href": "Nyxmera/Troops.html#nyxmera_light_tropper",
-    "title": "Troops",
-    "section": "NYXMERA LIGHT TROOPER",
-    "text": "NYXMERA LIGHT TROOPER\n(3 HP, 1D6 appear)\n\nLaser shotgun (1D6 + 1 DAMAGE)\n1D6 stun grenades (temporary blinding, one use)\nHelmet mounted lantern (close range sight in the dark)\nMeteor metal armor (2 ARMOR)\nHard light projector (1 use)\n\nSTEADFAST: These heavy troopers stand strong against the dark. They routinely use the combination of their lanterns and hard light projectors to corner enemies.\nHardlight wall generator weapon: A heavy 2 handed device that can create a 2 ARMOR 5 foot tall by 10 foot wide hard light wall projection 10 feet in front of the device. It must be continuously fired whilst the user is illuminated. Due to the weight of the hard light the wall must be kept on the ground for normal humans. The hard light is frictionless and so can be moved slowly by the user."
-  },
-  {
-    "objectID": "Nyxmera/Troops.html#nyxmera_dark_trooper",
-    "href": "Nyxmera/Troops.html#nyxmera_dark_trooper",
-    "title": "Troops",
-    "section": "NYXMERA DARk TROOPER",
-    "text": "NYXMERA DARk TROOPER\n(6 HP)\n\nMeteor sword (1D6 + 1 DAMAGE, LIGHT)\nNight vision goggles (see at night)\nLight diffraction weave bodysuit (1 ARMOR, difficult to see)\nShadow boots (Can teleport from one shadow to another within a range of 30 feet, 1 use)\nDeployable hard light hoverboard (accessory)\n\nPATIENT: The dark trooper will watch and stalk enemies. It will bide its time for the best opportunity to reveal itself based on how cool it would be. If it begins a fight with no backup it will take no DAMAGE from the first attack against them, doing a narly flip or trick to evade it."
-  },
-  {
     "objectID": "Tartarus/Followers.html#dotter",
     "href": "Tartarus/Followers.html#dotter",
     "title": "Followers",
@@ -539,6 +574,13 @@
     "text": "ELDER DOTTER OF TARTARUS\n(3 HP, CHOKE 4: Escape from current situation)\n\nRock fists (1D6 DAMAGE)\nRock armor (2 ARMOR)\nClean suits adorned with jewellery\nQuick to defend their actions with the free market, meaning different things to capitalists and raiders\n\nCOVETOUS: Elder dotters are rich and powerful. Many are the CEOs of mining, fossil fuel, and nuclear companies on the surface and leaders of raiding settlements in the DOT. Whether they raid or capitalise others they will take the riches of Tartarus without laboring themselves. They are particularly fond of hoarding precious stones and metals. Their rock fists and armors are blessings from Taratarus that they can manifest over their body and use."
   },
   {
+    "objectID": "Tartarus/Kraken.html",
+    "href": "Tartarus/Kraken.html",
+    "title": "Kraken",
+    "section": "",
+    "text": "Kraken is a large energy and mining corporation. They deal in oil and nuclear power. They also mine for oil, nuclear ores, metal ores, and gems. The CEO is Marian Dullcoin (Elder Dotter of Tartarus)."
+  },
+  {
     "objectID": "Tartarus/Kraken.html#kraken_guard",
     "href": "Tartarus/Kraken.html#kraken_guard",
     "title": "Kraken",
@@ -551,6 +593,13 @@
     "title": "Kraken",
     "section": "KRAKEN PRIVATE CONTRACTOR",
     "text": "KRAKEN PRIVATE CONTRACTOR\n(4 HP, 1D6 appear)\n\nHeckler & Koch MP5K submachine gun (1D6 DAMAGE)\nCombat knife (1D6 DAMAGE)\nKevlar military vest (1 ARMOR)\nBattering ram (1D6 DAMAGE)\nKept in reserve until combat starts\nTrigger happy swat wannabes\n\nCQC: Rush into close quarter combat as they want the bonus for killing any enemies. With their battering ram they can break through any unbarricaded hinged door with abandon."
+  },
+  {
+    "objectID": "Tartarus/Taloes.html",
+    "href": "Tartarus/Taloes.html",
+    "title": "Taloes",
+    "section": "",
+    "text": "Taloes (singular = talos) of Tartarus are made from the bounties of Tartarus. They generally consist of local resources."
   },
   {
     "objectID": "Tartarus/Taloes.html#ore_talos",
@@ -570,8 +619,8 @@
     "objectID": "Tartarus/Taloes.html#litium_talos",
     "href": "Tartarus/Taloes.html#litium_talos",
     "title": "Taloes",
-    "section": "LITHIUM TALOSs (3 HP, 2D6 appear)",
-    "text": "LITHIUM TALOSs (3 HP, 2D6 appear)\n\nExplosive spit (1D6 DAMAGE)\n\nCASCADE: These blobs of lithium like to hide in crevasses and behind rocks. They will wait till their prey are surrounded by them before attacking. When they die they explode for 3 DAMAGE, this may cause a cascade of explosions from all the Lithium taloes. Many cave-ins have been known to occur due to this."
+    "section": "LITHIUM TALOS (3 HP, 2D6 appear)",
+    "text": "LITHIUM TALOS (3 HP, 2D6 appear)\n\nExplosive spit (1D6 DAMAGE)\n\nCASCADE: These blobs of lithium like to hide in crevasses and behind rocks. They will wait till their prey are surrounded by them before attacking. When they die they explode for 3 DAMAGE, this may cause a cascade of explosions from all the Lithium taloes. Many cave-ins have been known to occur due to this."
   },
   {
     "objectID": "Tartarus/Taloes.html#rad_talos",
@@ -581,52 +630,87 @@
     "text": "RADIOACTIVE GEM TALOS (9 HP)\n\nPlasma rifle (2D6 DAMAGE, NUCLEAR-POWERED)\nPower armor (2 ARMOR, NUCLEAR-POWERED)\nQuartz, amethyst, violet fluorite, blue salt, yellow sapphires or green diamond core.\n\nPROJECTION: A radioactive projection produced from a single gem at their core. Although the most human looking of all the taloes they are also the most terrifying. They give off constant nuclear radiation which they use to power their weapons and armor. Anyone within melee range gets -2 to action rolls and loses 1HP per action.\nGEM: Their real body is their core which has 3HP. If this is not destroyed the talos will reform in 1D6 days. Its gear is not part of its projection."
   },
   {
-    "objectID": "Proteus/Water_bodies.html#ocean-water-body",
-    "href": "Proteus/Water_bodies.html#ocean-water-body",
-    "title": "Water bodies",
-    "section": "Ocean water body",
-    "text": "Ocean water body"
+    "objectID": "tartarus.html",
+    "href": "tartarus.html",
+    "title": "Tartarus",
+    "section": "",
+    "text": "Tartarus is the ground we live on, they are the rocks, dirt, metal, and oil. Tartarus was once free with explosive energy but now lays dormant, encaged by the sky, trapped by Nyxmera. Tartarus loathes Nyxmera and Nyxmera’s apathy towards Tartarus fuels its bottled rage further.\nThe greatest presence of Tartarus is felt underground where Nyxmera cannot see with its eyes. Here you may find a deep black hole that leads to the DOT. The DOT is the Domain Of Taratarus. Time and space are inconsistent in the DOT. You may enter and subsequently leave in the past, present or future no matter how long you were in the DOT. Many monsters live in the DOT. Think Journey to the Center of the Earth, Narnia, the Fey Wild, The underdark etc.\nWorld governments have used the DOT as a dumping ground for garbage, scientific waste, and nuclear waste. This has lead to mutated humans and creatures due to the combination of radiation, chemicals, and the magic of the DOT. They mostly stay contained in the DOT but occasionally cause havoc on the surface.\n\nThe imprisoned deity of the earth.\nA seemingly calm surface with extreme power under the surface\nFollowers: Dotters of Tartarus\n\nFollowers include: Enslaved, prisoners, fighters, miners, oil workers, seismologists, & spelunkers\n\nGood activities\n\nFreeing the enslaved\nFight for justice\n\nEvil activities\n\nRaiding the surface\nRuthless capitalism\nDestruction of ecology\nPrison breaks\n\nBest followers\n\nRaider leader and Kraken higher ups who free modern day slaves and carry out prison breaks."
   },
   {
-    "objectID": "Proteus/Water_bodies.html#sea-water-body",
-    "href": "Proteus/Water_bodies.html#sea-water-body",
-    "title": "Water bodies",
-    "section": "Sea water body",
-    "text": "Sea water body"
+    "objectID": "Missions/M-DELVE.html#reward",
+    "href": "Missions/M-DELVE.html#reward",
+    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
+    "section": "Reward",
+    "text": "Reward\nIf successful the military will reward the FIST team with all or some of the below items and a base upgrade (based on your system).\nKukri (1D6+1 DAMAGE, MENACING, THIRSTY)\nMENACING weapon tag: Enemies who see a comrade slain by this weapon have a 1-in-1D6 chance to flee.\nTHIRSTY weapon tag: Once this weapon is unsheathed, the weapon cannot be dropped by the user. Only once the weapon has drawn blood can it be sheathed and let go by the user.\n1D6 MP5s (1D6 DAMAGE)\nWestland Lynx military helicopter (16 HP, 1 ARMOR). It is a damaged prototype that will need to be repaired by FIST."
   },
   {
-    "objectID": "Proteus/Water_bodies.html#lake-water-body",
-    "href": "Proteus/Water_bodies.html#lake-water-body",
-    "title": "Water bodies",
-    "section": "Lake water body",
-    "text": "Lake water body"
+    "objectID": "missions.html#dilmemas",
+    "href": "missions.html#dilmemas",
+    "title": "Missions",
+    "section": "Dilmemas",
+    "text": "Dilmemas\nIn the below missions the team has to choose between one of two. Normally, 2 of the factions are up against each other and the team chooses which faction to side with which will determine the mission they ultimately carry out.\nAVOW: Assassinating the Veiled at the Opulent Wedding. Commit or stop the assassination of a Tartarus bride and their Proteus bride during their high profile matrimonies.\nPOPS: Possible Oil Pipe Sabotage. Either side with Kraken to prevent an oil pipe sabotage of TAG to do the sabotaging."
   },
   {
-    "objectID": "Gaia/TAG.html#tag_protestor",
-    "href": "Gaia/TAG.html#tag_protestor",
-    "title": "TAG: The Arrows of Gaia",
-    "section": "TAG PROTESTOR",
-    "text": "TAG PROTESTOR\n(3 HP, CHOKE 5: Scatter and hide)\n\nPlacard & leaflets\nUnassuming clothing with a cap\nSnacks and drinks\nLoud and proud\n\nCONVICTED: Many protesters have been previously imprisoned for their convictions. They can be majorly disruptive but people will only deal with them if given orders they can’t refuse. A touch from a group of protesters will cause most to join the protest. Many that join this way leave with a very foggy memory of it all."
+    "objectID": "Missions/M-DELVE.html#the-dot",
+    "href": "Missions/M-DELVE.html#the-dot",
+    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
+    "section": "The DOT",
+    "text": "The DOT\nThis part of the DOT is like a limestone cave with stalagmites (floor), stalactites (ground), and columns. However, the rocks are actually all made of Diorite, a “salt and pepper” coloured rock. It is created from magma and it is found locally around Warboys due to the extinct volcano. Bits of magma are currently dripping from the stalactites solidifying into the Diorite. More magma is present as the team goes deeper into the cave. Although dangerous the magma does provide a low level of light."
   },
   {
-    "objectID": "Gaia/TAG.html#tag_fighter",
-    "href": "Gaia/TAG.html#tag_fighter",
-    "title": "TAG: The Arrows of Gaia",
-    "section": "TAG ECO FIGHTER",
-    "text": "TAG ECO FIGHTER\n(4 HP, 1D6 appear)\n\nWinchester Model 1200 Pump-action shotgun (1D6+1 DAMAGE)\nMolotov cocktail (1D6 DAMAGE, one use)\nHunting apparel with backpack\nBinoculars\nNormal men and women who look like hunters\nSigns of damage by industrial exploitation\n\nJUSTIFIED: Eco warriors stand up for what is right. They have been harmed by industrial chemicals or machines. With nothing left they will put down their lives to ensure life will continue. They will never surrender, either fighting till the end or retreating to fight another day. Intimidation tactics never work of eco warriors."
+    "objectID": "Missions/M-DELVE.html#the-descent",
+    "href": "Missions/M-DELVE.html#the-descent",
+    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
+    "section": "The Descent",
+    "text": "The Descent\nThe first obstacle once entering the DOT is the descent. The raiders have put some shoddy metal steps into the steep and jagged rock surface.\nAsk the players how they approach this and let the consequences happen."
   },
   {
-    "objectID": "Gaia/TAG.html#tag_hacker",
-    "href": "Gaia/TAG.html#tag_hacker",
-    "title": "TAG: The Arrows of Gaia",
-    "section": "TAG HACKER",
-    "text": "TAG HACKER\n(5 HP)\n\nPB silenced pistol (1D6 DAMAGE)\nHacker’s axe (1D6+1 DAMAGE, ELECTRIFIED)\nConcealed bullet resistant vest (1 ARMOR)\nHard helmet (accessory)\nFloppy disk wallet (5 uses)\nPhreak whistle\nMobile phone and voice changer\nLumberjack attire\n\nHACKED-OFF: Society is all a farce! A game this hacker now knows how to play. Incredible skills in hacking computers, phone lines, and social situations make them perfect agents for TAG. However, they must be kept on a short leash as they don’t hack for what is right but rather because they have been wronged. Hackers will quickly changed side if given enough incentives in finances, safety, and comfortability.\nELECTRIFIED weapon tag: Deals double DAMAGE to robots and other complex machines. Shorts out running electronics and briefly electrifies bodies of water.\nFloppy disk wallet item: Contains 5 floppy disks. Each disk is consumed when used to try to hack a computer system with a floppy disk input. Each disk has a single word indicating its effect; Ransom ware, Decrypt, Virus, Login, and Loop. The effect of each floppy disk is detremined by the circumstance, imagination of the players, result of relvant action roll, and the referee’s decision."
+    "objectID": "Missions/M-DELVE.html#the-overlook-chamber",
+    "href": "Missions/M-DELVE.html#the-overlook-chamber",
+    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
+    "section": "The Overlook Chamber",
+    "text": "The Overlook Chamber\nA large open chamber. There is relative quiet here allowing the team to investigate the rock structures and decide their plan of action.\n\nOverlook window\nA large window high up overlooks the chamber. There is one TARTARUS MAGNETIC SLINGER and one TARTARUS RAIDER overlooking the chamber. The window connects directly to the Raider’s chamber via a tight passage.\nThe pair will stay hidden and silent. Whilst the Slinger keeps overlook the raider will go back and forth to relay messages between the overlook and Raider leader at the Raider’s chamber.\nThey will engage the FIST team and call for reinforcements if FIST try to destroy any of the cave routes."
   },
   {
-    "objectID": "Gaia/TAG.html#tag_leader",
-    "href": "Gaia/TAG.html#tag_leader",
-    "title": "TAG: The Arrows of Gaia",
-    "section": "TAG LEADER",
-    "text": "TAG LEADER\n(6 HP)\n\nSteyr AUG assault rifle (1D6+1 DAMAGE)\nBlade of grass, sword (2D6 DAMAGE, RITUAL)\nTactical vest (1 ARMOR)\nEnchanted wood shield (2 ARMOR, equip as weapon)\nBlowing horn, calls forth the largest nearby land animals (1 use)\nLong flowing hair framing a beautiful face\nGentle but commanding voice\n\nTAMER: Able to keep TAG fighters in line this leader is vital to TAG violent activities. They can tame and enlarge multiple wild creatures of the same species with the blessing of Gaia. If the TAG Leader is killed or knocked unconscious the effect will immediately end.\nRITUAL weapon tag: Shatters to protect you from death once, negating lethal damage. Disintegrates afterwards."
+    "objectID": "Missions/M-DELVE.html#passageways",
+    "href": "Missions/M-DELVE.html#passageways",
+    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
+    "section": "Passageways",
+    "text": "Passageways\nTheir are three seprarate passageways that lead from the Overlook Chamber to the Killing Floor. These are The Squeeze, The Ambush, and The River.\n\nThe Squeeze\nThis passage is a long winding jagged squeeze. There are no enemies but characters who go through this will have to leave items behind to make the squeeze. Once in deep enough they cannot go back. Normal sized characters can only bring through one weapon, one piece of body armor, and one other piece of gear (grenade, medkit etc). They cannot bring helmets, shields, or other large rigid items.\nThe Squeeze leads to a dark hallway which leads to the Killing Floor\n\n\nThe Ambush\nA large chamber with a dome shaped ceiling that meets the floor. The room is littered with stalagmites, stalactites, and columns, At the very top of the dome there is an oculus made of Obsidian, a distraction.\nWhen the majority of the team enters the centre of the chamber 2D6 hidden LITHIUM TALOES will ambush them. 1d6 are on the floor whilst the other 1D6 are on the ceiling. The Taloes are slow and will try to position themselves in good positions before unleashing their explosive spit. This may give the team a bit of time to react.\nWhen the taloes die the resulting explosions will cause stalagmites and stalactites to fall. These will may cause 1D6 damage if not evaded.\n\n\nThe River\nThis chamber is split in half by a river of magma. Eruptions of magma regularly break the surface, dealing 1D6 damage. Jagged rocks and magma dripping from the ceiling makes the creation and use of a rope bridge very dangerous.\nAnything that falls into the magma river takes 3D6 damage.\nA ramp at the other side may be used during the escape if remembered."
+  },
+  {
+    "objectID": "Missions/M-DELVE.html#killing_floor",
+    "href": "Missions/M-DELVE.html#killing_floor",
+    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
+    "section": "The Killing Floor",
+    "text": "The Killing Floor\nThis chamber is distinct to the rest of the cave. It has a very low ceiling, is fairly narrow, and long. It is wide enough to fit a car though. Scattered around are columns made of crystalline iridescent Bismuth. Small cracks of flowing magma line the floor providing a small amount of light.\nAt one end of the chamber are the entrances into The Squeeze, The Ambush, and The River. At the other lays the route to the Raider’s chamber.\nA METAL ORE TALOS consisting of bismuth waits in the middle of the room. It stands as a silent and hidden sentry, ready to kill any intruders, FIST and DOT raiders alike. It is well disguised but has one less ARMOR due to the brittleness of bismuth.\nThe bismuth columns can be used as 2 ARMOR cover but the ARMOR rating is reduced by 1 when used to negate armor as the bismuth is chipped away."
+  },
+  {
+    "objectID": "Missions/M-DELVE.html#the-raiders-chamber",
+    "href": "Missions/M-DELVE.html#the-raiders-chamber",
+    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
+    "section": "The Raider’s Chamber",
+    "text": "The Raider’s Chamber\nThe Raider’s Chamber is full of ramshackle shelters and old cars. However, it is in a state of major disrepair as columns of magma flow down from the ceiling. It has recently been attacked by the Taloes that are in the Reservoir Chamber.\nThe surviving group is led by an ELDER DOTTER OF TARTARUS called Axel. Their standing force consists of 1D6 TARTARUS RAIDERS, and 2 TARTARUS MUTANTS. There are many more injured and dead.\nEvery so often a new OBSIDIAN LAVA TALOS emerges from the magma to attack the settlement. The DOT raiders want to escape. Their own only escapes are via the surface or back deeper into the DOT. They know they will be captured if they go to the surface. The only way deeper into the DOT is through the Reservoir Chamber containing Taloes that will kill them.\nThe raiders are willing to negotiate with the FIST team. They will not leave the chamber until there is a safe route to the DOT. Additionally, they won’t leave the surface route unguarded. They let the clones and FIST through the Overlook Chamber unharmed as they want to negotiate with the mercenaries.\nThey will offer the following weapon as immediate payment if FIST agrees to take care of the Taloes in the Reservoir Chamber.\nPanzerschreck Rocket launcher (1D6+2 DAMAGE, LOUD)\nLOUD weapon tag: Attacks with this weapon draw the undivided attention of enemies within earshot (and instantly reveal your position).\nIf the players try to negotiate Axel may also offer one or both of the extras items:\n\nReinforced silver fire suit (1 ARMOR)\nLending the players a TARTARUS MUTANT for the fight ahead\n\nIf the players agree, the raiders will pack their goods and injured into their vehicles so they are ready to escape through the Reservoir Chamber. They warn once the Taloes are slain this part of the DOT will start to crumble and the FIST team will need to be ready to run back to the surface. If they are not quick enough the caves will collapse and the new entrance of the DOT will disappear preventing their escape."
+  },
+  {
+    "objectID": "Missions/M-DELVE.html#reservoir-chamber",
+    "href": "Missions/M-DELVE.html#reservoir-chamber",
+    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
+    "section": "Reservoir Chamber",
+    "text": "Reservoir Chamber\nA mile long corridor leads from the Raider’s Chamber to the Reservoir Chamber.\nThe chamber is a roughly circular chamber with uneven flooring and large organised pillars. In the middle there is one large hexagonal pillar with cracks oozing with magma. Around the pillar is a mote of magma. The magma is going towards and up into the pillar.\nThere are OBSIDIAN LAVA TALOES surrounding the pillar performing some sort of ritual. Depending on the level of your players start with 3 or 6. If you start with fewer more can emerge from the lava if you feel it is appropriate. They either like to create cover with the abundance of lava and throw their spears or charge enemies with their arm blades.\nThey are trying to reactivate the volcano. If they are not stopped the village of Warboy will be destroyed and England will be blanketed in volcanic fog."
+  },
+  {
+    "objectID": "Missions/M-DELVE.html#escape",
+    "href": "Missions/M-DELVE.html#escape",
+    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
+    "section": "Escape",
+    "text": "Escape\nOnce the Taloes have been defeated the caves will start to collapse. If FIST sided with the DOT raiders they will drive through and thank FIST. They will pick up any Raiders who helped FIST in the fight and present FIST with a rusted dune buggy to escape with.\nDUNE BUGGY: 8 HP, 1 ARMOR.\nWhilst escaping ask for various rolls to avoid lava, falling rocks, and stalagmites in the various rooms they travel through.\nOnce they have retreated to the surface the new entrance to the DOT will collapse and FIST will have successfully complete the mission."
+  },
+  {
+    "objectID": "Missions/M-DELVE.html#overlook_chamber",
+    "href": "Missions/M-DELVE.html#overlook_chamber",
+    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
+    "section": "The Overlook Chamber",
+    "text": "The Overlook Chamber\nA large open chamber. There is relative quiet here allowing the team to investigate the rock structures and decide their plan of action.\n\nOverlook window\nA large window high up overlooks the chamber. There is one TARTARUS MAGNETIC SLINGER and one TARTARUS RAIDER overlooking the chamber. The window connects directly to the Raider’s chamber via a tight passage.\nThe pair will stay hidden and silent. Whilst the Slinger keeps overlook the raider will go back and forth to relay messages between the overlook and Raider leader at the Raider’s chamber.\nThey will engage the FIST team and call for reinforcements if FIST try to destroy any of the cave routes."
   }
 ]
