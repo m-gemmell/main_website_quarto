@@ -189,18 +189,18 @@
     "text": "Mission\nDrug deal of holy water. Team will either represent Delta (Proteus) to sell the holy water to some Gaians. Drug deal on bridge outside some city. Gaians will sneakily try to pay less than agreed.\nThis will be disrupted by Tartarus vigilantes. They don’t imprison criminals, only disrupt, redeem or kill them."
   },
   {
-    "objectID": "Missions/M-DELVE.html",
-    "href": "Missions/M-DELVE.html",
-    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
-    "section": "",
-    "text": "UNDER CONSTRUCTION"
-  },
-  {
     "objectID": "Missions/M-DELVE.html#mission",
     "href": "Missions/M-DELVE.html#mission",
     "title": "DELVE: DOT Expedition Leads to Vein Encounters",
     "section": "Mission",
     "text": "Mission\nDue to an earthquake a new cave has appeared at the extinct volcano near the village Warboys, England. This cave has an entrance to the DOT and DOT raiders have recently ransacked the town.\nThe military are currently setting up a quarantine and building a protective wall around the cave. This takes time so they want the raider trouble taken care of at the source.\nThe team’s mission is to team up with THE SILHOUETTE and prevent further raids from occurring.\nThe real threat is that OBSIDIAN LAVA TALOES are currently trying to reawaken the extinct volcano. They have attacked the Raider settlement, preventing any interference."
+  },
+  {
+    "objectID": "Missions/M-DELVE.html#reward",
+    "href": "Missions/M-DELVE.html#reward",
+    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
+    "section": "Reward",
+    "text": "Reward\nIf successful the military will reward the FIST team with all or some of the below items and a base upgrade (based on your system).\nKukri (1D6+1 DAMAGE, MENACING, THIRSTY)\nMENACING weapon tag: Enemies who see a comrade slain by this weapon have a 1-in-1D6 chance to flee.\nTHIRSTY weapon tag: Once this weapon is unsheathed, the weapon cannot be dropped by the user. Only once the weapon has drawn blood can it be sheathed and let go by the user.\n1D6 MP5s (1D6 DAMAGE)\nWestland Lynx military helicopter (16 HP, 1 ARMOR). It is a damaged prototype that will need to be repaired by FIST."
   },
   {
     "objectID": "Missions/M-DELVE.html#start-of-mission",
@@ -215,6 +215,62 @@
     "title": "DELVE: DOT Expedition Leads to Vein Encounters",
     "section": "The Expedition",
     "text": "The Expedition\nThe expedition is in 2 parts. First the players will control THE SILHOUETTE’s SILHOUETTE SHADOW CLONES investigating the DOT. The referee will act as THE SILHOUETTE coordinating the crew via radio. During this the players will each use the stats of a SILHOUETTE SHADOW CLONE. Each player will control a shadow clone and there will be 2 backup clones. When one clone dies allow the player to take over a backup clone. The clones will most likely die.\nOnce the clones have died, let your players agree as to which clone died in the coolest/funniest way. Reward that player a WAR DIE.\nIn the second part the players will go into the DOT to complete the mission. They will have all the intel from the clone’s incursion. Additionally, they will hopefully have less threats. They can also ask the military for some gear, this will require some good rolls and/or bargaining."
+  },
+  {
+    "objectID": "Missions/M-DELVE.html#the-dot",
+    "href": "Missions/M-DELVE.html#the-dot",
+    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
+    "section": "The DOT",
+    "text": "The DOT\nThis part of the DOT is like a limestone cave with stalagmites (floor), stalactites (ground), and columns. However, the rocks are actually all made of Diorite, a “salt and pepper” coloured rock. It is created from magma and it is found locally around Warboys due to the extinct volcano. Bits of magma are currently dripping from the stalactites solidifying into the Diorite. More magma is present as the team goes deeper into the cave. Although dangerous the magma does provide a low level of light."
+  },
+  {
+    "objectID": "Missions/M-DELVE.html#the-descent",
+    "href": "Missions/M-DELVE.html#the-descent",
+    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
+    "section": "The Descent",
+    "text": "The Descent\nThe first obstacle once entering the DOT is the descent. The raiders have put some shoddy metal steps into the steep and jagged rock surface.\nAsk the players how they approach this and let the consequences happen."
+  },
+  {
+    "objectID": "Missions/M-DELVE.html#overlook_chamber",
+    "href": "Missions/M-DELVE.html#overlook_chamber",
+    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
+    "section": "The Overlook Chamber",
+    "text": "The Overlook Chamber\nA large open chamber. There is relative quiet here allowing the team to investigate the rock structures and decide their plan of action.\n\nOverlook window\nA large window high up overlooks the chamber. There is one TARTARUS MAGNETIC SLINGER and one TARTARUS RAIDER overlooking the chamber. The window connects directly to the Raider’s chamber via a tight passage.\nThe pair will stay hidden and silent. Whilst the Slinger keeps overlook the raider will go back and forth to relay messages between the overlook and Raider leader at the Raider’s chamber.\nThey will engage the FIST team and call for reinforcements if FIST try to destroy any of the cave routes."
+  },
+  {
+    "objectID": "Missions/M-DELVE.html#passageways",
+    "href": "Missions/M-DELVE.html#passageways",
+    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
+    "section": "Passageways",
+    "text": "Passageways\nTheir are three seprarate passageways that lead from the Overlook Chamber to the Killing Floor. These are The Squeeze, The Ambush, and The River.\n\nThe Squeeze\nThis passage is a long winding jagged squeeze. There are no enemies but characters who go through this will have to leave items behind to make the squeeze. Once in deep enough they cannot go back. Normal sized characters can only bring through one weapon, one piece of body armor, and one other piece of gear (grenade, medkit etc). They cannot bring helmets, shields, or other large rigid items.\nThe Squeeze leads to a dark hallway which leads to the Killing Floor\n\n\nThe Ambush\nA large chamber with a dome shaped ceiling that meets the floor. The room is littered with stalagmites, stalactites, and columns, At the very top of the dome there is an oculus made of Obsidian, a distraction.\nWhen the majority of the team enters the centre of the chamber 2D6 hidden LITHIUM TALOES will ambush them. 1d6 are on the floor whilst the other 1D6 are on the ceiling. The Taloes are slow and will try to position themselves in good positions before unleashing their explosive spit. This may give the team a bit of time to react.\nWhen the taloes die the resulting explosions will cause stalagmites and stalactites to fall. These will may cause 1D6 damage if not evaded.\n\n\nThe River\nThis chamber is split in half by a river of magma. Eruptions of magma regularly break the surface, dealing 1D6 damage. Jagged rocks and magma dripping from the ceiling makes the creation and use of a rope bridge very dangerous.\nAnything that falls into the magma river takes 3D6 damage.\nA ramp at the other side may be used during the escape if remembered."
+  },
+  {
+    "objectID": "Missions/M-DELVE.html#killing_floor",
+    "href": "Missions/M-DELVE.html#killing_floor",
+    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
+    "section": "The Killing Floor",
+    "text": "The Killing Floor\nThis chamber is distinct to the rest of the cave. It has a very low ceiling, is fairly narrow, and long. It is wide enough to fit a car though. Scattered around are columns made of crystalline iridescent Bismuth. Small cracks of flowing magma line the floor providing a small amount of light.\nAt one end of the chamber are the entrances into The Squeeze, The Ambush, and The River. At the other lays the route to the Raider’s chamber.\nA METAL ORE TALOS consisting of bismuth waits in the middle of the room. It stands as a silent and hidden sentry, ready to kill any intruders, FIST and DOT raiders alike. It is well disguised but has one less ARMOR due to the brittleness of bismuth.\nThe bismuth columns can be used as 2 ARMOR cover but the ARMOR rating is reduced by 1 when used to negate armor as the bismuth is chipped away."
+  },
+  {
+    "objectID": "Missions/M-DELVE.html#the-raiders-chamber",
+    "href": "Missions/M-DELVE.html#the-raiders-chamber",
+    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
+    "section": "The Raider’s Chamber",
+    "text": "The Raider’s Chamber\nThe Raider’s Chamber is full of ramshackle shelters and old cars. However, it is in a state of major disrepair as columns of magma flow down from the ceiling. It has recently been attacked by the Taloes that are in the Reservoir Chamber.\nThe surviving group is led by an ELDER DOTTER OF TARTARUS called Axel. Their standing force consists of 1D6 TARTARUS RAIDERS, and 2 TARTARUS MUTANTS. There are many more injured and dead.\nEvery so often a new OBSIDIAN LAVA TALOS emerges from the magma to attack the settlement. The DOT raiders want to escape. Their own only escapes are via the surface or back deeper into the DOT. They know they will be captured if they go to the surface. The only way deeper into the DOT is through the Reservoir Chamber containing Taloes that will kill them.\nThe raiders are willing to negotiate with the FIST team. They will not leave the chamber until there is a safe route to the DOT. Additionally, they won’t leave the surface route unguarded. They let the clones and FIST through the Overlook Chamber unharmed as they want to negotiate with the mercenaries.\nThey will offer the following weapon as immediate payment if FIST agrees to take care of the Taloes in the Reservoir Chamber.\nPanzerschreck Rocket launcher (1D6+2 DAMAGE, LOUD)\nLOUD weapon tag: Attacks with this weapon draw the undivided attention of enemies within earshot (and instantly reveal your position).\nIf the players try to negotiate Axel may also offer one or both of the extras items:\n\nReinforced silver fire suit (1 ARMOR)\nLending the players a TARTARUS MUTANT for the fight ahead\n\nIf the players agree, the raiders will pack their goods and injured into their vehicles so they are ready to escape through the Reservoir Chamber. They warn once the Taloes are slain this part of the DOT will start to crumble and the FIST team will need to be ready to run back to the surface. If they are not quick enough the caves will collapse and the new entrance of the DOT will disappear preventing their escape."
+  },
+  {
+    "objectID": "Missions/M-DELVE.html#reservoir-chamber",
+    "href": "Missions/M-DELVE.html#reservoir-chamber",
+    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
+    "section": "Reservoir Chamber",
+    "text": "Reservoir Chamber\nA mile long corridor leads from the Raider’s Chamber to the Reservoir Chamber.\nThe chamber is a roughly circular chamber with uneven flooring and large organised pillars. In the middle there is one large hexagonal pillar with cracks oozing with magma. Around the pillar is a mote of magma. The magma is going towards and up into the pillar.\nThere are OBSIDIAN LAVA TALOES surrounding the pillar performing some sort of ritual. Depending on the level of your players start with 3 or 6. If you start with fewer more can emerge from the lava if you feel it is appropriate. They either like to create cover with the abundance of lava and throw their spears or charge enemies with their arm blades.\nThey are trying to reactivate the volcano. If they are not stopped the village of Warboy will be destroyed and England will be blanketed in volcanic fog."
+  },
+  {
+    "objectID": "Missions/M-DELVE.html#escape",
+    "href": "Missions/M-DELVE.html#escape",
+    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
+    "section": "Escape",
+    "text": "Escape\nOnce the Taloes have been defeated the caves will start to collapse. If FIST sided with the DOT raiders they will drive through and thank FIST. They will pick up any Raiders who helped FIST in the fight and present FIST with a rusted dune buggy to escape with.\nDUNE BUGGY: 8 HP, 1 ARMOR.\nWhilst escaping ask for various rolls to avoid lava, falling rocks, and stalagmites in the various rooms they travel through.\nOnce they have retreated to the surface the new entrance to the DOT will collapse and FIST will have successfully complete the mission."
   },
   {
     "objectID": "Missions/M-FAIR.html",
@@ -280,11 +336,11 @@
     "text": "This section contains various missions."
   },
   {
-    "objectID": "missions.html#dillemas",
-    "href": "missions.html#dillemas",
+    "objectID": "missions.html#dilemmas",
+    "href": "missions.html#dilemmas",
     "title": "Missions",
-    "section": "Dillemas",
-    "text": "Dillemas\nIn the below missions the team has to choose between one of two. Normally, 2 of the factions are up against each other and the team chooses which faction to side with which will determine the mission they ultimately carry out.\nPOPS: Possible Oil Pipe Sabotage. Either side with Kraken to prevent an oil pipe sabotage of TAG to do the sabotaging.\nAVOW: Assassinating the Veiled at the Opulent Wedding. Commit or stop the assassination of a Tartarus bride and their Proteus bride during their high profile matrimonies."
+    "section": "Dilemmas",
+    "text": "Dilemmas\nIn the below missions the team has to choose between one of two. Normally, 2 of the factions are up against each other and the team chooses which faction to side with which will determine the mission they ultimately carry out.\nAVOW: Assassinating the Veiled at the Opulent Wedding. Commit or stop the assassination of a Tartarus bride and their Proteus bride during their high profile matrimonies.\nPOPS: Possible Oil Pipe Sabotage. Either side with Kraken to prevent an oil pipe sabotage of TAG to do the sabotaging."
   },
   {
     "objectID": "missions.html#paranormal-event",
@@ -635,82 +691,5 @@
     "title": "Tartarus",
     "section": "",
     "text": "Tartarus is the ground we live on, they are the rocks, dirt, metal, and oil. Tartarus was once free with explosive energy but now lays dormant, encaged by the sky, trapped by Nyxmera. Tartarus loathes Nyxmera and Nyxmera’s apathy towards Tartarus fuels its bottled rage further.\nThe greatest presence of Tartarus is felt underground where Nyxmera cannot see with its eyes. Here you may find a deep black hole that leads to the DOT. The DOT is the Domain Of Taratarus. Time and space are inconsistent in the DOT. You may enter and subsequently leave in the past, present or future no matter how long you were in the DOT. Many monsters live in the DOT. Think Journey to the Center of the Earth, Narnia, the Fey Wild, The underdark etc.\nWorld governments have used the DOT as a dumping ground for garbage, scientific waste, and nuclear waste. This has lead to mutated humans and creatures due to the combination of radiation, chemicals, and the magic of the DOT. They mostly stay contained in the DOT but occasionally cause havoc on the surface.\n\nThe imprisoned deity of the earth.\nA seemingly calm surface with extreme power under the surface\nFollowers: Dotters of Tartarus\n\nFollowers include: Enslaved, prisoners, fighters, miners, oil workers, seismologists, & spelunkers\n\nGood activities\n\nFreeing the enslaved\nFight for justice\n\nEvil activities\n\nRaiding the surface\nRuthless capitalism\nDestruction of ecology\nPrison breaks\n\nBest followers\n\nRaider leader and Kraken higher ups who free modern day slaves and carry out prison breaks."
-  },
-  {
-    "objectID": "Missions/M-DELVE.html#reward",
-    "href": "Missions/M-DELVE.html#reward",
-    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
-    "section": "Reward",
-    "text": "Reward\nIf successful the military will reward the FIST team with all or some of the below items and a base upgrade (based on your system).\nKukri (1D6+1 DAMAGE, MENACING, THIRSTY)\nMENACING weapon tag: Enemies who see a comrade slain by this weapon have a 1-in-1D6 chance to flee.\nTHIRSTY weapon tag: Once this weapon is unsheathed, the weapon cannot be dropped by the user. Only once the weapon has drawn blood can it be sheathed and let go by the user.\n1D6 MP5s (1D6 DAMAGE)\nWestland Lynx military helicopter (16 HP, 1 ARMOR). It is a damaged prototype that will need to be repaired by FIST."
-  },
-  {
-    "objectID": "missions.html#dilmemas",
-    "href": "missions.html#dilmemas",
-    "title": "Missions",
-    "section": "Dilmemas",
-    "text": "Dilmemas\nIn the below missions the team has to choose between one of two. Normally, 2 of the factions are up against each other and the team chooses which faction to side with which will determine the mission they ultimately carry out.\nAVOW: Assassinating the Veiled at the Opulent Wedding. Commit or stop the assassination of a Tartarus bride and their Proteus bride during their high profile matrimonies.\nPOPS: Possible Oil Pipe Sabotage. Either side with Kraken to prevent an oil pipe sabotage of TAG to do the sabotaging."
-  },
-  {
-    "objectID": "Missions/M-DELVE.html#the-dot",
-    "href": "Missions/M-DELVE.html#the-dot",
-    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
-    "section": "The DOT",
-    "text": "The DOT\nThis part of the DOT is like a limestone cave with stalagmites (floor), stalactites (ground), and columns. However, the rocks are actually all made of Diorite, a “salt and pepper” coloured rock. It is created from magma and it is found locally around Warboys due to the extinct volcano. Bits of magma are currently dripping from the stalactites solidifying into the Diorite. More magma is present as the team goes deeper into the cave. Although dangerous the magma does provide a low level of light."
-  },
-  {
-    "objectID": "Missions/M-DELVE.html#the-descent",
-    "href": "Missions/M-DELVE.html#the-descent",
-    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
-    "section": "The Descent",
-    "text": "The Descent\nThe first obstacle once entering the DOT is the descent. The raiders have put some shoddy metal steps into the steep and jagged rock surface.\nAsk the players how they approach this and let the consequences happen."
-  },
-  {
-    "objectID": "Missions/M-DELVE.html#the-overlook-chamber",
-    "href": "Missions/M-DELVE.html#the-overlook-chamber",
-    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
-    "section": "The Overlook Chamber",
-    "text": "The Overlook Chamber\nA large open chamber. There is relative quiet here allowing the team to investigate the rock structures and decide their plan of action.\n\nOverlook window\nA large window high up overlooks the chamber. There is one TARTARUS MAGNETIC SLINGER and one TARTARUS RAIDER overlooking the chamber. The window connects directly to the Raider’s chamber via a tight passage.\nThe pair will stay hidden and silent. Whilst the Slinger keeps overlook the raider will go back and forth to relay messages between the overlook and Raider leader at the Raider’s chamber.\nThey will engage the FIST team and call for reinforcements if FIST try to destroy any of the cave routes."
-  },
-  {
-    "objectID": "Missions/M-DELVE.html#passageways",
-    "href": "Missions/M-DELVE.html#passageways",
-    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
-    "section": "Passageways",
-    "text": "Passageways\nTheir are three seprarate passageways that lead from the Overlook Chamber to the Killing Floor. These are The Squeeze, The Ambush, and The River.\n\nThe Squeeze\nThis passage is a long winding jagged squeeze. There are no enemies but characters who go through this will have to leave items behind to make the squeeze. Once in deep enough they cannot go back. Normal sized characters can only bring through one weapon, one piece of body armor, and one other piece of gear (grenade, medkit etc). They cannot bring helmets, shields, or other large rigid items.\nThe Squeeze leads to a dark hallway which leads to the Killing Floor\n\n\nThe Ambush\nA large chamber with a dome shaped ceiling that meets the floor. The room is littered with stalagmites, stalactites, and columns, At the very top of the dome there is an oculus made of Obsidian, a distraction.\nWhen the majority of the team enters the centre of the chamber 2D6 hidden LITHIUM TALOES will ambush them. 1d6 are on the floor whilst the other 1D6 are on the ceiling. The Taloes are slow and will try to position themselves in good positions before unleashing their explosive spit. This may give the team a bit of time to react.\nWhen the taloes die the resulting explosions will cause stalagmites and stalactites to fall. These will may cause 1D6 damage if not evaded.\n\n\nThe River\nThis chamber is split in half by a river of magma. Eruptions of magma regularly break the surface, dealing 1D6 damage. Jagged rocks and magma dripping from the ceiling makes the creation and use of a rope bridge very dangerous.\nAnything that falls into the magma river takes 3D6 damage.\nA ramp at the other side may be used during the escape if remembered."
-  },
-  {
-    "objectID": "Missions/M-DELVE.html#killing_floor",
-    "href": "Missions/M-DELVE.html#killing_floor",
-    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
-    "section": "The Killing Floor",
-    "text": "The Killing Floor\nThis chamber is distinct to the rest of the cave. It has a very low ceiling, is fairly narrow, and long. It is wide enough to fit a car though. Scattered around are columns made of crystalline iridescent Bismuth. Small cracks of flowing magma line the floor providing a small amount of light.\nAt one end of the chamber are the entrances into The Squeeze, The Ambush, and The River. At the other lays the route to the Raider’s chamber.\nA METAL ORE TALOS consisting of bismuth waits in the middle of the room. It stands as a silent and hidden sentry, ready to kill any intruders, FIST and DOT raiders alike. It is well disguised but has one less ARMOR due to the brittleness of bismuth.\nThe bismuth columns can be used as 2 ARMOR cover but the ARMOR rating is reduced by 1 when used to negate armor as the bismuth is chipped away."
-  },
-  {
-    "objectID": "Missions/M-DELVE.html#the-raiders-chamber",
-    "href": "Missions/M-DELVE.html#the-raiders-chamber",
-    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
-    "section": "The Raider’s Chamber",
-    "text": "The Raider’s Chamber\nThe Raider’s Chamber is full of ramshackle shelters and old cars. However, it is in a state of major disrepair as columns of magma flow down from the ceiling. It has recently been attacked by the Taloes that are in the Reservoir Chamber.\nThe surviving group is led by an ELDER DOTTER OF TARTARUS called Axel. Their standing force consists of 1D6 TARTARUS RAIDERS, and 2 TARTARUS MUTANTS. There are many more injured and dead.\nEvery so often a new OBSIDIAN LAVA TALOS emerges from the magma to attack the settlement. The DOT raiders want to escape. Their own only escapes are via the surface or back deeper into the DOT. They know they will be captured if they go to the surface. The only way deeper into the DOT is through the Reservoir Chamber containing Taloes that will kill them.\nThe raiders are willing to negotiate with the FIST team. They will not leave the chamber until there is a safe route to the DOT. Additionally, they won’t leave the surface route unguarded. They let the clones and FIST through the Overlook Chamber unharmed as they want to negotiate with the mercenaries.\nThey will offer the following weapon as immediate payment if FIST agrees to take care of the Taloes in the Reservoir Chamber.\nPanzerschreck Rocket launcher (1D6+2 DAMAGE, LOUD)\nLOUD weapon tag: Attacks with this weapon draw the undivided attention of enemies within earshot (and instantly reveal your position).\nIf the players try to negotiate Axel may also offer one or both of the extras items:\n\nReinforced silver fire suit (1 ARMOR)\nLending the players a TARTARUS MUTANT for the fight ahead\n\nIf the players agree, the raiders will pack their goods and injured into their vehicles so they are ready to escape through the Reservoir Chamber. They warn once the Taloes are slain this part of the DOT will start to crumble and the FIST team will need to be ready to run back to the surface. If they are not quick enough the caves will collapse and the new entrance of the DOT will disappear preventing their escape."
-  },
-  {
-    "objectID": "Missions/M-DELVE.html#reservoir-chamber",
-    "href": "Missions/M-DELVE.html#reservoir-chamber",
-    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
-    "section": "Reservoir Chamber",
-    "text": "Reservoir Chamber\nA mile long corridor leads from the Raider’s Chamber to the Reservoir Chamber.\nThe chamber is a roughly circular chamber with uneven flooring and large organised pillars. In the middle there is one large hexagonal pillar with cracks oozing with magma. Around the pillar is a mote of magma. The magma is going towards and up into the pillar.\nThere are OBSIDIAN LAVA TALOES surrounding the pillar performing some sort of ritual. Depending on the level of your players start with 3 or 6. If you start with fewer more can emerge from the lava if you feel it is appropriate. They either like to create cover with the abundance of lava and throw their spears or charge enemies with their arm blades.\nThey are trying to reactivate the volcano. If they are not stopped the village of Warboy will be destroyed and England will be blanketed in volcanic fog."
-  },
-  {
-    "objectID": "Missions/M-DELVE.html#escape",
-    "href": "Missions/M-DELVE.html#escape",
-    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
-    "section": "Escape",
-    "text": "Escape\nOnce the Taloes have been defeated the caves will start to collapse. If FIST sided with the DOT raiders they will drive through and thank FIST. They will pick up any Raiders who helped FIST in the fight and present FIST with a rusted dune buggy to escape with.\nDUNE BUGGY: 8 HP, 1 ARMOR.\nWhilst escaping ask for various rolls to avoid lava, falling rocks, and stalagmites in the various rooms they travel through.\nOnce they have retreated to the surface the new entrance to the DOT will collapse and FIST will have successfully complete the mission."
-  },
-  {
-    "objectID": "Missions/M-DELVE.html#overlook_chamber",
-    "href": "Missions/M-DELVE.html#overlook_chamber",
-    "title": "DELVE: DOT Expedition Leads to Vein Encounters",
-    "section": "The Overlook Chamber",
-    "text": "The Overlook Chamber\nA large open chamber. There is relative quiet here allowing the team to investigate the rock structures and decide their plan of action.\n\nOverlook window\nA large window high up overlooks the chamber. There is one TARTARUS MAGNETIC SLINGER and one TARTARUS RAIDER overlooking the chamber. The window connects directly to the Raider’s chamber via a tight passage.\nThe pair will stay hidden and silent. Whilst the Slinger keeps overlook the raider will go back and forth to relay messages between the overlook and Raider leader at the Raider’s chamber.\nThey will engage the FIST team and call for reinforcements if FIST try to destroy any of the cave routes."
   }
 ]

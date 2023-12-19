@@ -114,16 +114,16 @@ website:
         - section: "Dilemmas"
           contents:
             - href: Missions/M-AVOW.qmd
-            - href: Missions/M-DEBT.qmd
-            - href: Missions/M-FAIR.qmd
+            #- href: Missions/M-DEBT.qmd
+            #- href: Missions/M-FAIR.qmd
             - href: Missions/M-POPS.qmd
         - section: "Paranormal event"
           contents:
             - href: Missions/M-AWE.qmd
             - href: Missions/M-DELVE.qmd
-        - section: "Bombastic"
-          contents:
-            - href: Missions/M-TIDY.qmd
+        #- section: "Bombastic"
+          #contents:
+            #- href: Missions/M-TIDY.qmd
     - id: Catalog
       title: "Catalog"
       style: "floating"

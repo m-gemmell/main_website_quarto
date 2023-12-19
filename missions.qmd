@@ -7,7 +7,7 @@ editor:
 
 This section contains various missions.
 
-## Dilmemas
+## Dilemmas
 
 In the below missions the team has to choose between one of two. Normally, 2 of the factions are up against each other and the team chooses which faction to side with which will determine the mission they ultimately carry out.
 
