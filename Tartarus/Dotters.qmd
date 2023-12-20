@@ -1,9 +1,11 @@
 ---
-title: "Followers"
+title: "Dotters of Tartarus"
 editor: 
   markdown: 
     wrap: sentence
 ---
+
+![](images/dotters.png){width=30% fig-align="center"}
 
 ## DOTTER OF TARTARUS {#dotter}
 

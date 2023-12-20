@@ -20,14 +20,14 @@ editor:
     - [Starvatar of Nyxmera](/Nyxmera/Starvatars.qmd#starvatar)
 - Tartarus
   - Followers
-    - [Dotter of Tartarus](/Tartarus/Followers.qmd#Dotter)
-    - [ELDER DOTTER OF TARTARUS](/Tartarus/Followers.qmd#elder_dotter)
+    - [DOTTER OF TARTARUS](/Tartarus/Dotters.qmd#Dotter)
+    - [ELDER DOTTER OF TARTARUS](/Tartarus/Dotters.qmd#elder_dotter)
   - DOT raiders
     - [TARTARUS RAIDER](/Tartarus/DOT_raiders.qmd#raider)
     - [TARTARUS MUTANT](/Tartarus/DOT_raiders.qmd#tartarus_mutant)
     - [TARTARUS FIRE WARRIOR](/Tartarus/DOT_raiders.qmd#fire_warrior)
     - [TARTARUS MAGNETIC SLINGER](/Tartarus/DOT_raiders.qmd#magnetic_slinger)
-    - [Scrapper](/Tartarus/DOT_raiders.qmd#scrapper)
+    - [SCRAPPER](/Tartarus/DOT_raiders.qmd#scrapper)
   - Kraken
     - [KRAKEN SECURITY GUARDS](/Tartarus/Kraken.qmd#kraken_guard)
     - [Kraken private contractors](/Tartarus/Kraken.qmd#kraken_contractors)

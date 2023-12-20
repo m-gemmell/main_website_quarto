@@ -80,7 +80,7 @@ website:
       align: left
       contents:
         - href: tartarus.qmd
-        - href: Tartarus/Followers.qmd
+        - href: Tartarus/Dotters.qmd
         - href: Tartarus/DOT_raiders.qmd
         - href: Tartarus/Kraken.qmd
         - href: Tartarus/Taloes.qmd

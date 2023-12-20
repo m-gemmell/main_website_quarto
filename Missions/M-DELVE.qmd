@@ -149,7 +149,7 @@ The Raider's Chamber is full of ramshackle shelters and old cars.
 However, it is in a state of major disrepair as columns of magma flow down from the ceiling.
 It has recently been attacked by the Taloes that are in the Reservoir Chamber.
 
-The surviving group is led by an [ELDER DOTTER OF TARTARUS](/Tartarus/Followers.qmd#elder_dotter) called Axel.
+The surviving group is led by an [ELDER DOTTER OF TARTARUS](/Tartarus/Dotters.qmd#elder_dotter) called Axel.
 Their standing force consists of 1D6 [TARTARUS RAIDERS](/Tartarus/DOT_raiders.qmd#raider), and 2 [TARTARUS MUTANTS](/Tartarus/DOT_raiders.qmd#tartarus_mutant).
 There are many more injured and dead.
 
