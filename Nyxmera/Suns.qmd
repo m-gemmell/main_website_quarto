@@ -1,9 +1,11 @@
 ---
-title: "Followers"
+title: "Suns of Nyxmera"
 editor: 
   markdown: 
     wrap: sentence
 ---
+
+![](images/suns_of_nyxmera.png){width=30% fig-align="center"}
 
 ## SUN OF NYXMERA {#sun_nyxmera}
 

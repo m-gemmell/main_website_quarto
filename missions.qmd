@@ -7,6 +7,10 @@ editor:
 
 This section contains various missions.
 
+## Ops
+
+Ops are intended to be short missions that are quick to set-up.
+
 ## Dilemmas
 
 In the below missions the team has to choose between one of two. Normally, 2 of the factions are up against each other and the team chooses which faction to side with which will determine the mission they ultimately carry out.
@@ -15,7 +19,7 @@ In the below missions the team has to choose between one of two. Normally, 2 of 
 
 [__POPS: Possible Oil Pipe Sabotage__](/Missions/M-POPS.qmd). Either side with Kraken to prevent an oil pipe sabotage of TAG to do the sabotaging.
 
-## Paranormal event
+## Paranormal events
 
 In the below missions the team will have to investigate and stop a paranormal event. This may involve monster hunting, exploring strange places, or something completely different.
 

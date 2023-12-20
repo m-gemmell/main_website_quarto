@@ -1,27 +1,27 @@
 {
-    "id": "55C47D62",
-    "path": "F:/Git/PRIMEVAL_DEITIES/Missions/M-DELVE.qmd",
-    "project_path": "Missions/M-DELVE.qmd",
+    "id": "CA5E4C72",
+    "path": "F:/Git/PRIMEVAL_DEITIES/Nyxmera/Camera_Obscura.qmd",
+    "project_path": "Nyxmera/Camera_Obscura.qmd",
     "type": "quarto_markdown",
-    "hash": "1635978638",
+    "hash": "563269039",
     "contents": "",
     "dirty": false,
-    "created": 1702896057773.0,
+    "created": 1703070880895.0,
     "source_on_save": false,
-    "relative_order": 5,
+    "relative_order": 6,
     "properties": {
         "rmdVisualMode": "false",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "202,75",
-        "scrollLine": "160"
+        "cursorPosition": "7,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1702929611,
+    "lastKnownWriteTime": 1703070889,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1702929611114,
+    "last_content_update": 1703070889245,
     "read_only": false,
     "read_only_alternatives": []
 }

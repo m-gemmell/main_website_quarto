@@ -4,14 +4,14 @@
     "href": "catalog.html",
     "title": "Catalog",
     "section": "",
-    "text": "Nyxmera\n\nFollowers\n\nSun of Nyxmera\nMouth of Nyxmera\n\nTroops\n\nNyxmera trooper\nNyxmera Light Trooper\nNyxmera Dark Trooper\n\nStarvatars\n\nStarvatar of Nyxmera\n\n\nTartarus\n\nFollowers\n\nDotter of Tartarus\nELDER DOTTER OF TARTARUS\n\nDOT raiders\n\nTARTARUS RAIDER\nTARTARUS MUTANT\nTARTARUS FIRE WARRIOR\nTARTARUS MAGNETIC SLINGER\nScrapper\n\nKraken\n\nKRAKEN SECURITY GUARDS\nKraken private contractors\n\nTaloes\n\nMETAL ORE TALOS\nOBSIDIAN LAVA TALOS\nLITHIUM TALOS\nRadiactive Gem Talos\n\n\nGaia\n\nTAG\n\nTAG Protestor\nTAG Eco Fighter\nTAG Hacker\nTAG leader"
+    "text": "Nyxmera\n\nFollowers\n\nSUN OF NYXMERA\nMOUTH OF NYXMERAa\n\nTroops\n\nNyxmera trooper\nNyxmera Light Trooper\nNyxmera Dark Trooper\n\nStarvatars\n\nStarvatar of Nyxmera\n\n\nTartarus\n\nFollowers\n\nDotter of Tartarus\nELDER DOTTER OF TARTARUS\n\nDOT raiders\n\nTARTARUS RAIDER\nTARTARUS MUTANT\nTARTARUS FIRE WARRIOR\nTARTARUS MAGNETIC SLINGER\nScrapper\n\nKraken\n\nKRAKEN SECURITY GUARDS\nKraken private contractors\n\nTaloes\n\nMETAL ORE TALOS\nOBSIDIAN LAVA TALOS\nLITHIUM TALOS\nRadiactive Gem Talos\n\n\nGaia\n\nTAG\n\nTAG Protestor\nTAG Eco Fighter\nTAG Hacker\nTAG leader"
   },
   {
     "objectID": "catalog.html#link-to-all-units",
     "href": "catalog.html#link-to-all-units",
     "title": "Catalog",
     "section": "",
-    "text": "Nyxmera\n\nFollowers\n\nSun of Nyxmera\nMouth of Nyxmera\n\nTroops\n\nNyxmera trooper\nNyxmera Light Trooper\nNyxmera Dark Trooper\n\nStarvatars\n\nStarvatar of Nyxmera\n\n\nTartarus\n\nFollowers\n\nDotter of Tartarus\nELDER DOTTER OF TARTARUS\n\nDOT raiders\n\nTARTARUS RAIDER\nTARTARUS MUTANT\nTARTARUS FIRE WARRIOR\nTARTARUS MAGNETIC SLINGER\nScrapper\n\nKraken\n\nKRAKEN SECURITY GUARDS\nKraken private contractors\n\nTaloes\n\nMETAL ORE TALOS\nOBSIDIAN LAVA TALOS\nLITHIUM TALOS\nRadiactive Gem Talos\n\n\nGaia\n\nTAG\n\nTAG Protestor\nTAG Eco Fighter\nTAG Hacker\nTAG leader"
+    "text": "Nyxmera\n\nFollowers\n\nSUN OF NYXMERA\nMOUTH OF NYXMERAa\n\nTroops\n\nNyxmera trooper\nNyxmera Light Trooper\nNyxmera Dark Trooper\n\nStarvatars\n\nStarvatar of Nyxmera\n\n\nTartarus\n\nFollowers\n\nDotter of Tartarus\nELDER DOTTER OF TARTARUS\n\nDOT raiders\n\nTARTARUS RAIDER\nTARTARUS MUTANT\nTARTARUS FIRE WARRIOR\nTARTARUS MAGNETIC SLINGER\nScrapper\n\nKraken\n\nKRAKEN SECURITY GUARDS\nKraken private contractors\n\nTaloes\n\nMETAL ORE TALOS\nOBSIDIAN LAVA TALOS\nLITHIUM TALOS\nRadiactive Gem Talos\n\n\nGaia\n\nTAG\n\nTAG Protestor\nTAG Eco Fighter\nTAG Hacker\nTAG leader"
   },
   {
     "objectID": "Gaia/Skyuss.html",
@@ -336,6 +336,13 @@
     "text": "This section contains various missions."
   },
   {
+    "objectID": "missions.html#ops",
+    "href": "missions.html#ops",
+    "title": "Missions",
+    "section": "Ops",
+    "text": "Ops\nOps are intended to be short missions that are quick to set-up."
+  },
+  {
     "objectID": "missions.html#dilemmas",
     "href": "missions.html#dilemmas",
     "title": "Missions",
@@ -343,11 +350,11 @@
     "text": "Dilemmas\nIn the below missions the team has to choose between one of two. Normally, 2 of the factions are up against each other and the team chooses which faction to side with which will determine the mission they ultimately carry out.\nAVOW: Assassinating the Veiled at the Opulent Wedding. Commit or stop the assassination of a Tartarus bride and their Proteus bride during their high profile matrimonies.\nPOPS: Possible Oil Pipe Sabotage. Either side with Kraken to prevent an oil pipe sabotage of TAG to do the sabotaging."
   },
   {
-    "objectID": "missions.html#paranormal-event",
-    "href": "missions.html#paranormal-event",
+    "objectID": "missions.html#paranormal-events",
+    "href": "missions.html#paranormal-events",
     "title": "Missions",
-    "section": "Paranormal event",
-    "text": "Paranormal event\nIn the below missions the team will have to investigate and stop a paranormal event. This may involve monster hunting, exploring strange places, or something completely different.\nDELVE: DOT Expedition Leads to Vein Encounters. An new entrance to the DOT has opened. Investigate and stop further raids from occurring.\nAWE: Auroras & Worm Eradications. A Refraction Sports event may be stopped due to skiers and snowboarders being found eaten by beasts. Found out what’s going on and stop it."
+    "section": "Paranormal events",
+    "text": "Paranormal events\nIn the below missions the team will have to investigate and stop a paranormal event. This may involve monster hunting, exploring strange places, or something completely different.\nDELVE: DOT Expedition Leads to Vein Encounters. An new entrance to the DOT has opened. Investigate and stop further raids from occurring.\nAWE: Auroras & Worm Eradications. A Refraction Sports event may be stopped due to skiers and snowboarders being found eaten by beasts. Found out what’s going on and stop it."
   },
   {
     "objectID": "missions.html#bombastic",
@@ -392,27 +399,6 @@
     "text": "SILHOUETTE SHADOW CLONE\n(1 HP)\n\nFAMAS assault rifle (1D6+1 DAMAGE)\nHeavy riot shield (2 ARMOR, equip as weapon)\nDeep black tactical gear (1 ARMOR)\nRadio headset\n\nIMMATERIAL: These beings are shadows given life. Their only desire is to complete their mission and become one with the darkness again. When they die they leave only their gear behind. They can die at will so will never be captured."
   },
   {
-    "objectID": "Nyxmera/Followers.html",
-    "href": "Nyxmera/Followers.html",
-    "title": "Followers",
-    "section": "",
-    "text": "(3 HP, CHOKE 3: Stare and applaud)\n\nLarge mobile phone\nCamera\nBinoculars\nCasual clothing with eyes in space theme\n\nGAWKER: These followers of Nyxmera act as eyes of the deity and nothing more. They mindlessly consume content and go out of their way to witness danger. They will call in further Suns of Nyxmera if they see a dangerous event possibly causing further civilian casualties."
-  },
-  {
-    "objectID": "Nyxmera/Followers.html#sun_nyxmera",
-    "href": "Nyxmera/Followers.html#sun_nyxmera",
-    "title": "Followers",
-    "section": "",
-    "text": "(3 HP, CHOKE 3: Stare and applaud)\n\nLarge mobile phone\nCamera\nBinoculars\nCasual clothing with eyes in space theme\n\nGAWKER: These followers of Nyxmera act as eyes of the deity and nothing more. They mindlessly consume content and go out of their way to witness danger. They will call in further Suns of Nyxmera if they see a dangerous event possibly causing further civilian casualties."
-  },
-  {
-    "objectID": "Nyxmera/Followers.html#mouth_nyxmera",
-    "href": "Nyxmera/Followers.html#mouth_nyxmera",
-    "title": "Followers",
-    "section": "MOUTH OF NYXMERA",
-    "text": "MOUTH OF NYXMERA\n(3 HP, CHOKE 4: Escape from current situation and lie low)\n\nLaser finger gun (1D6 DAMAGE)\nHard light shard (Teleport user to a pre designated place within 1 mile, 1 use).\nVery extravagant and bombastic\nOutwardly Friendly to friends and aggressive to enemies\n\nCAPRICIOUS: Leaders amongst the followers of Nyxmera. They tend to be high up in entertainment or politics. Always keen to cause the most drama they may be a friend of FIST one mission and then an enemy the next. They are in it for the long game and want to remain in Nyxmera’s spotlight for a long time. They will try to create an interesting series of events for Nyxmera to watch."
-  },
-  {
     "objectID": "Nyxmera/Mooners.html",
     "href": "Nyxmera/Mooners.html",
     "title": "Mooners",
@@ -441,6 +427,20 @@
     "text": "PURPLE MOON OF NYXMERA\nUNDER CONSTRUCTION\n\n\nA humanoid of night sky larger than a blue whale.\nIts head is a purple crated orb, the purple moon.\n\nVOYEUR: Depictions of the past show the purple moon in the night sky. Now it perpetually lives as the ultimate representation of Nyxmera. None can question its authority within the suns of Nyxmera and few can match its power outside. It lives in its massive estate filled with theatres, cinemas, libraries, rooms full of TVs. Only the best are allowed to entertain the Purple Moon, and only the richest can join the viewing. They love sowing drama and comedy, having taken to trolling on elite chat boards. The purple moon can see anything and everything bathed by the Grey Moon’s light."
   },
   {
+    "objectID": "Nyxmera/Suns.html#sun_nyxmera",
+    "href": "Nyxmera/Suns.html#sun_nyxmera",
+    "title": "Suns of Nyxmera",
+    "section": "SUN OF NYXMERA",
+    "text": "SUN OF NYXMERA\n(3 HP, CHOKE 3: Stare and applaud)\n\nLarge mobile phone\nCamera\nBinoculars\nCasual clothing with eyes in space theme\n\nGAWKER: These followers of Nyxmera act as eyes of the deity and nothing more. They mindlessly consume content and go out of their way to witness danger. They will call in further Suns of Nyxmera if they see a dangerous event possibly causing further civilian casualties."
+  },
+  {
+    "objectID": "Nyxmera/Suns.html#mouth_nyxmera",
+    "href": "Nyxmera/Suns.html#mouth_nyxmera",
+    "title": "Suns of Nyxmera",
+    "section": "MOUTH OF NYXMERA",
+    "text": "MOUTH OF NYXMERA\n(3 HP, CHOKE 4: Escape from current situation and lie low)\n\nLaser finger gun (1D6 DAMAGE)\nHard light shard (Teleport user to a pre designated place within 1 mile, 1 use).\nVery extravagant and bombastic\nOutwardly Friendly to friends and aggressive to enemies\n\nCAPRICIOUS: Leaders amongst the followers of Nyxmera. They tend to be high up in entertainment or politics. Always keen to cause the most drama they may be a friend of FIST one mission and then an enemy the next. They are in it for the long game and want to remain in Nyxmera’s spotlight for a long time. They will try to create an interesting series of events for Nyxmera to watch."
+  },
+  {
     "objectID": "Nyxmera/Troops.html",
     "href": "Nyxmera/Troops.html",
     "title": "Troops",
@@ -451,29 +451,29 @@
     "objectID": "Nyxmera/Troops.html#nyxmera_tropper",
     "href": "Nyxmera/Troops.html#nyxmera_tropper",
     "title": "Troops",
-    "section": "",
-    "text": "(3 HP, 2D6 appear)\n\nSemi-Auto Laser rifle (Choose 1 of 2D6 DAMAGE, 1D6 DAMAGE for other users)\nMeteor scrap metal armor (1 ARMOR)\nRifle mounted light (Directional close range sight in the dark)\nBlack and white fatigues, covered in scraps of meteor metal.\n\nDUALITY: These troopers embody the day and night extremes of Nyxmera. They will shoot allies and enemies alike with their laser rifles. When dealing damage with these they harm the target on even totals and heal the target on odd totals. Normally the referee will choose which die to use. However, if a player adds one or more WAR DICE they choose which single dice to remove from the DAMAGE."
+    "section": "NYXMERA TROOPER",
+    "text": "NYXMERA TROOPER\n(3 HP, 2D6 appear)\n\nSemi-Auto Laser rifle (Choose 1 of 2D6 DAMAGE, 1D6 DAMAGE for other users)\nMeteorite scrap metal armor (1 ARMOR)\nRifle mounted light (Directional close range sight in the dark)\nBlack and white fatigues, covered in scraps of meteor metal.\n\nDUALITY: These troopers embody the day and night extremes of Nyxmera. They will shoot allies and enemies alike with their laser rifles. When dealing damage with these they harm the target on even totals and heal the target on odd totals. Normally the referee will choose which die to use. However, if a player adds one or more WAR DICE they choose which single dice to remove from the DAMAGE."
   },
   {
     "objectID": "Nyxmera/Troops.html#nyxmera_light_tropper",
     "href": "Nyxmera/Troops.html#nyxmera_light_tropper",
     "title": "Troops",
     "section": "NYXMERA LIGHT TROOPER",
-    "text": "NYXMERA LIGHT TROOPER\n(3 HP, 1D6 appear)\n\nLaser shotgun (1D6 + 1 DAMAGE)\n1D6 stun grenades (temporary blinding, one use)\nHelmet mounted lantern (close range sight in the dark)\nMeteor metal armor (2 ARMOR)\nHard light projector (1 use)\n\nSTEADFAST: These heavy troopers stand strong against the dark. They routinely use the combination of their lanterns and hard light projectors to corner enemies.\nHardlight wall generator weapon: A heavy 2 handed device that can create a 2 ARMOR 5 foot tall by 10 foot wide hard light wall projection 10 feet in front of the device. It must be continuously fired whilst the user is illuminated. Due to the weight of the hard light the wall must be kept on the ground for normal humans. The hard light is frictionless and so can be moved slowly by the user."
+    "text": "NYXMERA LIGHT TROOPER\n(3 HP, 1D6 appear)\n\nLaser shotgun (1D6 + 1 DAMAGE)\n1D6 stun grenades (temporary blinding, one use)\nHelmet mounted lantern (close range sight in the dark)\nMeteorite metal armor (2 ARMOR)\nHard light projector (1 use)\n\nSTEADFAST: These heavy troopers stand strong against the dark. They routinely use the combination of their lanterns and hard light projectors to corner enemies.\nHardlight wall generator weapon: A heavy 2 handed device that can create a 2 ARMOR 5 foot tall by 10 foot wide hard light wall projection 10 feet in front of the device. It must be continuously fired whilst the user is illuminated. Due to the weight of the hard light the wall must be kept on the ground for normal humans. The hard light is frictionless and so can be moved slowly by the user."
   },
   {
     "objectID": "Nyxmera/Troops.html#nyxmera_dark_trooper",
     "href": "Nyxmera/Troops.html#nyxmera_dark_trooper",
     "title": "Troops",
-    "section": "NYXMERA DARk TROOPER",
-    "text": "NYXMERA DARk TROOPER\n(6 HP)\n\nMeteor sword (1D6 + 1 DAMAGE, LIGHT)\nNight vision goggles (see at night)\nLight diffraction weave bodysuit (1 ARMOR, difficult to see)\nShadow boots (Can teleport from one shadow to another within a range of 30 feet, 1 use)\nDeployable hard light hoverboard (accessory)\n\nPATIENT: The dark trooper will watch and stalk enemies. It will bide its time for the best opportunity to reveal itself based on how cool it would be. If it begins a fight with no backup it will take no DAMAGE from the first attack against them, doing a narly flip or trick to evade it."
+    "section": "NYXMERA DARK TROOPER",
+    "text": "NYXMERA DARK TROOPER\n(6 HP)\n\nMeteorite sword (1D6 + 1 DAMAGE, LIGHT)\nNight vision goggles (see at night)\nLight diffraction weave bodysuit (1 ARMOR, difficult to see)\nShadow boots (Can teleport from one shadow to another within a range of 30 feet, 1 use)\nDeployable hard light hoverboard (accessory)\n\nPATIENT: The dark trooper will watch and stalk enemies. It will bide its time for the best opportunity to reveal itself based on how cool it would be. If it begins a fight with no backup it will take no DAMAGE from the first attack against them, doing a narly flip or trick to evade it."
   },
   {
     "objectID": "nyxmera.html",
     "href": "nyxmera.html",
     "title": "Nyxmera",
     "section": "",
-    "text": "Nyxmera is the light, literally. All the celestial bodies are known as the eyes of Nyxmera, the sun, the grey and purple moons, the planets and the stars. With these Nyxmera watches, they want to be entertained.\nHowever, some think that these physical objects are Nyxmera but they are mistaken. It is the light that comes from these that make Nyxmera. And even though Nyxmera spans all of space it is stuck in a perpetual gaze. No wonder it sends its starvatars to Earth for some fun.\nIts logo represents the duality of the sky and Nyzmera’s eyes. On one side the blue sky and sun. On the other the night sky with the Grey Moon and Purple Moon. The Purple Moon now permanently resides on earth as the supreme Starvartar of Nyxmera.\n\nThe two-sided deity of night and day\nLoves extremes of good and evil, conflict, and drama\nFollowers: Suns of Nyxmera\n\nFollowers include navigators, space enthusiasts, story tellers, and entertainers\n\nGood factions\n\nGenerally do very visible good such as disaster relief, peace keeping, good police etc.\n\nBad factions\n\nGenerally do evil in the dark such as war, human trafficking\n\nBest followers\n\nThose who do extreme good and evils\nExamples include\n\nGood cops that are also very corrupt\nActors who bring joy to the public but have a dark private side"
+    "text": "Nyxmera is the light. All the celestial bodies are known as the eyes of Nyxmera, the sun, the grey moon, the purple moon, the planets, and the stars. With these Nyxmera watches, it wants to be entertained. Something its followers, Suns of Nyxmera, are more than happy to facilitate.\nNyxmera is everything but Earth. It craves what it can’t take. There is so much of interest on such a tiny orb, so Nyxmera is stuck in a perpetual gaze.\nIts logo represents the duality of the sky and Nyxmera’s eyes. On one side the blue sky and sun. On the other the night sky with the Grey Moon and Purple Moon. Nyxmera loves extremes; good and evil, comedy and drama, love and war.\nNyxmera’s presence is felt on Earth in various ways. Its eyes are always staring and so follower’s seek to entertain it. Meteors and meteorites are a major source of Nyxmera’s gifts and punishments. Craters and meteorites are special to the Suns of Nyxmera, used to create many outdoor theatres. Many say Nyxmera was bored of watching dinosaurs and so sent a meteorite like one may change the channel. The Starvatars live on Earth with the Purple Moon now permanently on earth as the supreme Starvartar of Nyxmera.\nSuns of Nyxmera are varied and include navigators, story tellers, space enthusiasts, and entertainers. Good Suns may help with disaster relief, peace keeping, and justice. Evil Suns may be involved with war, human trafficking, and corruption. The perfect Suns will do both good and evil. They must amuse Nyxmera to be rewarded and prevent punishment."
   },
   {
     "objectID": "Proteus/Followers.html",

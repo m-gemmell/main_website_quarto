@@ -69,7 +69,7 @@ website:
       align: left
       contents:
         - href: nyxmera.qmd
-        - href: Nyxmera/Followers.qmd
+        - href: Nyxmera/Suns.qmd
         - href: Nyxmera/Troops.qmd
         - href: Nyxmera/Camera_Obscura.qmd
         - href: Nyxmera/Mooners.qmd
