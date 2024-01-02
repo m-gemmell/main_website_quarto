@@ -101,8 +101,8 @@
     "objectID": "Missions/M-AVOW.html#dilemma",
     "href": "Missions/M-AVOW.html#dilemma",
     "title": "AVOW: Assassinating the Veiled at the Opulent Wedding",
-    "section": "",
-    "text": "Team chooses one of 2 options:\n\nHired by Gaians to stop assassination attempts during the wedding.\nHired by Camera Obscura to assassinate the 2 brides. Camera Obscura agents are known as shutterbugs.\n\nTwo very rich and influential brides are to marry at a very opulent wedding. One bride is called River Dullcoin, an ELDER DOTTER OF TARTARUS. She is the daughter of Marian Dullcoin, CEO of Kraken. The second bride is River Ox, a PROTEAN CAPTAIN. They are a famous and well renowned figure skating coach, many of her skaters having won golds in the winter Olympics.\nThe wedding takes place at a extravagant estate. It is by the Ruby River in southwestern Montana."
+    "section": "Dilemma",
+    "text": "Dilemma\nTeam chooses one of 2 options:\n\nHired by Gaians to stop assassination attempts during the wedding.\nHired by Camera Obscura to assassinate the 2 brides. Camera Obscura agents are known as shutterbugs.\n\nTwo very rich and influential brides are to marry at a very opulent wedding. One bride is called River Dullcoin, an ELDER DOTTER OF TARTARUS. She is the daughter of Marian Dullcoin, CEO of Kraken. The second bride is River Ox, a PROTEAN CAPTAIN. They are a famous and well renowned figure skating coach, many of her skaters having won golds in the winter Olympics.\nThe wedding takes place at a extravagant estate. It is by the Ruby River in southwestern Montana."
   },
   {
     "objectID": "Missions/M-AVOW.html#preventing-assasination",
@@ -280,6 +280,41 @@
     "text": "UNDER CONSTRUCTION\nProteus & Tartarus: Tartarus group of arsons have been carrying out an arson spree. Protean firefighters want these arsonists caught. Arsonists will pay FIST to cause a distracting fire so their real target will burn more. Firefighters will pay FIST to catch the arsonists."
   },
   {
+    "objectID": "Missions/M-PLAY.html",
+    "href": "Missions/M-PLAY.html",
+    "title": "PLAY: Protect Latent Australians in Yellow",
+    "section": "",
+    "text": "The Royal Chambers Company (RCC), a famous but secretive theatre company, are enacting a moonlit play in the Australian outback. They are performing a secretive play (The King in Yellow) to the rich and powerful. Fist are assigned to guard the actors and theatre goers. The theatre company assures FIST that nothing goes wrong most of the time."
+  },
+  {
+    "objectID": "Missions/M-PLAY.html#the-theatre",
+    "href": "Missions/M-PLAY.html#the-theatre",
+    "title": "PLAY: Protect Latent Australians in Yellow",
+    "section": "The Theatre",
+    "text": "The Theatre\nFIST are guarding a play in the Australian outback near Campion, Western Australia. They must keep the company and theatre guests, rich and powerful Australians, safe. The FIST mercenaries were blindfolded and brought to the theatre so they don’t know the exact location.\nThe stage is an old outdoor structure carved from meteorites. It has a powerful presence with many intricate carvings of spherical objects. The spheres seem to represent stars and planets at a glance but as you focus on them they take on the appearance of gazing eyes.\nThe RCC representatives say that nothing is likely to happen but on the off chance FIST are there to keep the company and guests safe. The play cannot be stopped and the guests cannot stop watching.\nWhilst guarding the play each FIST mercenary is forced to wear an Incognito helmet, this will block out the audio and visuals of the play. This covers the entire head so other head gear cannot be worn. Any character that sees or hears the play without an Incognito helmet will become enthralled by it. They will not be able to react to any outside stimuli. This includes the RCC staff who cannot stop their roles in the performance. A non-enthralled character will need to cover the eyes and ears of the enthralled character to release them from the grips of the play.\nBehind the guests is a parking lot full of their Light util. vehicles (12 HP, 1 ARMOR). The keys can be stolen from the enthralled guests easily enough. For interest vehicles include:\n\nToyota Land Cruisers J40\nNissan Patrols 3rd gen\nSuzuki Jimny SJ40"
+  },
+  {
+    "objectID": "Missions/M-PLAY.html#ghost-emus-of-war",
+    "href": "Missions/M-PLAY.html#ghost-emus-of-war",
+    "title": "PLAY: Protect Latent Australians in Yellow",
+    "section": "Ghost emus of war",
+    "text": "Ghost emus of war\nHalf way through the intermission-less play a dark green meteorite 3 miles behind the stage will react. The meteorite will crack open with an emu cry loud enough to hear from 10 miles away. An ethereal column of light will indicate its position.\nThe meteorite will immediately begin to summon 986 GHOST EMUS OF WAR, 9 every 10 seconds. These were all killed during the Emu War of 1932.\nThe Emus will move towards the stage and subsequently attack the company and guests if not stopped by FIST. They can run up to ~30 miles per hour so each group of Emus will take 6 minutes to reach the stage. Unless fired upon they will only attack characters enthralled by the play. Once the meteorite cracks open keep a track of how many minutes have passed to know when the emus will reach the stage and to apply pressure and tension to the players.\nTo stop the Emu invasion FIST can kill all the ghosts or disable the summoning. To stop the summoning they need to reach the meteorite, within a crater, and pull out a dark green emu egg from the centre of it. If they smash the egg all the emus will disappear and no more will be summoned."
+  },
+  {
+    "objectID": "Missions/M-PLAY.html#ghost_emu",
+    "href": "Missions/M-PLAY.html#ghost_emu",
+    "title": "PLAY: Protect Latent Australians in Yellow",
+    "section": "GHOST EMU OF WAR",
+    "text": "GHOST EMU OF WAR\n(2HP, 9 appear)\n\nGhostly claws (worst of 2D6 DAMAGE)\nHarmed by normal attacks\nFast runners\nFlightless\nGhostly emus riddled with holes\nFollowed by the sounds of Emu cries drowned by Lewis gun (light machine guns) fire\n\nGregarious: Birds of a feather flock together, even more so when they were all slaughtered. These Emus will congregate into flocks of 9 or more, with flocks combining together. Although their ghostly attacks are weak they make up for this with shear numbers."
+  },
+  {
+    "objectID": "Missions/M-PLAY.html#play_rewards",
+    "href": "Missions/M-PLAY.html#play_rewards",
+    "title": "PLAY: Protect Latent Australians in Yellow",
+    "section": "Reward",
+    "text": "Reward\nEach FIST member is allowed to keep their Incognito helmet if it is not lost/broken.\nIncognito helmet: 1 ARMOR (accessory). This helmet has filters to protect the user from audio and visual cognitohazards. This prevents the perception of eldritch based cognitohazards.\nAdditionally, if FIST was particularly successful the RCC will create a Dromaius rock from the Emu meteorite and gift it to FIST.\nDromaius rock: Once per mission you can rub the rock to summon 1D6 GHOST EMUS OF WAR, they will stay till they are slayed. Once summoned make a suitable roll to tame the Emus.\n\nOn a fail (1-6) the emus attack anyone they can see.\nOn a partial success (7-9) they attack any group the summoner points at, if the attacked group is killed the Emus will then attack others, including the summoner, indiscriminately.\nOn a success (10+) the Emus will listen to all commands of the summoner and can be ridden.\nOn an ultra success (double 6s) an extra 2D6 emus are summoned and they all act in the same manner as a success (10+).\n\nIf FIST decides to allow and/or assist the Emus in killing all the guests they will leave peacefully and happily. FIST will be able to keep the Incognito helmets. The emus will gift FIST a Dromaius rock and the below weapon.\nLewis gun light machine gun (1D6+1 DAMAGE, MOTION-TURRET)\nMOTION-TURRET weapon tag: This weapon can be set-up as a turret to automatically shoot at any motion within a 45 degree cone."
+  },
+  {
     "objectID": "Missions/M-POPS.html",
     "href": "Missions/M-POPS.html",
     "title": "POPS: Possible Oil Pipe Sabotage",
@@ -290,8 +325,8 @@
     "objectID": "Missions/M-POPS.html#dilemma",
     "href": "Missions/M-POPS.html#dilemma",
     "title": "POPS: Possible Oil Pipe Sabotage",
-    "section": "",
-    "text": "Team chooses one of the 2 options:\n\nHired by Kraken (Dotters of Tartarus) to prevent sabotage by Gaians.\nHired by TAG (Gaians) to sabotage pipeline.\n\n3 different stations along the straight pipeline. They are situated within the Black Forest."
+    "section": "Dilemma",
+    "text": "Dilemma\nTeam chooses one of the 2 options:\n\nHired by Kraken (Dotters of Tartarus) to prevent sabotage by Gaians.\nHired by TAG (Gaians) to sabotage pipeline.\n\n3 different stations along the straight pipeline. They are situated within the Black Forest."
   },
   {
     "objectID": "Missions/M-POPS.html#gaian-sabotaging",
@@ -336,11 +371,11 @@
     "text": "This section contains various missions."
   },
   {
-    "objectID": "missions.html#ops",
-    "href": "missions.html#ops",
+    "objectID": "missions.html#d.r.ops",
+    "href": "missions.html#d.r.ops",
     "title": "Missions",
-    "section": "Ops",
-    "text": "Ops\nOps are intended to be short missions that are quick to set-up."
+    "section": "D.R.Ops",
+    "text": "D.R.Ops\nDangerous & Rapid Ops (D.R.Ops) are intended to be short missions that are quick to set-up and run. The descriptions are relatively brief with plenty of room for referee and player improv.\nPLAY: Protect Latent Australians in Yellow. Protect a rendition of The King in Yellow being performed at an outdoor theatre in the Australian outback. Hopefully nothing strange will happen."
   },
   {
     "objectID": "missions.html#dilemmas",

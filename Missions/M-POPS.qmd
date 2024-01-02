@@ -5,6 +5,8 @@ editor:
     wrap: sentence
 ---
 
+![](images/M-POPS.png){width=30% fig-align="center"}
+
 ## Dilemma
 
 Team chooses one of the 2 options:

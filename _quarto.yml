@@ -111,6 +111,9 @@ website:
         - section: "Intro"
           contents:
             - href: missions.qmd
+        - section: "D.R.Ops"
+          contents:
+            - href: Missions/M-PLAY.qmd
         - section: "Dilemmas"
           contents:
             - href: Missions/M-AVOW.qmd
