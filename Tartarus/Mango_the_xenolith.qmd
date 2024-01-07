@@ -1,0 +1,9 @@
+---
+title: "Mango the Xenolith"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+Mango the Xenolith is one of the three lieutenants of Dr. Petra Pufferfish.
+They are RADIOACTIVE GEM TALOS covered in an OBSIDIAN LAVA TALOS via a symbiotic relationship.

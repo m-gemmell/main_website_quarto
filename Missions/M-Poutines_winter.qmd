@@ -1,0 +1,133 @@
+---
+title: "Poutine's Winter"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+__UNDER CONSTRUCTION__
+
+[Poutine the Hyperborean](/Proteus/Poutine_the_hyperborean.qmd) is holding New York ransom for 1 Billion dollars.
+He is utilising a weather machine to cause an unending blizzard in NY.
+If he doesn't get his money on midnight of the Winter solstice he will freeze the city and it inhabitants.
+
+Poutine's fortress is on an Ice berg off Newfoundland, Canada.
+The iceberg is secretly above the sunken Titanic (found on 1st of September 1985 in the real world).
+Poutine and his weather machine are actually in the Titanic, rebuilt as an underwater sea base.
+
+His iceberg is protected by extreme cold weather.
+Thick ice crystals in the frozen sky disable missiles and planes.
+Mind controlled cyborg orcas and thick ice protect from sea invasions.
+
+## Military plans
+
+The USA and [ERA](/History/ERA.qmd) plan to assault the Ice fortress.
+Whilst the main force is distracting the defences this will allow an elite force, including the FIST team, to invade.
+
+FIST will be debriefed on a USA Aircraft carrier.
+They will be informed of the information in the Sea invasion section.
+This includes the formation used and what enemies will be present.
+They will then be tasked with destroying one of the weather spires on the iceberg.
+This will allow some reinforcement to arrive and also allow the use of Rods from God.
+They know the main ice fortress is in the centre but do not know what is in it.
+
+Each FIST merc will be provided with the following gear to use during the mission:
+
+- Heated aqua combat suits (1 ARMOR), goes on top of their ground clothing
+- Waterproof backpack allowing storage of 4 items
+- Harpoon gun (1D6+1 DAMAGE)
+
+Additionally, the FIST team will be provided with 1:
+
+- Rod from God laser targetter (3D6+3, ANTI-MATERIAL), calls down a rod from god. Only works in the air, cannot penetrate the Ice sky defence.
+
+Whilst on board FIST can also:
+
+- Enquire about more more intel
+- Give their [CYBORG COLOSSAL SQUIDS](/History/ERA_navy.qmd#cyborg_colossal_squid) their 10 word directive.
+- Talk to the leaders of Whale-1 & Whale-2
+
+
+## Sea invasion
+
+The sea is an uninviting abyss.
+Even with the suits the mercs are frozen to the bone, but they are dry.
+Enemies appear out of nowhere for humans.
+Thankfully FIST's steeds do not have this issue.
+
+The sea invasion consists of an escort mission to the iceberg.
+They will be attacked by mind controlled Cyborg Orcas and their wranglers.
+Reaching the Iceberg is the path to victory.
+
+### Frontal forces
+
+During the sea invasion FIST's team will trail behind 2 military groups in the water, Whale-1 & Whale-2.
+These military groups each consist of 6 marines riding [CYBORG DOLPHINS](/History/USA_navy.qmd#cyborg_dolphin), 2 [CYBORG COLOSSAL SQUIDS](/History/ERA_navy.qmd#cyborg_colossal_squid), and a [HUMPBACK WHALE SUBMERSIBLE](/History/USA_navy.qmd#humpback_sub).
+Do not control directly control these units.
+Rather, during the sea invasion, narrate their actions every so often making them succeed and fail in line with the rolls of the FIST characters.
+For example, if a FIST character rolls a success you can also narrate how the front teams are holding off and killing their enemies.
+If a FIST character rolls a failure you can narrate and mark the death of members in the front teams.
+On partial successes the front team may take some losses but also kill some enemies.
+
+### FIST's team
+
+FISTS crew will consists of:
+
+- The FIST mercs
+- A number of [CYBORG DOLPHINS](/History/USA_navy.qmd#cyborg_dolphin) equal to 1.5X the number of FIST mercs (rounded down)
+- 2 [CYBORG COLOSSAL SQUIDS](/History/ERA_navy.qmd#cyborg_colossal_squid)
+- A [HUMPBACK WHALE SUBMERSIBLE](/History/USA_navy.qmd#humpback_sub)
+
+### Poutine's sea forces
+
+Whilst underwater and approaching the Iceberg the Whale teams will be attacked.
+FIST's team will have to fend off a pod of 6 [CYBORG ORCAS](/Proteus/Poutine_the_hyperborean.qmd#cyborg_orca) and their [ORCA WRANGLER](/Proteus/Poutine_the_hyperborean.qmd#orca_wrangler).
+The frontal forces will be attacked by the same enemies but in larger numbers.
+
+### Victory
+
+The main goal of FIST is to protect the [HUMPBACK WHALE SUBMERSIBLE](/History/USA_navy.qmd#humpback_sub) to the iceberg.
+It will take 3-6 turns, or however else you measure combat, to reach the iceberg.
+If FIST are doing well in combat it will take less time than if they are performing poorly.
+
+Once the Iceberg has been reached the [CYBORG DOLPHINS](/History/USA_navy.qmd#cyborg_dolphin) and [HUMPBACK WHALE SUBMERSIBLE](/History/USA_navy.qmd#humpback_sub) can climb onto it.
+
+## Ground invasion
+
+Even the dolphins and whales are happy to be out of the sea due to the relative warmth of 0°C air.
+However, the dark blue has been replaced by the bright white.
+A flat iceberg surface and still white air disguise the horizon.
+
+This vision of infinity is slightly broken by the barely visible Ice structures in the distance.
+As FIST sets up the silence is broken by the sound of fast approaching heavy footsteps.
+
+### Landfall
+
+Once on land the surviving [HUMPBACK WHALE SUBMERSIBLES](/History/USA_navy.qmd#humpback_sub) will deploy into [HUMPBACK WHALE WEAPONS PLATFORM](/History/USA_navy.qmd#humpback_plat).
+This will take a minute or 2 requiring FIST to protect the whale.
+The mercs will need to remove their Heated aqua combat suits and unpack their gear from their bags.
+If the other whale teams successfully made it to land this will give more time for FIST's team to set-up before combatants engage them.
+
+The vanguard of Poutine's forces will consist of 1D6 [CYBORG POLAR BEAR](#cyborg_polar_bear) with one [POLAR BEAR RIDER](#cyborg_polar_bear_rider) each.
+
+### Weather Spire attack
+
+After set-up and taking care of the vanguard FIST will need to destroy a weather spire.
+This will clear a patch of the frozen sky to allow reinforcements to drop in.
+Additionally, FIST will then be able to use their Rod from God laser targetter.
+
+Close to the weather spire, FIST's team will encounter 8 - X (X is equal to 2 times the number of other whale teams that survived) [CYBORG POLAR BEARS](#cyborg_polar_bear) with one [POLAR BEAR RIDER](#cyborg_polar_bear_rider) each.
+
+The weather spire is closely surrounded by 4 defence spires, 1 at each compass point. Each defence spire has 3 [POUTINE RIFLEMEN](poutine_rifleman) stationed on top of them.
+
+__Weather Spire__ (25HP): A tall tower of ice. At the top is a 
+
+### Weather Spire destruction
+
+
+
+
+
+
+
+

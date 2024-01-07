@@ -1,0 +1,19 @@
+---
+title: "Pudding the Ablated"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+Ablation occurs to meteoroids as they enter the earth's atmosphere.
+This occurs due to the erosive impacts of atmospheric particles.
+
+Pudding was an astronaut.
+As the pilot they had to make an emergency landing in their shuttle.
+This went disastrously wrong as the shuttle burnt up and all Pudding's crew died.
+Pudding came out ablated, a smooth human with no hair or recognisable features.
+The US government blamed Pudding for the accident.
+Now Pudding only wants to make them regret that.
+
+
+Mission will involve the use of [asteroid laser ablation](https://en.wikipedia.org/wiki/Asteroid_laser_ablation) to have meteorities strike certain cities.
