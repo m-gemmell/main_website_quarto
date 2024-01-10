@@ -1,27 +1,27 @@
 {
-    "id": "398EC82C",
-    "path": "F:/Git/PRIMEVAL_DEITIES/tartarus.qmd",
-    "project_path": "tartarus.qmd",
+    "id": "DF6BEAE3",
+    "path": "F:/Git/PRIMEVAL_DEITIES/nyxmera.qmd",
+    "project_path": "nyxmera.qmd",
     "type": "quarto_markdown",
-    "hash": "2637977049",
+    "hash": "3664504399",
     "contents": "",
     "dirty": false,
-    "created": 1704631525293.0,
+    "created": 1704880874056.0,
     "source_on_save": false,
-    "relative_order": 4,
+    "relative_order": 6,
     "properties": {
         "rmdVisualMode": "false",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "28,0",
-        "scrollLine": "0"
+        "cursorPosition": "41,46",
+        "scrollLine": "1"
     },
     "folds": "",
-    "lastKnownWriteTime": 1704657006,
+    "lastKnownWriteTime": 1704881900,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1704657006980,
+    "last_content_update": 1704881900729,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -46,7 +46,14 @@
     "href": "Gaia/Skyuss.html#skyuss_deacon",
     "title": "Cult of Skyuss",
     "section": "DEACON OF SKYUSS",
-    "text": "DEACON OF SKYUSS\n(6 HP, Choke 3: Activate their Aurora generator on their position)\n\nAurora gun (1D6+2 damage, STUN)\nA holy figure covered in purple robes\nDiamond plated tactical vest (2 ARMOR)\nPurple eyes are the only sign of Snow worm influence on her body\n\nWORM-FIDDLER: They only want to cultivate the worms to adulthood before unleashing them upon the towns, then cities, then the world. Snow worms will never attack deacons and instead protect them when nearby.\nSTUN weapon tag: Those damaged by this weapon cannot move or act until their current HP changes."
+    "text": "DEACON OF SKYUSS\n(6 HP, Choke 4: Activate their Aurora generator on their position)\n\nAurora gun (1D6+2 damage, STUN)\nA holy figure covered in purple robes\nDiamond plated tactical vest (2 ARMOR)\nPurple eyes are the only sign of Snow worm influence on her body\n\nWORM-FIDDLER: They only want to cultivate the worms to adulthood before unleashing them upon the towns, then cities, then the world. Snow worms will never attack deacons and instead protect them when nearby.\nSTUN weapon tag: Those damaged by this weapon cannot move or act until their current HP changes."
+  },
+  {
+    "objectID": "Gaia/Skyuss.html#aurora_generator",
+    "href": "Gaia/Skyuss.html#aurora_generator",
+    "title": "Cult of Skyuss",
+    "section": "Aurora generator",
+    "text": "Aurora generator\n(20 HP, 2 armour)\nThis large device produces an artificial Aurora to attract Snow Worms. This can be focussed anywhere within a 5 mile radius of the generator at night. Whilst activated will attract 1 Juvenile Snow Worm every 5 minutes. It can even attract larger snow worms if present.\nThe device also sends out an ultrasonic frequency that deters snow worms from getting within 20 feet of the generator. Deactivation codes are held by the presiding DEACON OF SKYUSS."
   },
   {
     "objectID": "Gaia/Skyuss.html#worm_swarm",
@@ -61,6 +68,20 @@
     "title": "Cult of Skyuss",
     "section": "JUVENILE SNOW WORM",
     "text": "JUVENILE SNOW WORM\n(6 HP)\n\nLarge circular maw of diamond teeth for crushing (1D6 + 1 damage)\nCovered in diamond rods and purple scales (1 ARMOR)\n10 foot purple snow worm\nRods also act as sensory organ picking up vibrations\nCryophobic, takes damage from the cold\nAurora-philic, Attracted and enraged by the Aurora lights\nWill attack all humans indiscriminately\nDeathly territorial, only permitting one other snow worm\n\nTUNNELLER: The snow worm keeps warm in cold climes by efficiently digging through snow, dirt, and rocks. If damaged for 3 or more damage it will escape into the ground only to re-emerge and attack from a different direction."
+  },
+  {
+    "objectID": "Gaia/Skyuss.html#adult_worm",
+    "href": "Gaia/Skyuss.html#adult_worm",
+    "title": "Cult of Skyuss",
+    "section": "ADULT SNOW WORM",
+    "text": "ADULT SNOW WORM\n(15 HP)\n\nLarge circular maw of diamond teeth for crushing (1D6 + 2 damage)\nCovered in thick diamond rods and purple scales (2 ARMOR)\n100 foot purple snow worm\nRods also act as sensory organ picking up vibrations\nCryophobic, takes damage from the cold\nAurora-philic, Attracted and enraged by the Aurora lights\nUsually hunts larger game than humans\nDeathly territorial, only permitting one other ADULT SNOW WORM\nCan reproduce sexually and asexually, laying eggs it does not care for\n\nDIAMOND-DRILL: The Snow Worm can naturally grow diamonds. It quickly drills through snow, ice, ground, and rocks. It is fast enough to keep up with a car whilst drilling but slow on top of ground.\nSCRAPE (BOSS MOVE): The Adult Snow Worm can scrape its diamond rods against multiple enemies dealing 1D6 DAMAGE to each."
+  },
+  {
+    "objectID": "Gaia/Skyuss.html#ultrasonic_grenade",
+    "href": "Gaia/Skyuss.html#ultrasonic_grenade",
+    "title": "Cult of Skyuss",
+    "section": "Ultrasonic harmonic frequency grenade",
+    "text": "Ultrasonic harmonic frequency grenade\n(Consumable item)\nThis grenade sends out an adjustable ultrasonic frequency. It can be set to a frequency that will destroy the diamond rods of Snow worms if the users knows the frequency. This will decrease the snow worm’s armour by 1 and deal 1D6 damage.\nThe grenade can be used on other solid objects, bye bye bones!\nIt contains a reusable harmonic frequency detector (as long as the grenade has not been used). Requires touching the grenade to the object tested."
   },
   {
     "objectID": "Gaia/TAG.html",
@@ -301,6 +322,13 @@
     "text": "Worm attacks\nIf Anne Lida (Deacon) has activated the aurora generator, every time a JUVENILE SNOW WORM appears roll a D6 to determine which room in the lower floor they emerge into. There are a total of 4 Juvenile Snow Worms that will appear. The JUVENILE SNOW WORMS will attack anything in its room (worms and humans), whilst destroying the room. After 5 minutes it may move into another room, roll a D6 to determine which room. The generator can be turned off or broken to cause the worms to dig away.\nIf all 4 JUVENILE SNOW WORMS have appeared the single living ADULT SNOW WORM will appear attacking worms then humans. It will attack everything but Anne Lida. The cult have been finding its eggs for their breeding program."
   },
   {
+    "objectID": "Missions/M-AWE.html#end",
+    "href": "Missions/M-AWE.html#end",
+    "title": "AWE: Auroras & Worm Eradication",
+    "section": "End",
+    "text": "End\nThe mission is successful if the team either kill or capture and exfiltrate with Anne Lida. If Anne Lida escapes in the SUV give FIST a chance to chase her down. They will have to be quick as Anne Lida knows the mountain range well and has an escape plan set up.\nBoth these scenarios will technically complete the mission but one may lead to future complications."
+  },
+  {
     "objectID": "Missions/M-DEBT.html",
     "href": "Missions/M-DEBT.html",
     "title": "DEBT: Drug Exchange on a Bridge Tonight",
@@ -473,7 +501,7 @@
     "href": "Missions/M-Poutines_winter.html#military-plans",
     "title": "Poutine’s Winter",
     "section": "Military plans",
-    "text": "Military plans\nThe USA and ERA plan to assault the Ice fortress. Whilst the main force is distracting the defences this will allow an elite force, including the FIST team, to invade.\nFIST will be debriefed on a USA Aircraft carrier. They will be informed of the information in the Sea invasion section. This includes the formation used and what enemies will be present. They will then be tasked with destroying one of the weather spires on the iceberg. This will allow some reinforcement to arrive and also allow the use of Rods from God. They know the main ice fortress is in the centre but do not know what is in it.\nEach FIST merc will be provided with the following gear to use during the mission:\n\nHeated aqua combat suits (1 ARMOR), goes on top of their ground clothing\nWaterproof backpack allowing storage of 4 items\nHarpoon gun (1D6+1 DAMAGE)\n\nAdditionally, the FIST team will be provided with 1:\n\nRod from God laser targetter (3D6+3, ANTI-MATERIAL), calls down a rod from god. Only works in the air, cannot penetrate the Ice sky defence.\n\nWhilst on board FIST can also:\n\nEnquire about more more intel\nGive their CYBORG COLOSSAL SQUIDS their 10 word directive.\nTalk to the leaders of Whale-1 & Whale-2"
+    "text": "Military plans\nThe USA and ERA plan to assault the Ice fortress. Whilst the main force is distracting the defences this will allow an elite force, including the FIST team, to invade.\nFIST will be debriefed on a USA Aircraft carrier. They will be informed of the information in the Sea invasion section. This includes the formation used and what enemies will be present. They will then be tasked with destroying one of the weather spires on the iceberg. This will allow some reinforcement to arrive and also allow the use of Rods from God. They know the main ice fortress is in the centre but do not know what is in it.\nEach FIST merc will be provided with the following gear to use during the mission:\n\nHeated aqua combat suits (1 ARMOR), goes on top of their ground clothing\nWaterproof backpack allowing storage of 4 items\nHarpoon gun (1D6+1 DAMAGE)\n\nAdditionally, the FIST team will be provided with 1:\n\nRod from God laser targetter (3D6+3, ANTI-MATERIAL), calls down a rod from god. Only works in the air.\n\nWhilst on board FIST can also:\n\nEnquire about more more intel\nGive their CYBORG COLOSSAL SQUIDS their 10 word directive.\nTalk to the leaders of Whale-1 & Whale-2"
   },
   {
     "objectID": "Missions/M-Poutines_winter.html#sea-invasion",
@@ -487,7 +515,21 @@
     "href": "Missions/M-Poutines_winter.html#ground-invasion",
     "title": "Poutine’s Winter",
     "section": "Ground invasion",
-    "text": "Ground invasion\nEven the dolphins and whales are happy to be out of the sea due to the relative warmth of 0°C air. However, the dark blue has been replaced by the bright white. A flat iceberg surface and still white air disguise the horizon.\nThis vision of infinity is slightly broken by the barely visible Ice structures in the distance. As FIST sets up the silence is broken by the sound of fast approaching heavy footsteps.\n\nLandfall\nOnce on land the surviving HUMPBACK WHALE SUBMERSIBLES will deploy into HUMPBACK WHALE WEAPONS PLATFORM. This will take a minute or 2 requiring FIST to protect the whale. The mercs will need to remove their Heated aqua combat suits and unpack their gear from their bags. If the other whale teams successfully made it to land this will give more time for FIST’s team to set-up before combatants engage them.\nThe vanguard of Poutine’s forces will consist of 1D6 CYBORG POLAR BEAR with one POLAR BEAR RIDER each.\n\n\nWeather Spire attack\nAfter set-up and taking care of the vanguard FIST will need to destroy a weather spire. This will clear a patch of the frozen sky to allow reinforcements to drop in. Additionally, FIST will then be able to use their Rod from God laser targetter.\nClose to the weather spire, FIST’s team will encounter 8 - X (X is equal to 2 times the number of other whale teams that survived) CYBORG POLAR BEARS with one POLAR BEAR RIDER each.\nThe weather spire is closely surrounded by 4 defence spires, 1 at each compass point. Each defence spire has 3 POUTINE RIFLEMEN stationed on top of them.\nWeather Spire (25HP): A tall tower of ice. At the top is a\n\n\nWeather Spire destruction"
+    "text": "Ground invasion\nEven the dolphins and whales are happy to be out of the sea due to the relative warmth of 0°C air. However, the dark blue has been replaced by the bright white. A flat iceberg surface and still white air disguise the horizon.\nThis vision of infinity is slightly broken by the barely visible Ice structures in the distance. As FIST sets up the silence is broken by the sound of fast approaching heavy footsteps.\n\nLandfall\nOnce on land the surviving HUMPBACK WHALE SUBMERSIBLES will deploy into HUMPBACK WHALE WEAPONS PLATFORM. This will take a minute or 2 requiring FIST to protect the whale. The mercs will need to remove their Heated aqua combat suits and unpack their gear from their bags. If the other whale teams successfully made it to land this will give more time for FIST’s team to set-up before combatants engage them.\nThe vanguard of Poutine’s forces will consist of 1D6 CYBORG POLAR BEAR with one POLAR BEAR RIDER each.\n\n\nWeather Spire attack\nAfter set-up and taking care of the vanguard FIST will need to destroy a weather spire. This will clear a patch of the frozen sky to allow reinforcements to drop in. Additionally, FIST will then be able to use their Rod from God laser targetter.\nClose to the weather spire, FIST’s team will encounter 8 - X (X is equal to 2 times the number of other whale teams that survived) CYBORG POLAR BEARS with one POLAR BEAR RIDER each.\nThe weather spire is closely surrounded by 4 defence spires, 1 at each compass point. Each defence spire has 3 POUTINE RIFLEMEN stationed on top of them.\nWeather Spire (25HP): A tall tower of ice. At the top of the spire ice is spouting out forming the above frozen sky.\n\n\nWeather Spire destruction\nOnce the weather spire is deactivated mechas will drop in from the mooners. They will obliterate enemies allowing FIST a clear path to Poutine’s Ice Dome."
+  },
+  {
+    "objectID": "Missions/M-Poutines_winter.html#ice-dome",
+    "href": "Missions/M-Poutines_winter.html#ice-dome",
+    "title": "Poutine’s Winter",
+    "section": "Ice Dome",
+    "text": "Ice Dome\nOnly contains an elevator, a great place for FIST to take a break (rendezvous). The elevator leads down into the sea, it takes a long time going all the way to the Titanic on the sea floor."
+  },
+  {
+    "objectID": "Missions/M-Poutines_winter.html#titanic-base",
+    "href": "Missions/M-Poutines_winter.html#titanic-base",
+    "title": "Poutine’s Winter",
+    "section": "Titanic base",
+    "text": "Titanic base\nPoutine and his weather machine are here. He has patch up the Titanic with Ice."
   },
   {
     "objectID": "Missions/M-SACK.html",
@@ -662,7 +704,7 @@
     "href": "nyxmera.html",
     "title": "Nyxmera",
     "section": "",
-    "text": "Nyxmera is the light. All the celestial bodies are known as the eyes of Nyxmera, the sun, the grey moon, the purple moon, the planets, and the stars. With these Nyxmera watches, it wants to be entertained. Something its followers, Suns of Nyxmera, are more than happy to facilitate.\nNyxmera is everything but Earth. It craves what it can’t take. There is so much of interest on such a tiny orb, so Nyxmera is stuck in a perpetual gaze.\nIts logo represents the duality of the sky and Nyxmera’s eyes. On one side the blue sky and sun. On the other, the night sky with the Grey Moon and Purple Moon. Nyxmera loves extremes; good and evil, comedy and drama, love and war.\nNyxmera’s presence is felt on Earth in various ways. Its eyes are always staring and so its followers seek to entertain it. Meteors and meteorites are a major source of Nyxmera’s gifts and punishments. Craters and meteorites are special to the Suns of Nyxmera, used to create many outdoor theatres. Many say Nyxmera was bored of watching dinosaurs and so sent a meteorite like one may change the channel. The Starvatars live on Earth with the Purple Moon now permanently on earth as the supreme Starvartar of Nyxmera.\nSuns of Nyxmera are varied and include navigators, story tellers, space enthusiasts, and entertainers. Good Suns may help with disaster relief, peace keeping, and justice. Evil Suns may be involved with war, human trafficking, and corruption. The perfect Suns will do both good and evil. They must amuse Nyxmera to be rewarded and prevent punishment."
+    "text": "Nyxmera is the light. All the celestial bodies are known as the eyes of Nyxmera, the sun, the grey moon, the purple moon, the planets, and the stars. With these Nyxmera watches, it wants to be entertained. Something its followers, Suns of Nyxmera, are more than happy to facilitate.\nNyxmera is everything but Earth. It craves what it can’t take. There is so much of interest on such a tiny orb, so Nyxmera is stuck in a perpetual gaze.\nIts logo represents the duality of the sky and Nyxmera’s eyes. On one side the blue sky and sun. On the other, the night sky with the Grey Moon and Purple Moon. Nyxmera loves extremes; good and evil, comedy and drama, love and war."
   },
   {
     "objectID": "Proteus/Followers.html",
@@ -900,7 +942,7 @@
     "href": "Tartarus/Taloes.html",
     "title": "Taloes",
     "section": "",
-    "text": "Taloes (singular = talos) of Tartarus are made from the bounties of Tartarus. They generally consist of local resources."
+    "text": "Taloes (singular = talos) of Tartarus are animated beings made from the bounties of Tartarus. They generally consist of local resources. With varying levels of intelligence they tend to either work for a Dotter master or carry out the will of Tartarus."
   },
   {
     "objectID": "Tartarus/Taloes.html#ore_talos",
@@ -935,34 +977,55 @@
     "href": "tartarus.html",
     "title": "Tartarus",
     "section": "",
-    "text": "Tartarus is the ground we live on, it is the rocks, dirt, metal, and oil. It was once free with explosive energy but now lays dormant, en-caged by the sky, trapped by Nyxmera. Tartarus loathes Nyxmera. Whilst Nyxmera’s only shows apathy towards its prisoner. This only fuels Tartaurs’ bottled rage further.\nThe greatest presence of Tartarus is felt underground where Nyxmera cannot see with its eyes. Here you may find a deep black hole, known as a mouth of Tartarus. These black holes allow no light to pass through either side and lead to the Domain Of Taratarus, the DOT. Time and space are inconsistent in the DOT. You may enter and subsequently leave in the past, present or future no matter how long you were in the DOT. Many creatures live in the DOT. Stories of those lucky enough to escape harken back to stories andmyths like Journey to the Centre of the Earth, Narnia, the Fey Wild, The Underdark and many more.\nWorld governments use the DOT as a dumping ground for garbage, scientific waste, and nuclear waste. This has lead to mutated humans and creatures due to the combination of radiation, chemicals, and the magic of the DOT. They mostly stay contained in the DOT but occasionally cause havoc on the surface.\n\nThe imprisoned deity of the earth.\nA seemingly calm surface with extreme power under the surface\nFollowers: Dotters of Tartarus\n\nFollowers include: Enslaved, prisoners, fighters, miners, oil workers, seismologists, & spelunkers\n\nGood activities\n\nFreeing the enslaved\nFight for justice\n\nEvil activities\n\nRaiding the surface\nRuthless capitalism\nDestruction of ecology\nPrison breaks\n\nBest followers\n\nRaider leader and Kraken higher ups who free modern day slaves and carry out prison breaks."
+    "text": "Tartarus is the ground we live on. It is the rocks, dirt, metal, and oil. Once free with explosive energy it now lays dormant, en-caged by the sky, trapped by Nyxmera. Tartarus loathes Nyxmera. Whilst Nyxmera only shows apathy towards its prisoner, fueling Tartaurs’ bottled rage further.\nTartarus’ logo represents Taratrus’ power cracking through the scorched earth. It wants to unleash its power with no concern for others."
   },
   {
-    "objectID": "Gaia/Skyuss.html#adult_worm",
-    "href": "Gaia/Skyuss.html#adult_worm",
-    "title": "Cult of Skyuss",
-    "section": "ADULT SNOW WORM",
-    "text": "ADULT SNOW WORM\n(15 HP)\n\nLarge circular maw of diamond teeth for crushing (1D6 + 2 damage)\nCovered in thick diamond rods and purple scales (2 ARMOR)\n100 foot purple snow worm\nRods also act as sensory organ picking up vibrations\nCryophobic, takes damage from the cold\nAurora-philic, Attracted and enraged by the Aurora lights\nUsually hunts larger game than humans\nDeathly territorial, only permitting one other ADULT SNOW WORM\nCan reproduce sexually and asexually, laying eggs it does not care for\n\nDIAMOND-DRILL: The Snow Worm can naturally grow diamonds. It quickly drills through snow, ice, ground, and rocks. It is fast enough to keep up with a car whilst drilling but slow on top of ground.\nSCRAPE (BOSS MOVE): The Adult Snow Worm can scrape its diamond rods against multiple enemies dealing 1D6 DAMAGE to each."
+    "objectID": "nyxmera.html#the-eyes-of-nyxmeras",
+    "href": "nyxmera.html#the-eyes-of-nyxmeras",
+    "title": "Nyxmera",
+    "section": "The Eyes of Nyxmera’s",
+    "text": "The Eyes of Nyxmera’s\nNyxmera’s presence is felt on Earth in various ways. Its eyes are always staring and so its followers seek to entertain it. Meteors and meteorites are a major source of Nyxmera’s gifts and punishments. Craters and meteorites are special to the Suns of Nyxmera, used to create many outdoor theatres. Many say Nyxmera was bored of watching dinosaurs and so sent a meteorite like one may change the channel. The Starvatars live on Earth with the Purple Moon now permanently on earth as the supreme Starvartar of Nyxmera."
   },
   {
-    "objectID": "Gaia/Skyuss.html#ultrasonic_grenade",
-    "href": "Gaia/Skyuss.html#ultrasonic_grenade",
-    "title": "Cult of Skyuss",
-    "section": "Ultrasonic harmonic frequency grenade",
-    "text": "Ultrasonic harmonic frequency grenade\n(Consumable item)\nThis grenade sends out an adjustable ultrasonic frequency. It can be set to a frequency that will destroy the diamond rods of Snow worms if the users knows the frequency. This will decrease the snow worm’s armour by 1 and deal 1D6 damage.\nThe grenade can be used on other solid objects, bye bye bones!\nIt contains a reusable harmonic frequency detector (as long as the grenade has not been used). Requires touching the grenade to the object tested."
+    "objectID": "nyxmera.html#suns-of-nyxmera",
+    "href": "nyxmera.html#suns-of-nyxmera",
+    "title": "Nyxmera",
+    "section": "Suns of Nyxmera",
+    "text": "Suns of Nyxmera\nSuns of Nyxmera are varied and include navigators, story tellers, space enthusiasts, and entertainers. Good Suns may help with disaster relief, peace keeping, and justice. Evil Suns may be involved with war, human trafficking, and corruption. The perfect Suns will do both good and evil. They must amuse Nyxmera to be rewarded and prevent punishment."
   },
   {
-    "objectID": "Gaia/Skyuss.html#aurora_generator",
-    "href": "Gaia/Skyuss.html#aurora_generator",
-    "title": "Cult of Skyuss",
-    "section": "Aurora generator",
-    "text": "Aurora generator\n(20 HP, 2 armour)\nThis large device produces an artificial Aurora to attract Snow Worms. This can be focussed anywhere within a 5 mile radius of the generator at night. Whilst activated will attract 1 Juvenile Snow Worm every 5 minutes. It can even attract larger snow worms if present.\nThe device also sends out an ultrasonic frequency that deters snow worms from getting within 20 feet of the generator. Deactivation codes are held by the presiding DEACON OF SKYUSS."
+    "objectID": "nyxmera.html#sub-factions",
+    "href": "nyxmera.html#sub-factions",
+    "title": "Nyxmera",
+    "section": "Sub Factions",
+    "text": "Sub Factions\nThere are many sub factions of Suns. The following pages are brief desciptions of various sub factions with stat blocks for different non player characters.\n\nSuns of Nyxmera: Typical suns of Nyxmera.\nNyxmera Troops: Units used for a variety of combat based tasks in Nyxmera based companies.\nCamera Obscura: An organisation of “bounty hunters”, called shutterbugs, that specialise in kidnappings and assassinations.\nStarvatars: Physical embodiments of the eyes of Nyxmera (stars, moons, and planets)."
   },
   {
-    "objectID": "Missions/M-AWE.html#end",
-    "href": "Missions/M-AWE.html#end",
-    "title": "AWE: Auroras & Worm Eradication",
-    "section": "End",
-    "text": "End\nThe mission is successful if the team either kill or capture and exfiltrate with Anne Lida. If Anne Lida escapes in the SUV give FIST a chance to chase her down. They will have to be quick as Anne Lida knows the mountain range well and has an escape plan set up.\nBoth these scenarios will technically complete the mission but one may lead to future complications."
+    "objectID": "Nyxmera/Troops.html",
+    "href": "Nyxmera/Troops.html",
+    "title": "Troops",
+    "section": "",
+    "text": "Troops used by Nyxmera based organisations. Used for a variety of reasons including body guards, security, and mercenaries."
+  },
+  {
+    "objectID": "tartarus.html#the-dot",
+    "href": "tartarus.html#the-dot",
+    "title": "Tartarus",
+    "section": "The DOT",
+    "text": "The DOT\nThe greatest presence of Tartarus is felt underground where Nyxmera cannot see with its eyes. Here you may find a deep black hole, known as a mouth of Tartarus. These black holes allow no light to pass through and they lead to the Domain Of Taratarus, the DOT. Time and space are inconsistent in the DOT. You may enter and subsequently leave in the past, present or future no matter how long you were in the DOT. Many fantasitical creatures live in the DOT. Stories of those lucky enough to escape harken back to tales and myths like Journey to the Centre of the Earth, Narnia, the Fey Wild, The Underdark and many more.\nWorld governments use the DOT as a dumping ground for garbage, scientific waste, and nuclear waste. This has lead to mutated humans and creatures due to the combination of radiation, chemicals, and the nature of the DOT. They mostly stay contained in the DOT but occasionally cause havoc on the surface."
+  },
+  {
+    "objectID": "tartarus.html#dotters-of-tartarus",
+    "href": "tartarus.html#dotters-of-tartarus",
+    "title": "Tartarus",
+    "section": "Dotters of Tartarus",
+    "text": "Dotters of Tartarus\nDotters of Tartarus come in 2 main flavours, the surface dwellers and the DOT dwellers. Surface Dotters live within society as fighters, miners, oil workers, seismologists, and spelunkers. Tartarus blesses them with its bounties. DOT dwellers try to desperately survive in the unforgiving underground, made all the stronger for doing so. Many enslaved and imprisoned people also follow Tartarus due to its hate of encagement. Dotters fight for freedom with a strong sense of justice.\nThere is a dark side to Tartarus and its Dotters, greed. This greed manifests through ruthless capitalism, raids of the surface, destruction of ecology, and prison breaks. Might makes right for Dotters and although they won’t ever imprison anyone, they are not so afraid to use coercion or murder."
+  },
+  {
+    "objectID": "tartarus.html#sub-factions",
+    "href": "tartarus.html#sub-factions",
+    "title": "Tartarus",
+    "section": "Sub Factions",
+    "text": "Sub Factions\nThere are many sub factions of Dotters. The following pages are brief descriptions of various sub factions with stat blocks for different non player characters.\n\nDotters of Tartarus: Typical Dotters of Tartarus.\nDOT raiders: Groups who live in the DOT and need to raid the surface for food and supplies.\nKraken: A large company with an almost world wide monopoly on mining and energy.\nTaloes: Animated beings made from the will and bounties of Taratrus."
   }
 ]

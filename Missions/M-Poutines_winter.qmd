@@ -39,7 +39,7 @@ Each FIST merc will be provided with the following gear to use during the missio
 
 Additionally, the FIST team will be provided with 1:
 
-- Rod from God laser targetter (3D6+3, ANTI-MATERIAL), calls down a rod from god. Only works in the air, cannot penetrate the Ice sky defence.
+- Rod from God laser targetter (3D6+3, ANTI-MATERIAL), calls down a rod from god. Only works in the air.
 
 Whilst on board FIST can also:
 
@@ -120,9 +120,23 @@ Close to the weather spire, FIST's team will encounter 8 - X (X is equal to 2 ti
 
 The weather spire is closely surrounded by 4 defence spires, 1 at each compass point. Each defence spire has 3 [POUTINE RIFLEMEN](poutine_rifleman) stationed on top of them.
 
-__Weather Spire__ (25HP): A tall tower of ice. At the top is a 
+__Weather Spire__ (25HP): A tall tower of ice. At the top of the spire ice is spouting out forming the above frozen sky.
 
 ### Weather Spire destruction
+
+Once the weather spire is deactivated mechas will drop in from the mooners.
+They will obliterate enemies allowing FIST a clear path to Poutine's Ice Dome.
+
+## Ice Dome
+
+Only contains an elevator, a great place for FIST to take a break (rendezvous).
+The elevator leads down into the sea, it takes a long time going all the way to the Titanic on the sea floor.
+
+## Titanic base
+
+Poutine and his weather machine are here. He has patch up the Titanic with Ice.
+
+
 
 
 

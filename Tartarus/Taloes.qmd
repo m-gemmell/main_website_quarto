@@ -7,7 +7,15 @@ editor:
 
 ![](images/Talos.png){width=40% fig-align="center"}
 
-Taloes (singular = [talos](https://en.wikipedia.org/wiki/Talos)) of Tartarus are made from the bounties of Tartarus. They generally consist of local resources.
+Taloes (singular = [talos](https://en.wikipedia.org/wiki/Talos)) of Tartarus are animated beings made from the bounties of Tartarus. 
+They generally consist of local resources.
+With varying levels of intelligence they tend to either work for a Dotter master or carry out the will of Tartarus.
+
+## LITHIUM TALOS (3 HP, 2D6 appear) {#litium_talos}
+
+- Explosive spit (1D6 DAMAGE)
+
+__CASCADE:__ These blobs of lithium like to hide in crevasses and behind rocks. They will wait till their prey are surrounded by them before attacking. When they die they explode for 3 DAMAGE, this may cause a cascade of explosions from all the Lithium taloes. Many cave-ins have been known to occur due to this.
 
 ## METAL ORE TALOS (11 HP) {#ore_talos}
 
@@ -26,12 +34,6 @@ __TOWER:__ It is a crude approximation of a human form made of dirt and local or
 - Obsidian scales (1 ARMOR)
 
 __GLASSBLOWER:__ The true form of this talos is formless lava. The talos can change any lava that is part of it or touches it to obsidian of any shape. With this ability it creates an obsidian based skeleton, armor, and weapons. Additionally, it can change obsidian back into lava. 
-
-## LITHIUM TALOS (3 HP, 2D6 appear) {#litium_talos}
-
-- Explosive spit (1D6 DAMAGE)
-
-__CASCADE:__ These blobs of lithium like to hide in crevasses and behind rocks. They will wait till their prey are surrounded by them before attacking. When they die they explode for 3 DAMAGE, this may cause a cascade of explosions from all the Lithium taloes. Many cave-ins have been known to occur due to this.
 
 ## RADIOACTIVE GEM TALOS (9 HP) {#rad_talos}
 

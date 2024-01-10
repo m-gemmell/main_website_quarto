@@ -7,6 +7,9 @@ editor:
 
 ![](images/nyxmera_troppers.png){width=30% fig-align="center"}
 
+Troops used by Nyxmera based organisations.
+Used for a variety of reasons including body guards, security, and mercenaries.
+
 ## NYXMERA TROOPER {#nyxmera_tropper}
 
 (3 HP, 2D6 appear)
