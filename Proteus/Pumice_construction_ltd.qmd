@@ -5,6 +5,8 @@ editor:
     wrap: sentence
 ---
 
+![](images/pumice_construction.png){width=30% fig-align="center"}
+
 A construction company run by Proteans and Dotters of Tartarus.
 They have amazing technologies that has shaped society.
 

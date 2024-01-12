@@ -9,6 +9,9 @@ editor:
 
 Settlements of people who live in the DOT. They raid the surface for food and supplies. Many also free modern day slaves and carry out prison breaks.
 
+Many DOT raiders mark themselves with crack shaped tattoos on their foreheads.
+These are made with Iron oxide inks.
+
 ## TARTARUS RAIDER {#raider}
 
 (3 HP, 2D6 appear)

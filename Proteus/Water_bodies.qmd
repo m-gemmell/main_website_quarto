@@ -4,9 +4,11 @@ editor:
   markdown: 
     wrap: sentence
 ---
+
+![](images/water_body.png){width=30% fig-align="center"}
+
 Each water body of Proteus represents a different body of water on earth.
-They are animated blobs of water. 
-However, their structure is given to their form by the presence of water life such as plants and fish.
+They are animated blobs of ice, water, and steam. 
 
 ## Ocean water body
 

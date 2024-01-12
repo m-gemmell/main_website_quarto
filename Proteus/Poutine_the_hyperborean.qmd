@@ -1,9 +1,11 @@
 ---
-title: "Poutine"
+title: "Poutine the Hyperborean"
 editor: 
   markdown: 
     wrap: sentence
 ---
+
+![](images/poutine.png){width=30% fig-align="center"}
 
 Poutine is known as the Hyperborean.
 He is one of the 3 chief lieutenants of Dr. Petra Pufferfish, the Primeval Polytheist.
@@ -100,10 +102,16 @@ __PRIMAL-FEAR__ weapon tag: When used on animals it will induce fear & obedience
 
 ## POUTINE RIFLEMAN {#poutine_rifleman}
 
-(3HP)
+(3HP, 1D6 appear)
 
 - [AK-47](https://en.wikipedia.org/wiki/AK-47) (1D6+1 DAMAGE)
 - 1 [F-1 grenade](https://en.wikipedia.org/wiki/F-1_grenade_(Russia)) (1D6+1 DAMAGE)
+- Climbing pickaxes (3 DAMAGE)
 - Winter tactical gear (1 ARMOR)
+- Snow blindness glasses
+- Spiky climbing shoes
+- Snow shovel
 
-__Embedded:__ 
+__EMBEDDED:__ Harshly defending a position as if frozen to the spot.
+These riflemen are prized defenders but not as useful for anything else.
+With digging and climbing skills in frozen climes and decent camouflage they can set up ambushes from unexpected areas.
