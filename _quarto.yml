@@ -106,6 +106,7 @@ website:
         - href: Tartarus/DOT_raiders.qmd
         - href: Tartarus/Kraken.qmd
         - href: Tartarus/Taloes.qmd
+        - href: Tartarus/Kaiju.qmd
     - id: Proteus
       title: "Proteus"
       style: "floating"
@@ -141,7 +142,7 @@ website:
         - section: "Dilemmas"
           contents:
             - href: Missions/M-AVOW.qmd
-            #- href: Missions/M-DEBT.qmd
+            - href: Missions/M-DEBT.qmd
             #- href: Missions/M-FAIR.qmd
             - href: Missions/M-POPS.qmd
         - section: "Paranormal event"
