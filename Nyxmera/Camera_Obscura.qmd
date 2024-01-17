@@ -43,7 +43,6 @@ __PSIONIC PIPES (BOSS MOVE):__ Only works on individuals who have consumed at le
 - Covered in pilfered jewellery
 - Will not wear gold
 - Simple but stylish dress
-- Real identity is [
 
 __CONCEITED:__ Their real identity is [Queen Hermodike II/Damodice](https://en.wikipedia.org/wiki/Hermodike_II), the wife of [King Midas](https://en.wikipedia.org/wiki/Midas). 
 Turned into gold by her husband she was changed back by Nyxmera in the modern day.
@@ -67,7 +66,9 @@ __MIDAS TOUCH (BOSS MOVE):__ They can imbue one gold item and one person with th
 
 __SHADOW-PLAY:__ This shutterbug is cautious and never gets their own hands dirty. Instead, they always leave Captures and Negatives to their [SILHOUETTE SHADOW CLONES](#silhouette_shadow_clone). They park a good distance away orchestrating the clones via their truck's radio system, speaking in trucker terminology as code. If the missions goes south they will calmly retreat.
 
-__SHADOW CAST (BOSS MOVE)__: Creates 4 [SILHOUETTE SHADOW CLONES](#silhouette_shadow_clone). They have the memories and skill of the caster and will follows its commands. Unfortunately, shadow clones appear with no clothes and gear. For full effect they need to be used in advance to gear up. The clones can only be summoned and maintained on moonlit nights.
+__SHADOW CAST (BOSS MOVE)__: Creates 2D6 [SILHOUETTE SHADOW CLONES](#silhouette_shadow_clone). They have the memories and skill of the caster and will follows its commands. Unfortunately, shadow clones appear with no clothes and gear. For full effect they need to be used in advance to gear up. The clones can only be summoned and maintained on moonlit nights.
+
+__COLLAPSIBLE__ weapon tag: Easily concealed, no matter the size; will never be detected during pat-downs. ([F:UE](https://claymorerpgs.itch.io/fist))
 
 ## SILHOUETTE SHADOW CLONE {#silhouette_shadow_clone}
 

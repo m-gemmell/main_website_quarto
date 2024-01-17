@@ -22,15 +22,15 @@ Powerful Starvatars can create temporary structures made of hard light
 
 (9 HP)
 
-- Starlight rifle (1D6 + 2 DAMAGE, MEDICAL)
-- Starlight spear (1D6 + 2 DAMAGE, UNSTABLE)
+- Starlight rifle (1D6+2 DAMAGE, MEDICAL)
+- Starlight spear (1D6+2 DAMAGE, UNSTABLE)
 - Hard light armor (2 ARMOR)
 
 __SHADOWMAKER:__ The star avatar’s body is that of the night sky. The shape of its head matches the mythology of the star or constellation it comes from. Upon this head is one eye made from the light of its star. It casts a great light from its eye and body. However shadows caused by this are irrationally dark and cannot be illuminated by other lights.
 
-__MEDICAL__ weapon tag: Once per mission, you may use this weapon to deal negative DAMAGE, healing the target.
+__MEDICAL__ weapon tag: Once per mission, you may use this weapon to deal negative DAMAGE, healing the target. ([F:UE](https://claymorerpgs.itch.io/fist))
 
-__UNSTABLE__ weapon tag: Can be set to overload to deal triple DAMAGE once; explodes for 3D6 damage to everyone nearby seconds later.
+__UNSTABLE__ weapon tag: Can be set to overload to deal triple DAMAGE once; explodes for 3D6 damage to everyone nearby seconds later. ([F:UE](https://claymorerpgs.itch.io/fist))
 
 ## PURPLE MOON OF NYXMERA {#purple_moon}
 

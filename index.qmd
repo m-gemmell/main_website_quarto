@@ -15,7 +15,7 @@ Importantly, each faction is not united and there are many sub factions with var
 Please use these materials as you would like.
 You can be completely loyal and base your world on the [alternate history](/history.qmd) of this earth.
 You can add the factions into your world and use some of my [missions](missions.qmd).
-You can use various stat blocks such as the [Tartarus raider](/Tartarus/DOT_raiders.qmd#raider) and reskin them as one of your factions.
+You can use various stat blocks such as the [TARATARUS RAIDER](/Tartarus/DOT_raiders.qmd#raider) and reskin them as one of your factions.
 Use the contents as you will in your own game.
 
 ## Contact

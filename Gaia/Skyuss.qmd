@@ -59,7 +59,7 @@ This large device produces an artificial Aurora to attract Snow Worms. This can 
 The device also sends out an ultrasonic frequency that deters snow worms from getting within 20 feet of the generator. Deactivation codes are held by the presiding DEACON OF SKYUSS.
 
 
-## PREMATURE SNOW WORM SWARM {#worm_swarm}
+## PREMATURE SNOW WORM {#premature_worm}
 
 (3 HP)
 
@@ -68,11 +68,13 @@ The device also sends out an ultrasonic frequency that deters snow worms from ge
 - Cryophobic, takes damage from the cold
 - Will attack all humans indiscriminately
 
-__LEACH__: These purple worms are look 2 foot long leaches like mouths. 
+__LEACH__: These purple worms are like 2 foot long leaches like mouths. 
 They are soft, lacking the diamond rods and teeth of their older forms. 
-When the swarm bites their victim they attach and leach blood and heat from the victim, wrapping around appendages. 
-They will attack other snow worms on the same host. 
-They deal 1 damage every day if not removed.
+When it bites their victim they attach and leach blood and heat, wrapping around appendages.
+They will quickly crystallise a diamond coating within a minute reducing the victim's RFX by -1.
+Once fully embedded they are near impossible to remove during the mission.
+No other premature snow worm is able to attach to a victim whilst one is leached.
+
 
 ## JUVENILE SNOW WORM {#juvenile_worm}
 

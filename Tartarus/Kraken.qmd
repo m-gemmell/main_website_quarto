@@ -32,11 +32,13 @@ __BIOLOGICAL__ weapon trait: Only damages biological beings. Cannot damage struc
 - [Heckler & Koch MP5K](https://en.wikipedia.org/wiki/Heckler_%26_Koch_MP5) submachine gun (1D6 DAMAGE)
 - Combat knife (1D6 DAMAGE)
 - Kevlar military vest (1 ARMOR)
-- Battering ram (1D6 DAMAGE)
+- Battering ram (1D6 DAMAGE, DOOR-BREACHER)
 - Kept in reserve until combat starts
 - Trigger happy swat wannabes
 
-__CQC:__ Rush into close quarter combat as they want the bonus for killing any enemies. With their battering ram they can break through any unbarricaded hinged door with abandon.
+__CQC:__ Rush into close quarter combat as they want the bonus for killing any enemies. With their battering ram they breach through doors with abandon.
+
+__DOOR-BREACHER__ weapon tag: Can be used to break through any locked or unlocked hinged door that is not barricaded.
 
 ## KRAKEN SLAGGER {#kraken_slagger}
 
@@ -50,11 +52,11 @@ __CQC:__ Rush into close quarter combat as they want the bonus for killing any e
 - Chain smoker
 
 __SLANDERER:__ During their day job they like nothing more than insulting others to fellow gossipers.
-In their night job they first attempt to demoralise their foes with a barbed tongue.
-They are always prepared to fight if need be.
+In their night job they use their barbed tongue to demoralise their foes into surrender.
+But, they are always prepared to fight if need be.
 Anyone who disparages the SLAGGER takes an extra +1 DAMAGE from the SLAGGER's attacks.
 
-__INCENDIARY__ weapon tag: When damage is dealt, this weapon also deals 2 DAMAGE to anything within firespreading range. Deals double DAMAGE to plants
+__INCENDIARY__ weapon tag: When damage is dealt, this weapon also deals 2 DAMAGE to anything within firespreading range. Deals double DAMAGE to plants. ([F:UE](https://claymorerpgs.itch.io/fist))
 
 __PERCUSSIVE-MAINTENANCE__ weapon tag: Once per mission this weapon can be used to fix a malfunctioning device.
 This includes, but is not limited to, jammed or overheated weapons, stuck elevators, stalled vehicles, and a fuzzy television.
