@@ -1,0 +1,26 @@
+---
+title: "Sol the Ablated"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+Ablation occurs to meteoroids as they enter the earth's atmosphere.
+This occurs due to the erosive impacts of atmospheric particles.
+
+Sol was a Brazilian astronaut.
+They were on the high orbit USA space station "Laser-US".
+This space station was developed as a prototype station to deflect asteroids via laser ablation.
+
+During their time on the space station a laser experiment they were carrying out went wrong.
+This led to the station exploding, with everyone but Sol dying on it.
+Sol was able to exit the station on an escape pod.
+
+This too went disastrously wrong as the pod burnt up.
+Sol survived but came out ablated, a smooth human with no hair or recognisable features.
+The US government blamed Sol for the accident, firing them and discrediting their work.
+Now Sol only wants to make them regret that.
+
+Sol was and still is a super scientist that specialises in lasers and mind control.
+
+Mission will involve the use of [asteroid laser ablation](https://en.wikipedia.org/wiki/Asteroid_laser_ablation) to have meteorites strike certain cities.

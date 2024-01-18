@@ -166,5 +166,17 @@
   },
   "Catalog/units.qmd": {
     "units.html": "4e980237"
+  },
+  "Nyxmera/Sol_the_ablated.qmd": {
+    "Sol_the_ablated.html": "dc92575f"
+  },
+  "Missions/M-Blanchards_winter.qmd": {
+    "M-Blanchards_winter.html": "e9a36114"
+  },
+  "Proteus/Blanchard_the_hyperborean.qmd": {
+    "Blanchard_the_hyperborean.html": "8ca885e1"
+  },
+  "Tartarus/Kohitar_the_xenolith.qmd": {
+    "Kohitar_the_xenolith.html": "df131209"
   }
 }

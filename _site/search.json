@@ -1,17 +1,59 @@
 [
   {
+    "objectID": "Catalog/units.html",
+    "href": "Catalog/units.html",
+    "title": "Units",
+    "section": "",
+    "text": "SUN OF NYXMERA\nMOUTH OF NYXMERA\n\n\n\n\n\nNYXMERA TROOPER\nNYXMERA LIGHT TROOPER\nNYXMERA DARK TROOPER\n\n\n\n\n\nTHE ANTIDOTER\nTHE KING\nTHE SILHOUETTE\nSILHOUETTE SHADOW CLONE\n\n\n\n\n\nSTARVATAR OF NYXMERA\nPURPLE MOON OF NYXMERA"
+  },
+  {
+    "objectID": "Catalog/units.html#nyxmera",
+    "href": "Catalog/units.html#nyxmera",
+    "title": "Units",
+    "section": "",
+    "text": "SUN OF NYXMERA\nMOUTH OF NYXMERA\n\n\n\n\n\nNYXMERA TROOPER\nNYXMERA LIGHT TROOPER\nNYXMERA DARK TROOPER\n\n\n\n\n\nTHE ANTIDOTER\nTHE KING\nTHE SILHOUETTE\nSILHOUETTE SHADOW CLONE\n\n\n\n\n\nSTARVATAR OF NYXMERA\nPURPLE MOON OF NYXMERA"
+  },
+  {
+    "objectID": "Catalog/units.html#tartarus",
+    "href": "Catalog/units.html#tartarus",
+    "title": "Units",
+    "section": "Tartarus",
+    "text": "Tartarus\n\nDotters of Tartarus\n\nDOTTER OF TARTARUS\nELDER DOTTER OF TARTARUS\n\n\n\nDOT raiders\n\nTARTARUS RAIDER\nTARTARUS MUTANT\nTARTARUS FIRE WARRIOR\nTARTARUS MAGNETIC SLINGER\nSCRAPPER\n\n\n\nKraken\n\nKRAKEN SECURITY GUARDS\nKRAKEN PRIVATE CONTRACTOR\nKRAKEN SLAGGER\n\n\n\nTaloes\n\nLITHIUM TALOS\nMETAL ORE TALOS\nOBSIDIAN LAVA TALOS\nRADIOACTIVE GEM TALOS\n\n\n\nKaiju\n\nSCORPIUS\nPYTHON"
+  },
+  {
+    "objectID": "Catalog/units.html#proteus",
+    "href": "Catalog/units.html#proteus",
+    "title": "Units",
+    "section": "Proteus",
+    "text": "Proteus\n\nProteans\n\nPROTEAN\nPROTEAN CAPTAIN\n\n\n\nTriton & Delta\n\nTRITON & DELTA SELLER\nTRITON & DELTA ENFORCER\n\n\n\nRefraction Sports\n\nPROTEAN SURFER\nPROTEAN SNOWBOARDER\n\n\n\nPoutine the Hyperborean\n\nPOUTINE THE HYPERBOREAN\nSNOWBALL SWARM\nCYBORG ORCA\nORCA WRANGLER\nCYBORG POLAR BEAR\nPOLAR BEAR RIDER\nPOUTINE RIFLEMAN"
+  },
+  {
+    "objectID": "Catalog/units.html#gaia",
+    "href": "Catalog/units.html#gaia",
+    "title": "Units",
+    "section": "Gaia",
+    "text": "Gaia\n\nTAG\n\nTAG PROTESTOR\nTAG ECO FIGHTER\nTAG HACKER\nTAG LEADER\n\n\n\nCult of Skyuss\n\nINCUBATOR CULTIST OF SKYUSS\nMUTATED CULTIST OF SKYUSS\nDEACON OF SKYUSS\nPREMATURE SNOW WORM\nJUVENILE SNOW WORM\nADULT SNOW WORM"
+  },
+  {
+    "objectID": "Catalog/units.html#usa",
+    "href": "Catalog/units.html#usa",
+    "title": "Units",
+    "section": "USA",
+    "text": "USA\n\nUSA Navy\n\nCYBORG DOLPHIN\nHUMPBACK WHALE SUBMERSIBLE\nHUMPBACK WHALE WEAPONS PLATFORM"
+  },
+  {
+    "objectID": "Catalog/units.html#era",
+    "href": "Catalog/units.html#era",
+    "title": "Units",
+    "section": "ERA",
+    "text": "ERA\n\nERA Navy\n\nCYBORG COLOSSAL SQUID"
+  },
+  {
     "objectID": "catalog.html",
     "href": "catalog.html",
     "title": "Catalog",
     "section": "",
     "text": "This part of the website contains different sections on Units, gear, traits, etc. These section contains links to where these are in the website."
-  },
-  {
-    "objectID": "catalog.html#link-to-all-units",
-    "href": "catalog.html#link-to-all-units",
-    "title": "Catalog",
-    "section": "",
-    "text": "SUN OF NYXMERA\nMOUTH OF NYXMERAa\n\n\n\n\n\nNYXMERA TROOPER\nNYXMERA LIGHT TROOPER\nNYXMERA DARK TROOPER\n\n\n\n\n\nTHE ANTIDOTER\nTHE KING\nTHE SILHOUETTE\nSILHOUETTE SHADOW CLONE\n\n\n\n\n\nSTARVATAR OF NYXMERA\nPURPLE MOON OF NYXMERA\nTartarus\n\nFollowers\n\nDOTTER OF TARTARUS\nELDER DOTTER OF TARTARUS\n\nDOT raiders\n\nTARTARUS RAIDER\nTARTARUS MUTANT\nTARTARUS FIRE WARRIOR\nTARTARUS MAGNETIC SLINGER\nSCRAPPER\n\nKraken\n\nKRAKEN SECURITY GUARDS\nKraken private contractors\n\nTaloes\n\nMETAL ORE TALOS\nOBSIDIAN LAVA TALOS\nLITHIUM TALOS\nRadiactive Gem Talos\n\n\nGaia\n\nTAG\n\nTAG Protestor\nTAG Eco Fighter\nTAG Hacker\nTAG leader"
   },
   {
     "objectID": "Gaia/Dr_Petra_Pufferfish.html",
@@ -56,11 +98,11 @@
     "text": "Aurora generator\n(20 HP, 2 armour)\nThis large device produces an artificial Aurora to attract Snow Worms. This can be focussed anywhere within a 5 mile radius of the generator at night. Whilst activated will attract 1 Juvenile Snow Worm every 5 minutes. It can even attract larger snow worms if present.\nThe device also sends out an ultrasonic frequency that deters snow worms from getting within 20 feet of the generator. Deactivation codes are held by the presiding DEACON OF SKYUSS."
   },
   {
-    "objectID": "Gaia/Skyuss.html#worm_swarm",
-    "href": "Gaia/Skyuss.html#worm_swarm",
+    "objectID": "Gaia/Skyuss.html#premature_worm",
+    "href": "Gaia/Skyuss.html#premature_worm",
     "title": "Cult of Skyuss",
-    "section": "PREMATURE SNOW WORM SWARM",
-    "text": "PREMATURE SNOW WORM SWARM\n(3 HP)\n\nBite (1D6-2 damage, min 1)\n2 foot purple worms with leach-like mouths\nCryophobic, takes damage from the cold\nWill attack all humans indiscriminately\n\nLEACH: These purple worms are look 2 foot long leaches like mouths. They are soft, lacking the diamond rods and teeth of their older forms. When the swarm bites their victim they attach and leach blood and heat from the victim, wrapping around appendages. They will attack other snow worms on the same host. They deal 1 damage every day if not removed."
+    "section": "PREMATURE SNOW WORM",
+    "text": "PREMATURE SNOW WORM\n(3 HP)\n\nBite (1D6-2 damage, min 1)\n2 foot purple worms with leach-like mouths\nCryophobic, takes damage from the cold\nWill attack all humans indiscriminately\n\nLEACH: These purple worms are like 2 foot long leaches like mouths. They are soft, lacking the diamond rods and teeth of their older forms. When it bites their victim they attach and leach blood and heat, wrapping around appendages. They will quickly crystallise a diamond coating within a minute reducing the victim’s RFX by -1. Once fully embedded they are near impossible to remove during the mission. No other premature snow worm is able to attach to a victim whilst one is leached."
   },
   {
     "objectID": "Gaia/Skyuss.html#juvenile_worm",
@@ -634,21 +676,21 @@
     "href": "missions.html#d.r.ops",
     "title": "Missions",
     "section": "D.R.Ops",
-    "text": "D.R.Ops\nDangerous & Rapid Ops (D.R.Ops) are intended to be short missions that are quick to set-up and run. The descriptions are relatively brief with plenty of room for referee and player improv.\nPLAY: Protect Latent Australians in Yellow. Protect a rendition of The King in Yellow being performed at an outdoor theatre in the Australian outback. Hopefully nothing strange will happen."
+    "text": "D.R.Ops\nDangerous & Rapid Ops (D.R.Ops) are intended to be short missions that are quick to set-up and run. The descriptions are relatively brief with plenty of room for referee and player improv.\n\nPLAY: Protect Latent Australians in Yellow\nProtect a rendition of The King in Yellow being performed at an outdoor theatre in the Australian outback. Hopefully nothing strange will happen."
   },
   {
     "objectID": "missions.html#dilemmas",
     "href": "missions.html#dilemmas",
     "title": "Missions",
     "section": "Dilemmas",
-    "text": "Dilemmas\nIn the below missions the team has to choose between one of two. Normally, 2 of the factions are up against each other and the team chooses which faction to side with which will determine the mission they ultimately carry out.\nAVOW: Assassinating the Veiled at the Opulent Wedding. Commit or stop the assassination of a Tartarus bride and their Proteus bride during their high profile matrimonies.\nPOPS: Possible Oil Pipe Sabotage. Either side with Kraken to prevent an oil pipe sabotage of TAG to do the sabotaging."
+    "text": "Dilemmas\nIn the below missions the team has to choose between one of two. Normally, 2 of the factions are up against each other and the team chooses which faction to side with which will determine the mission they ultimately carry out.\n\nAVOW: Assassinating the Veiled at the Opulent Wedding\nCommit or stop the assassination of a Tartarus bride and their Proteus bride during their high profile matrimonies.\n\n\nDEBT: Drug Exchange on a Bridge Tonight\nPurchase or sell Holy water on a bridge. Hopefully no shenanigans will ensue!\n\n\nPOPS: Possible Oil Pipe Sabotage\nEither side with Kraken to prevent an oil pipe sabotage of TAG to do the sabotaging."
   },
   {
     "objectID": "missions.html#paranormal-events",
     "href": "missions.html#paranormal-events",
     "title": "Missions",
     "section": "Paranormal events",
-    "text": "Paranormal events\nIn the below missions the team will have to investigate and stop a paranormal event. This may involve monster hunting, exploring strange places, or something completely different.\nDELVE: DOT Expedition Leads to Vein Encounters. An new entrance to the DOT has opened. Investigate and stop further raids from occurring.\nAWE: Auroras & Worm Eradications. A Refraction Sports event may be stopped due to skiers and snowboarders being found eaten by beasts. Found out what’s going on and stop it."
+    "text": "Paranormal events\nIn the below missions the team will have to investigate and stop a paranormal event. This may involve monster hunting, exploring strange places, or something completely different.\n\nAWE: Auroras & Worm Eradications\nA Refraction Sports event may be stopped due to skiers and snowboarders being found eaten by beasts. Found out what’s going on and stop it.\n\n\nDELVE: DOT Expedition Leads to Vein Encounters\nAn new entrance to the DOT has opened. Investigate and stop further raids from occurring."
   },
   {
     "objectID": "missions.html#bombastic",
@@ -662,7 +704,7 @@
     "href": "missions.html#the-primeval-polytheists-seasonal-schemes",
     "title": "Missions",
     "section": "The Primeval Polytheist’s Seasonal Schemes",
-    "text": "The Primeval Polytheist’s Seasonal Schemes\nDr. Petra Pufferfish is the Primeval Polytheist. She plans to control the world with her three lieutenants; Poutine the Hyperborean, Pudding the Ablated, and Mango the Xenolith. These missions involve stopping their plans for world domination.\nPoutine’s Winter. FIST are hired by the USA and ERA militaries to stop Poutine’s weather machine. An action packed mission involving an underwater escort of Humpback whale weapons platforms to Poutine’s iceberg. This is followed by a ground attack of Poutine’s ice fortress guarded by Cyborg Polar bears. Finally FIST will only find an elevator in the fortress that will take them to Potuine’s real base of operations, the sunken Titanic!"
+    "text": "The Primeval Polytheist’s Seasonal Schemes\nDr. Petra Pufferfish is the Primeval Polytheist. She plans to control the world with her three lieutenants; Blanchard the Hyperborean, Pudding the Ablated, and Mango the Xenolith. These missions involve stopping their plans for world domination.\n\nBlanchard’s Winter\nFIST are hired by the USA and ERA militaries to stop Blanchard’s weather machine. An action packed mission involving an underwater escort of Humpback whale weapons platforms to Blanchard’s iceberg. This is followed by a ground attack of Blanchard’s ice fortress guarded by Cyborg Polar bears. Finally FIST will only find an elevator in the fortress that will take them to Blanchard’s real base of operations, the sunken Titanic!"
   },
   {
     "objectID": "Nyxmera/Camera_Obscura.html",
@@ -683,14 +725,14 @@
     "href": "Nyxmera/Camera_Obscura.html#the_king",
     "title": "Camera Obscura",
     "section": "THE KING",
-    "text": "THE KING\n(4 HP, CHOKE 2: Lifts midas touch curse and barters for mercy with pilfered goods)\n\nDeck of cards\nLock picking tools\nGreat sleight of hand and distraction skills\nCovered in pilfered jewellery\nWill not wear gold\nSimple but stylish dress\nReal identity is [\n\nCONCEITED: Their real identity is Queen Hermodike II/Damodice, the wife of King Midas. Turned into gold by her husband she was changed back by Nyxmera in the modern day. Their rage towards their late husband means they only target the rich and greedy. They are vain, prideful, and beautiful. Using a portfolio of personaes they have infiltrated into various upper social circles. They can’t help themselves from stealing jewellery and immediately wearing it. Their overbearing charisma stops the vast majority from questioning or confronting THE KING about this.\nMIDAS TOUCH (BOSS MOVE): They can imbue one gold item and one person with the Midas curse. THE KING must touch the gold and person at the same time to cast the curse. If and when the cursed person willingly touches the cursed gold the victim will permanently turn into solid gold. Any other person touching the cursed gold and/or person during the transformation will also turn to gold. After transformation is complete the curse is complete and the gold will not convert anymore people."
+    "text": "THE KING\n(4 HP, CHOKE 2: Lifts midas touch curse and barters for mercy with pilfered goods)\n\nDeck of cards\nLock picking tools\nGreat sleight of hand and distraction skills\nCovered in pilfered jewellery\nWill not wear gold\nSimple but stylish dress\n\nCONCEITED: Their real identity is Queen Hermodike II/Damodice, the wife of King Midas. Turned into gold by her husband she was changed back by Nyxmera in the modern day. Their rage towards their late husband means they only target the rich and greedy. They are vain, prideful, and beautiful. Using a portfolio of personaes they have infiltrated into various upper social circles. They can’t help themselves from stealing jewellery and immediately wearing it. Their overbearing charisma stops the vast majority from questioning or confronting THE KING about this.\nMIDAS TOUCH (BOSS MOVE): They can imbue one gold item and one person with the Midas curse. THE KING must touch the gold and person at the same time to cast the curse. If and when the cursed person willingly touches the cursed gold the victim will permanently turn into solid gold. Any other person touching the cursed gold and/or person during the transformation will also turn to gold. After transformation is complete the curse is complete and the gold will not convert anymore people."
   },
   {
     "objectID": "Nyxmera/Camera_Obscura.html#the_silhouette",
     "href": "Nyxmera/Camera_Obscura.html#the_silhouette",
     "title": "Camera Obscura",
     "section": "THE SILHOUETTE",
-    "text": "THE SILHOUETTE\n(6 HP)\n\nFAMAS assault rifle (1D6+1 DAMAGE, COLLAPSIBLE)\nTrucker gear\nHidden bulletproof vest (1 ARMOR)\nDisguised truck with gear for shadow clones in hold\nNo visible shadow\n\nSHADOW-PLAY: This shutterbug is cautious and never gets their own hands dirty. Instead, they always leave Captures and Negatives to their SILHOUETTE SHADOW CLONES. They park a good distance away orchestrating the clones via their truck’s radio system, speaking in trucker terminology as code. If the missions goes south they will calmly retreat.\nSHADOW CAST (BOSS MOVE): Creates 2D6 SILHOUETTE SHADOW CLONES. They have the memories and skill of the caster and will follows its commands. Unfortunately, shadow clones appear with no clothes and gear. For full effect they need to be used in advance to gear up. The clones can only be summoned and maintained on moonlit nights."
+    "text": "THE SILHOUETTE\n(6 HP)\n\nFAMAS assault rifle (1D6+1 DAMAGE, COLLAPSIBLE)\nTrucker gear\nHidden bulletproof vest (1 ARMOR)\nDisguised truck with gear for shadow clones in hold\nNo visible shadow\n\nSHADOW-PLAY: This shutterbug is cautious and never gets their own hands dirty. Instead, they always leave Captures and Negatives to their SILHOUETTE SHADOW CLONES. They park a good distance away orchestrating the clones via their truck’s radio system, speaking in trucker terminology as code. If the missions goes south they will calmly retreat.\nSHADOW CAST (BOSS MOVE): Creates 2D6 SILHOUETTE SHADOW CLONES. They have the memories and skill of the caster and will follows its commands. Unfortunately, shadow clones appear with no clothes and gear. For full effect they need to be used in advance to gear up. The clones can only be summoned and maintained on moonlit nights.\nCOLLAPSIBLE weapon tag: Easily concealed, no matter the size; will never be detected during pat-downs. (F:UE)"
   },
   {
     "objectID": "Nyxmera/Camera_Obscura.html#silhouette_shadow_clone",
@@ -733,6 +775,13 @@
     "title": "Starvatars",
     "section": "PURPLE MOON OF NYXMERA",
     "text": "PURPLE MOON OF NYXMERA\n(50 HP)\n\nMoon headbutt (5D6 DAMAGE)\nGravitational crush (3D6 DAMAGE)\n155mm Combustion light-gas gun (2D6 DAMAGE, GIGANTIC)\nEthereal body (3 ARMOR)\nA humanoid of night sky larger than a blue whale\nIts head a purple crated orb, the purple moon\n\nVOYEUR: Depictions of the past show the purple moon in the night sky. Now it perpetually lives as the ultimate representation of Nyxmera. None can question its authority within the suns of Nyxmera and few can match its power outside. It lives in its massive estate filled with theatres, cinemas, libraries, rooms full of TVs. Only the best are allowed to entertain the Purple Moon, and only the richest can join the viewing. They love sowing drama and comedy, having taken to trolling on elite chat boards. The purple moon can see anything and everything bathed by the Grey Moon’s light.\nFULL MOON (BOSS MOVE): The PURPLE MOON OF NYXMERA pulls itself any body within 100 metres it chooses into its pocket dimension. This flat plane is only lit by the grey moon. Escape is only possible by choice or death of the PURPLE MOON OF NYXMERA.\nECLIPSE (BOSS MOVE): All goes dark to those that can see the PURPLE MOON OF NYXMERA. The only perceivable light being the purple illumination that directly comes off the purple crated orb.\nRETURNAL (BOSS MOVE): Once the PURPLE MOON OF NYXMERA hits 0 HP it returns to the night sky as the purple moon orbiting the night sky. This will lead to world wide natural disasters due to the presence of a second moon.\nGIGANTIC weapon tag: Far too large and heavy to be held as a weapon for normal sized people."
+  },
+  {
+    "objectID": "Nyxmera/Suns.html",
+    "href": "Nyxmera/Suns.html",
+    "title": "Suns of Nyxmera",
+    "section": "",
+    "text": "Followers of Nyxmera are called its suns."
   },
   {
     "objectID": "Nyxmera/Suns.html#sun_nyxmera",
@@ -784,11 +833,11 @@
     "text": "Nyxmera is the light. All the celestial bodies are known as the eyes of Nyxmera, the sun, the grey moon, the purple moon, the planets, and the stars. With these Nyxmera watches, it wants to be entertained. Something its followers, Suns of Nyxmera, are more than happy to facilitate.\nNyxmera is everything but Earth. It craves what it can’t take. There is so much of interest on such a tiny orb, so Nyxmera is stuck in a perpetual gaze.\nIts logo represents the duality of the sky and Nyxmera’s eyes. On one side the blue sky and sun. On the other, the night sky with the Grey Moon and Purple Moon. Nyxmera loves extremes; good and evil, comedy and drama, love and war."
   },
   {
-    "objectID": "nyxmera.html#the-eyes-of-nyxmeras",
-    "href": "nyxmera.html#the-eyes-of-nyxmeras",
+    "objectID": "nyxmera.html#the-eyes-of-nyxmera",
+    "href": "nyxmera.html#the-eyes-of-nyxmera",
     "title": "Nyxmera",
-    "section": "The Eyes of Nyxmera’s",
-    "text": "The Eyes of Nyxmera’s\nNyxmera’s presence is felt on Earth in various ways. Its eyes are always staring and so its followers seek to entertain it. Meteors and meteorites are a major source of Nyxmera’s gifts and punishments. Craters and meteorites are special to the Suns of Nyxmera, used to create many outdoor theatres. Many say Nyxmera was bored of watching dinosaurs and so sent a meteorite like one may change the channel. The Starvatars live on Earth with the Purple Moon now permanently on earth as the supreme Starvartar of Nyxmera."
+    "section": "The Eyes of Nyxmera",
+    "text": "The Eyes of Nyxmera\nNyxmera’s presence is felt on Earth in various ways. Its eyes are always staring and so its followers seek to entertain it. Meteors and meteorites are a major source of Nyxmera’s gifts and punishments. Craters and meteorites are special to the Suns of Nyxmera, used to create many outdoor theatres. Many say Nyxmera was bored of watching dinosaurs and so sent a meteorite like one may change the channel. The Starvatars live on Earth with the Purple Moon now permanently on earth as the supreme Starvartar of Nyxmera."
   },
   {
     "objectID": "nyxmera.html#suns-of-nyxmera",
@@ -1019,7 +1068,7 @@
     "href": "Tartarus/DOT_raiders.html#tartarus_mutant",
     "title": "DOT raiders",
     "section": "TARTARUS MUTANT",
-    "text": "TARTARUS MUTANT\n(5 HP)\n\nMAS-36 bolt-action rifle (1D6+1 DAMAGE)\nTattered clothing barely covering their portfolio of scars\nFaint blue/green glow from their veins\nNo two mutants are the same, the below mutations are left vague for the referee’s and/or players’ imagination to fill\n\nADAPTED: These were once normal humans who lived in the settlements of the DOT. They have survived longer than most and so have been mutated from the pervasive chemicals and radiation. When one appears roll 2D6 to determine which of the two following mutations they have (reroll duplicates).\n\nExoskeleton (2 ARMOR)\nLethal arms (1D6 + 1 DAMAGE)\nPowerful strides and jumps\nEnhanced sense\nExtra appendage\nTARTARUS MUTANT gets a total of 3 of the other options\n\nMELTDOWN (BOSS MOVE): As a last resort and with a well choreographed lead up the TARTARUS MUTANT can cause itself to explode. It dies whilst dealing 2D6 DAMAGE to everything within 20 feet."
+    "text": "TARTARUS MUTANT\n(5 HP)\n\nMAS-36 bolt-action rifle (1D6+1 DAMAGE)\nTattered clothing barely covering their portfolio of scars\nFaint blue/green glow from their veins\nNo two mutants are the same, the below mutations are left vague for the referee’s and/or players’ imagination to fill\n\nADAPTED: These were once normal humans who lived in the settlements of the DOT. They have survived longer than most and so have been mutated from the pervasive chemicals and radiation. When one appears, roll 2D6 to determine which of the two following mutations they have (reroll duplicates).\n\nExoskeleton (2 ARMOR)\nLethal arms (1D6 + 1 DAMAGE)\nPowerful strides and jumps\nEnhanced sense\nExtra appendage\nTARTARUS MUTANT gets a total of 3 of the other options\n\nMELTDOWN (BOSS MOVE): As a last resort and with a well choreographed lead up the TARTARUS MUTANT can cause itself to explode. It dies whilst dealing 2D6 DAMAGE to everything within 20 feet."
   },
   {
     "objectID": "Tartarus/DOT_raiders.html#fire_warrior",
@@ -1089,7 +1138,7 @@
     "href": "Tartarus/Kraken.html#kraken_slagger",
     "title": "Kraken",
     "section": "KRAKEN SLAGGER",
-    "text": "KRAKEN SLAGGER\n(6 HP)\n\nBren light machine gun (1D6+1 DAMAGE, INCENDIARY)\nHeckler & Koch MP5K submachine gun (1D6 DAMAGE)\nGeologist’s hammer (1D6 DAMAGE, PERCUSSIVE-MAINTENANCE)\nTactical clothing with slag spikes (1 ARMOR)\nSlag helmet (1 ARMOR, accessory)\nChain smoker\n\nSLANDERER: During their day job they like nothing more than insulting others to fellow gossipers. In their night job they use their barbed tongue to demoralise their foes into surrender. But, they are always prepared to fight if need be. Anyone who disparages the SLAGGER takes an extra +1 DAMAGE from the SLAGGER’s attacks.\nINCENDIARY weapon tag: When damage is dealt, this weapon also deals 2 DAMAGE to anything within firespreading range. Deals double DAMAGE to plants\nPERCUSSIVE-MAINTENANCE weapon tag: Once per mission this weapon can be used to fix a malfunctioning device. This includes, but is not limited to, jammed or overheated weapons, stuck elevators, stalled vehicles, and a fuzzy television."
+    "text": "KRAKEN SLAGGER\n(6 HP)\n\nBren light machine gun (1D6+1 DAMAGE, INCENDIARY)\nHeckler & Koch MP5K submachine gun (1D6 DAMAGE)\nGeologist’s hammer (1D6 DAMAGE, PERCUSSIVE-MAINTENANCE)\nTactical clothing with slag spikes (1 ARMOR)\nSlag helmet (1 ARMOR, accessory)\nChain smoker\n\nSLANDERER: During their day job they like nothing more than insulting others to fellow gossipers. In their night job they use their barbed tongue to demoralise their foes into surrender. But, they are always prepared to fight if need be. Anyone who disparages the SLAGGER takes an extra +1 DAMAGE from the SLAGGER’s attacks.\nINCENDIARY weapon tag: When damage is dealt, this weapon also deals 2 DAMAGE to anything within firespreading range. Deals double DAMAGE to plants. (F:UE)\nPERCUSSIVE-MAINTENANCE weapon tag: Once per mission this weapon can be used to fix a malfunctioning device. This includes, but is not limited to, jammed or overheated weapons, stuck elevators, stalled vehicles, and a fuzzy television."
   },
   {
     "objectID": "Tartarus/Mango_the_xenolith.html",
@@ -1131,7 +1180,7 @@
     "href": "Tartarus/Taloes.html#rad_talos",
     "title": "Taloes",
     "section": "RADIOACTIVE GEM TALOS",
-    "text": "RADIOACTIVE GEM TALOS\n(9 HP)\n\nPlasma rifle (2D6 DAMAGE, ENERGY-HUNGRY)\nPower armor (2 ARMOR, ENERGY-HUNGRY)\nQuartz, amethyst, violet fluorite, blue salt, yellow sapphires or green diamond core.\nVoice like a Geiger counter\n\nPROJECTION: A radioactive projection produced from a single gem at their core. Although the most human looking of all the taloes they are also the most terrifying. They give off constant nuclear radiation which they use to power their weapons and armor. Anyone within melee range gets -2 to action rolls and loses 1HP per action.\nGEM: Their real body is their core which has 3HP. If this is not destroyed the talos will reform in 1D6 days. Its gear is not part of its projection.\nENERGY-HUNGRY tag: Requires a a large amount of energy to function."
+    "text": "RADIOACTIVE GEM TALOS\n(9 HP)\n\nPlasma rifle (2D6 DAMAGE, ENERGY-HUNGRY)\nArm mounted power drills (1D6+2 DAMAGE, DIG)\nPower armor (2 ARMOR, ENERGY-HUNGRY)\nQuartz, amethyst, violet fluorite, blue salt, yellow sapphires or green diamond core.\nVoice like a Geiger counter\n\nPROJECTION: A radioactive projection produced from a single gem at their core. Although the most human looking of all the taloes they are also the most terrifying. They give off constant nuclear radiation which they use to power their weapons and armor. Anyone within melee range gets -2 to action rolls and loses 1HP per action.\nGEM: Their real body is their core which has 3HP. If this is not destroyed the talos will reform in 1D6 days. Its gear is not part of its projection.\nDIG weapon tag: Able to dig through solid rock, allowing traversal.\nENERGY-HUNGRY tag: Requires a a large amount of energy to function."
   },
   {
     "objectID": "tartarus.html",
@@ -1162,80 +1211,122 @@
     "text": "Sub Factions\nThere are many sub factions of Dotters. The following pages are brief descriptions of various sub factions with stat blocks for different non player characters.\n\nDotters of Tartarus: Typical Dotters of Tartarus.\nDOT raiders: Groups who live in the DOT and need to raid the surface for food and supplies.\nKraken: A large company with an almost world wide monopoly on mining and energy.\nTaloes: Animated beings made from the will and bounties of Taratrus."
   },
   {
-    "objectID": "Catalog/units.html",
-    "href": "Catalog/units.html",
-    "title": "Units",
+    "objectID": "Nyxmera/Sol_the_ablated.html",
+    "href": "Nyxmera/Sol_the_ablated.html",
+    "title": "Sol the Ablated",
     "section": "",
-    "text": "SUN OF NYXMERA\nMOUTH OF NYXMERA\n\n\n\n\n\nNYXMERA TROOPER\nNYXMERA LIGHT TROOPER\nNYXMERA DARK TROOPER\n\n\n\n\n\nTHE ANTIDOTER\nTHE KING\nTHE SILHOUETTE\nSILHOUETTE SHADOW CLONE\n\n\n\n\n\nSTARVATAR OF NYXMERA\nPURPLE MOON OF NYXMERA"
+    "text": "Ablation occurs to meteoroids as they enter the earth’s atmosphere. This occurs due to the erosive impacts of atmospheric particles.\nSol was a Brazilian astronaut. They were on the high orbit USA space station “Laser-US”. This space station was developed as a prototype station to deflect asteroids via laser ablation.\nDuring their time on the space station a laser experiment they were carrying out went wrong. This led to the station exploding, with everyone but Sol dying on it. Sol was able to exit the station on an escape pod.\nThis too went disastrously wrong as the pod burnt up. Sol survived but came out ablated, a smooth human with no hair or recognisable features. The US government blamed Sol for the accident, firing them and discrediting their work. Now Sol only wants to make them regret that.\nSol was and still is a super scientist that specialises in lasers and mind control.\nMission will involve the use of asteroid laser ablation to have meteorites strike certain cities."
   },
   {
-    "objectID": "Catalog/units.html#link-to-all-units",
-    "href": "Catalog/units.html#link-to-all-units",
-    "title": "Units",
+    "objectID": "Missions/M-Blanchards_winter.html",
+    "href": "Missions/M-Blanchards_winter.html",
+    "title": "Blanchard’s Winter",
     "section": "",
-    "text": "SUN OF NYXMERA\nMOUTH OF NYXMERAa\n\n\n\n\n\nNYXMERA TROOPER\nNYXMERA LIGHT TROOPER\nNYXMERA DARK TROOPER\n\n\n\n\n\nTHE ANTIDOTER\nTHE KING\nTHE SILHOUETTE\nSILHOUETTE SHADOW CLONE\n\n\n\n\n\nSTARVATAR OF NYXMERA\nPURPLE MOON OF NYXMERA\n\n\n\n\n\n\n\n\nDOTTER OF TARTARUS\nELDER DOTTER OF TARTARUS\n\n\n\n\n\nTARTARUS RAIDER\nTARTARUS MUTANT\nTARTARUS FIRE WARRIOR\nTARTARUS MAGNETIC SLINGER\nSCRAPPER\n\n\n\n\n\nKRAKEN SECURITY GUARDS\nKraken private contractors\n\n\n\n\n\nMETAL ORE TALOS\nOBSIDIAN LAVA TALOS\nLITHIUM TALOS\nRadiactive Gem Talos\n\n\n\n\n\n\n\nTAG Protestor TAG Eco Fighter TAG Hacker TAG leader"
+    "text": "UNDER CONSTRUCTION\nBlanchard the Hyperborean is holding New York ransom for 1 Billion dollars. He is utilising a weather machine to cause an unending blizzard in NY. If he doesn’t get his money on midnight of the Winter solstice he will freeze the city and it inhabitants.\nBlanchard’s fortress is on an Ice berg off Newfoundland, Canada. The iceberg is secretly above the sunken Titanic (found on 1st of September 1985 in the real world). Blanchard and his weather machine are actually in the Titanic, rebuilt as an underwater sea base.\nHis iceberg is protected by extreme cold weather. Thick ice crystals in the frozen sky disable missiles and planes. Mind controlled cyborg orcas and thick ice protect from sea invasions."
   },
   {
-    "objectID": "Catalog/units.html#nyxmera",
-    "href": "Catalog/units.html#nyxmera",
-    "title": "Units",
+    "objectID": "Missions/M-Blanchards_winter.html#military-plans",
+    "href": "Missions/M-Blanchards_winter.html#military-plans",
+    "title": "Blanchard’s Winter",
+    "section": "Military plans",
+    "text": "Military plans\nThe USA and ERA plan to assault the Ice fortress. Whilst the main force is distracting the defences this will allow an elite force, including the FIST team, to invade.\nFIST will be debriefed on a USA Aircraft carrier. They will be informed of the information in the Sea invasion section. This includes the formation used and what enemies will be present. They will then be tasked with destroying one of the weather spires on the iceberg. This will allow some reinforcement to arrive and also allow the use of Rods from God. They know the main ice fortress is in the centre but do not know what is in it.\nEach FIST merc will be provided with the following gear to use during the mission:\n\nHeated aqua combat suits (1 ARMOR), goes on top of their ground clothing\nWaterproof backpack allowing storage of 4 items\nHarpoon gun (1D6+1 DAMAGE)\n\nAdditionally, the FIST team will be provided with 1:\n\nRod from God laser targetter (3D6+3, ANTI-MATERIAL), calls down a rod from god. Only works in the air.\n\nWhilst on board FIST can also:\n\nEnquire about more more intel\nGive their CYBORG COLOSSAL SQUIDS their 10 word directive.\nTalk to the leaders of Whale-1 & Whale-2"
+  },
+  {
+    "objectID": "Missions/M-Blanchards_winter.html#sea-invasion",
+    "href": "Missions/M-Blanchards_winter.html#sea-invasion",
+    "title": "Blanchard’s Winter",
+    "section": "Sea invasion",
+    "text": "Sea invasion\nThe sea is an uninviting abyss. Even with the suits the mercs are frozen to the bone, but they are dry. Enemies appear out of nowhere for humans. Thankfully FIST’s steeds do not have this issue.\nThe sea invasion consists of an escort mission to the iceberg. They will be attacked by mind controlled Cyborg Orcas and their wranglers. Reaching the Iceberg is the path to victory.\n\nFrontal forces\nDuring the sea invasion FIST’s team will trail behind 2 military groups in the water, Whale-1 & Whale-2. These military groups each consist of 6 marines riding CYBORG DOLPHINS, 2 CYBORG COLOSSAL SQUIDS, and a HUMPBACK WHALE SUBMERSIBLE. Do not control directly control these units. Rather, during the sea invasion, narrate their actions every so often making them succeed and fail in line with the rolls of the FIST characters. For example, if a FIST character rolls a success you can also narrate how the front teams are holding off and killing their enemies. If a FIST character rolls a failure you can narrate and mark the death of members in the front teams. On partial successes the front team may take some losses but also kill some enemies.\n\n\nFIST’s team\nFISTS crew will consists of:\n\nThe FIST mercs\nA number of CYBORG DOLPHINS equal to 1.5X the number of FIST mercs (rounded down)\n2 CYBORG COLOSSAL SQUIDS\nA HUMPBACK WHALE SUBMERSIBLE\n\n\n\nBlanchard’s sea forces\nWhilst underwater and approaching the Iceberg the Whale teams will be attacked. FIST’s team will have to fend off a pod of 6 CYBORG ORCAS and their ORCA WRANGLER. The frontal forces will be attacked by the same enemies but in larger numbers.\n\n\nVictory\nThe main goal of FIST is to protect the HUMPBACK WHALE SUBMERSIBLE to the iceberg. It will take 3-6 turns, or however else you measure combat, to reach the iceberg. If FIST are doing well in combat it will take less time than if they are performing poorly.\nOnce the Iceberg has been reached the CYBORG DOLPHINS and HUMPBACK WHALE SUBMERSIBLE can climb onto it."
+  },
+  {
+    "objectID": "Missions/M-Blanchards_winter.html#ground-invasion",
+    "href": "Missions/M-Blanchards_winter.html#ground-invasion",
+    "title": "Blanchard’s Winter",
+    "section": "Ground invasion",
+    "text": "Ground invasion\nEven the dolphins and whales are happy to be out of the sea due to the relative warmth of 0°C air. However, the dark blue has been replaced by the bright white. A flat iceberg surface and still white air disguise the horizon.\nThis vision of infinity is slightly broken by the barely visible Ice structures in the distance. As FIST sets up the silence is broken by the sound of fast approaching heavy footsteps.\n\nLandfall\nOnce on land the surviving HUMPBACK WHALE SUBMERSIBLES will deploy into HUMPBACK WHALE WEAPONS PLATFORM. This will take a minute or 2 requiring FIST to protect the whale. The mercs will need to remove their Heated aqua combat suits and unpack their gear from their bags. If the other whale teams successfully made it to land this will give more time for FIST’s team to set-up before combatants engage them.\nThe vanguard of Blanchard’s forces will consist of 1D6 CYBORG POLAR BEAR with one POLAR BEAR RIDER each.\n\n\nWeather Spire attack\nAfter set-up and taking care of the vanguard FIST will need to destroy a weather spire. This will clear a patch of the frozen sky to allow reinforcements to drop in. Additionally, FIST will then be able to use their Rod from God laser targetter.\nClose to the weather spire, FIST’s team will encounter 8 - X (X is equal to 2 times the number of other whale teams that survived) CYBORG POLAR BEARS with one POLAR BEAR RIDER each.\nThe weather spire is closely surrounded by 4 defence spires, 1 at each compass point. Each defence spire has 3 BLANCHARD RIFLEMEN stationed on top of them.\nWeather Spire (25HP): A tall tower of ice. At the top of the spire ice is spouting out forming the above frozen sky.\n\n\nWeather Spire destruction\nOnce the weather spire is deactivated mechas will drop in from the mooners. They will obliterate enemies allowing FIST a clear path to Blanchard’s Ice Dome."
+  },
+  {
+    "objectID": "Missions/M-Blanchards_winter.html#ice-dome",
+    "href": "Missions/M-Blanchards_winter.html#ice-dome",
+    "title": "Blanchard’s Winter",
+    "section": "Ice Dome",
+    "text": "Ice Dome\nOnly contains an elevator, a great place for FIST to take a break (rendezvous). The elevator leads down into the sea, it takes a long time going all the way to the Titanic on the sea floor."
+  },
+  {
+    "objectID": "Missions/M-Blanchards_winter.html#titanic-base",
+    "href": "Missions/M-Blanchards_winter.html#titanic-base",
+    "title": "Blanchard’s Winter",
+    "section": "Titanic base",
+    "text": "Titanic base\nBlanchard and his weather machine are here. He has patch up the Titanic with Ice."
+  },
+  {
+    "objectID": "Proteus/Blanchard_the_hyperborean.html",
+    "href": "Proteus/Blanchard_the_hyperborean.html",
+    "title": "Blanchard the Hyperborean",
     "section": "",
-    "text": "SUN OF NYXMERA\nMOUTH OF NYXMERA\n\n\n\n\n\nNYXMERA TROOPER\nNYXMERA LIGHT TROOPER\nNYXMERA DARK TROOPER\n\n\n\n\n\nTHE ANTIDOTER\nTHE KING\nTHE SILHOUETTE\nSILHOUETTE SHADOW CLONE\n\n\n\n\n\nSTARVATAR OF NYXMERA\nPURPLE MOON OF NYXMERA"
+    "text": "Blanchard is known as the Hyperborean. He is one of the 3 chief lieutenants of Dr. Petra Pufferfish, the Primeval Polytheist. He is an Ice themed super villain who uses cruel methods to subjugates his minions to his will. Poutine’s experiments with animal mind control were looked down upon by many in the American scientific community. So much so he was eventually ousted and so turned to joining Dr. Petra Pufferfish to get his revenge."
   },
   {
-    "objectID": "Catalog/units.html#tartarus",
-    "href": "Catalog/units.html#tartarus",
-    "title": "Units",
-    "section": "Tartarus",
-    "text": "Tartarus\n\nDotters of Tartarus\n\nDOTTER OF TARTARUS\nELDER DOTTER OF TARTARUS\n\n\n\nDOT raiders\n\nTARTARUS RAIDER\nTARTARUS MUTANT\nTARTARUS FIRE WARRIOR\nTARTARUS MAGNETIC SLINGER\nSCRAPPER\n\n\n\nKraken\n\nKRAKEN SECURITY GUARDS\nKRAKEN PRIVATE CONTRACTOR\nKRAKEN SLAGGER\n\n\n\nTaloes\n\nMETAL ORE TALOS\nOBSIDIAN LAVA TALOS\nLITHIUM TALOS\nRADIOACTIVE GEM TALOS\n\n\n\nKaiju\n\nSCORPIUS\nPYTHON"
+    "objectID": "Proteus/Blanchard_the_hyperborean.html#blanchard",
+    "href": "Proteus/Blanchard_the_hyperborean.html#blanchard",
+    "title": "Blanchard the Hyperborean",
+    "section": "BLANCHARD THE HYPERBOREAN",
+    "text": "BLANCHARD THE HYPERBOREAN\n(8 HP)\n\nFreezeray attached to backpack with heatpump design (1D6+3, STUN)\nGlock 17 (1D6, PROTOTYPE, MELT)\nSharp Ice knuckleduster gloves (1D6+1 DAMAGE)\nIce suit (2 ARMOR, ARMOR reduced by 1 when dealt 3 heat based DAMAGE)\nRocket powered ice skates\nBody like an Austrian body builder\n2 Instant ice wall generators (accessory)\nSnow goggles, Prevents snow blindness and allows greater visibility in blizzards. Additionally, allows user to see through ice up to 1 metre thick.\n\nFLOE: At first glance Blanchard seems to contradict Proteus’ edict of going with the flow. However, surface ice belies the activity underneath it. Cold water contains more oxygen so life can grow larger. Ice and snow flows slowly and its beauty is blinding. Blanchard cannot be harmed by cold or cold/ice/snow based weapons.\nSNOW DAY (BOSS MOVE): Blanchard summons a blizzard, harshly reducing visibility.\nICE FORTS (BOSS MOVE): If he is on an icy surface, Blanchard can create randomly scattered ice blocks. These act as destructible 2 ARMOR cover.\nPROTOYPE weapon tag: Wielding this next-generation weapon grants +1 TACTICAL; roll +TAC to attack with it. (F:UE)\nMELT weapon tag: Weapon (melee) or projectiles (firearm) are made from a non-metallic substance that will melt over time. DAMAGE NEGATION by ARMOR is doubled for this weapon."
   },
   {
-    "objectID": "Catalog/units.html#gaia",
-    "href": "Catalog/units.html#gaia",
-    "title": "Units",
-    "section": "Gaia",
-    "text": "Gaia\n\nTAG\n\nTAG PROTESTOR\nTAG ECO FIGHTER\nTAG HACKER\nTAG LEADER\n\n\n\nCult of Skyuss\n\nINCUBATOR CULTIST OF SKYUSS\nMUTATED CULTIST OF SKYUSS\nDEACON OF SKYUSS\nPREMATURE SNOW WORM\nJUVENILE SNOW WORM\nADULT SNOW WORM"
+    "objectID": "Proteus/Blanchard_the_hyperborean.html#snowball_swarm",
+    "href": "Proteus/Blanchard_the_hyperborean.html#snowball_swarm",
+    "title": "Blanchard the Hyperborean",
+    "section": "SNOWBALL SWARM",
+    "text": "SNOWBALL SWARM\n(3 HP, 2D6 appear)\n\nGlock 17\nA swarm of flying snowballs wielding Glocks\n\nSuperorganism: A superorganism is a creature made up of many different individuals, such as the snowball swarm. They are simple creatures only looking to kill their enemies. Snowball swarms only take 1 DAMAGE from ranged weapons with low RPM (rounds per minute) and no spread (e.g. bows, pistols, bolt-action rifles, sniper rifles etc).\nSYNERGISE (BOSS MOVE): The snowball swarm combines with another snowball swarm. The resulting snowball’s HP is equal to the sum of the merged snowball swarms."
   },
   {
-    "objectID": "Gaia/Skyuss.html#premature_worm",
-    "href": "Gaia/Skyuss.html#premature_worm",
-    "title": "Cult of Skyuss",
-    "section": "PREMATURE SNOW WORM",
-    "text": "PREMATURE SNOW WORM\n(3 HP)\n\nBite (1D6-2 damage, min 1)\n2 foot purple worms with leach-like mouths\nCryophobic, takes damage from the cold\nWill attack all humans indiscriminately\n\nLEACH: These purple worms are like 2 foot long leaches like mouths. They are soft, lacking the diamond rods and teeth of their older forms. When it bites their victim they attach and leach blood and heat, wrapping around appendages. They will quickly crystallise a diamond coating within a minute reducing the victim’s RFX by -1. Once fully embedded they are near impossible to remove during the mission. No other premature snow worm is able to attach to a victim whilst one is leached."
+    "objectID": "Proteus/Blanchard_the_hyperborean.html#cyborg_orca",
+    "href": "Proteus/Blanchard_the_hyperborean.html#cyborg_orca",
+    "title": "Blanchard the Hyperborean",
+    "section": "CYBORG ORCA",
+    "text": "CYBORG ORCA\n(7 HP, 6 appear)\n\nBite (1D6+1 DAMAGE)\nStun wave (1 DAMAGE, STUN)\n2 side mounted torpedoes (1D6+2 DAMAGE)\nCyborg exoskeleton (2 ARMOR)\nMind altering starfish in a protective dome (2HP, 4 ARMOR)\nEcholocation sensors and laser communications\n\nCEDATED: This cetacean has a parasitic starfish embedded on it skull. This forces it to listen to the commands of an ORCA WRANGLER. It does so with ruthless efficiency. CYBORG ORCAS share their echolocation data with their pod and wrangler via laser communications. Orcas freed from their starfish will attempt to bite the starfish off other Orcas to free them.\nSTUN weapon tag: Those damaged by this weapon cannot move or act until their current HP changes. (F:UE)"
   },
   {
-    "objectID": "Catalog/units.html#proteus",
-    "href": "Catalog/units.html#proteus",
-    "title": "Units",
-    "section": "Proteus",
-    "text": "Proteus\n\nProteans\n\nPROTEAN\nPROTEAN CAPTAIN\n\n\n\nTriton & Delta\n\nTRITON & DELTA SELLER\nTRITON & DELTA ENFORCER\n\n\n\nRefraction Sports\n\nPROTEAN SURFER\nPROTEAN SNOWBOARDER\n\n\n\nPoutine the Hyperborean\n\nPOUTINE THE HYPERBOREAN\nSNOWBALL SWARM\nCYBORG ORCA\nORCA WRANGLER\nCYBORG POLAR BEAR\nPOLAR BEAR RIDER\nPOUTINE RIFLEMAN"
+    "objectID": "Proteus/Blanchard_the_hyperborean.html#orca_wrangler",
+    "href": "Proteus/Blanchard_the_hyperborean.html#orca_wrangler",
+    "title": "Blanchard the Hyperborean",
+    "section": "ORCA WRANGLER",
+    "text": "ORCA WRANGLER\n(8 HP, 2 ARMOR)\n\nPilot in a single crew submersible vehicle\nVehicle consists or a metal orb with a circular glass window and 6 arms\nEach arm has 1HP & 1 2 ARMOR, a propulsion system, and a laser transmitter and receiver\nPilot has symbiotic starfish embedded in chest\nStarfish connected to the vehicle’s electronics\n\nWRANGLER: The ORCA WRANGLER is piloted by a human and starfish that have become one. The ORCA WRANGLER is able to control a pod of 6 CYBORG ORCAS who stay close to the wrangler at all times. Each arm of the vehicle acts as the communicator between the wrangler and 1 CYBORG ORCA. If an arm is destroyed a CYBORG ORCA is freed, roll a D6 to determine which one."
   },
   {
-    "objectID": "Catalog/units.html#usa",
-    "href": "Catalog/units.html#usa",
-    "title": "Units",
-    "section": "USA",
-    "text": "USA\n\nUSA Navy\n\nCYBORG DOLPHIN\nHUMPBACK WHALE SUBMERSIBLE\nHUMPBACK WHALE WEAPONS PLATFORM"
+    "objectID": "Proteus/Blanchard_the_hyperborean.html#cyborg_polar_bear",
+    "href": "Proteus/Blanchard_the_hyperborean.html#cyborg_polar_bear",
+    "title": "Blanchard the Hyperborean",
+    "section": "CYBORG POLAR BEAR",
+    "text": "CYBORG POLAR BEAR\n(6 HP)\n\nTitanium claws (1D6+2 DAMAGE)\nSide mounted LMGs (1D6+2 DAMAGE)\nCyborg armor (2 ARMOR)\nAR helmet\n\nTARGETTED-FRENZY: Polar bears are frightening. Cyborg polar bears with riders that control what they see, hear, and smell are terrifying. Cyborg polar bears freed of their reality altering helmets? Horrifying for the rider and everyone else in its line of sight."
   },
   {
-    "objectID": "Catalog/units.html#era",
-    "href": "Catalog/units.html#era",
-    "title": "Units",
-    "section": "ERA",
-    "text": "ERA\n\nERA Navy\n\nCYBORG COLOSSAL SQUID"
+    "objectID": "Proteus/Blanchard_the_hyperborean.html#cyborg_polar_bear_rider",
+    "href": "Proteus/Blanchard_the_hyperborean.html#cyborg_polar_bear_rider",
+    "title": "Blanchard the Hyperborean",
+    "section": "POLAR BEAR RIDER",
+    "text": "POLAR BEAR RIDER\n(3 HP)\n\nBoys anti-tank rifle (2D6+3 DAMAGE, SHOULDER-CRUSHER)\nElectric prod (2 DAMAGE, PRIMAL-FEAR)\nWinter tactical gear (1 ARMOR)\nCyborg polar bear controls & AR helmet\n\nRIDER: Riding a CYBORG POLAR BEAR is complicated and requires both hands. They primarily only use their weapons if their stead attacks them.\nSHOULDER-CRUSHER weapon tag: When fired it has a 1-in-1D6 chance of breaking the user’s shoulder and inflicting 1 DAMAGE to the user.\nPRIMAL-FEAR weapon tag: When used on animals it will induce fear & obedience. However, it has a 1-in-1D6 chance of enraging the animal instead."
   },
   {
-    "objectID": "nyxmera.html#the-eyes-of-nyxmera",
-    "href": "nyxmera.html#the-eyes-of-nyxmera",
-    "title": "Nyxmera",
-    "section": "The Eyes of Nyxmera",
-    "text": "The Eyes of Nyxmera\nNyxmera’s presence is felt on Earth in various ways. Its eyes are always staring and so its followers seek to entertain it. Meteors and meteorites are a major source of Nyxmera’s gifts and punishments. Craters and meteorites are special to the Suns of Nyxmera, used to create many outdoor theatres. Many say Nyxmera was bored of watching dinosaurs and so sent a meteorite like one may change the channel. The Starvatars live on Earth with the Purple Moon now permanently on earth as the supreme Starvartar of Nyxmera."
+    "objectID": "Proteus/Blanchard_the_hyperborean.html#poutine_rifleman",
+    "href": "Proteus/Blanchard_the_hyperborean.html#poutine_rifleman",
+    "title": "Blanchard the Hyperborean",
+    "section": "POUTINE RIFLEMAN",
+    "text": "POUTINE RIFLEMAN\n(3HP, 1D6 appear)\n\nAK-47 (1D6+1 DAMAGE)\n1 F-1 grenade (1D6+1 DAMAGE)\nClimbing pickaxes (3 DAMAGE)\nWinter tactical gear (1 ARMOR)\nSnow blindness glasses\nSpiky climbing shoes\nSnow shovel\n\nEMBEDDED: Harshly defending a position as if frozen to the spot. These riflemen are prized defenders but not as useful for anything else. With digging and climbing skills in frozen climes and decent camouflage they can set up ambushes from unexpected areas."
   },
   {
-    "objectID": "Nyxmera/Suns.html",
-    "href": "Nyxmera/Suns.html",
-    "title": "Suns of Nyxmera",
+    "objectID": "Proteus/Blanchard_the_hyperborean.html#blanchard_rifleman",
+    "href": "Proteus/Blanchard_the_hyperborean.html#blanchard_rifleman",
+    "title": "Blanchard the Hyperborean",
+    "section": "BLANCHARD RIFLEMAN",
+    "text": "BLANCHARD RIFLEMAN\n(3HP, 1D6 appear)\n\nAK-47 (1D6+1 DAMAGE)\n1 F-1 grenade (1D6+1 DAMAGE)\nClimbing pickaxes (3 DAMAGE)\nWinter tactical gear (1 ARMOR)\nSnow blindness glasses\nSpiky climbing shoes\nSnow shovel\n\nEMBEDDED: Harshly defending a position as if frozen to the spot. These riflemen are prized defenders but not as useful for anything else. With digging and climbing skills in frozen climes and decent camouflage they can set up ambushes from unexpected areas."
+  },
+  {
+    "objectID": "Tartarus/Kohitar_the_xenolith.html",
+    "href": "Tartarus/Kohitar_the_xenolith.html",
+    "title": "Kohitar the Xenolith",
     "section": "",
-    "text": "Followers of Nyxmera are called its suns."
+    "text": "Kohitar (Mountain of Darkness) the Xenolith is one of the three lieutenants of Dr. Petra Pufferfish. They are a RADIOACTIVE GEM TALOS covered in an OBSIDIAN LAVA TALOS via a symbiotic relationship.\nTheir gem core is the Koh-i-Noor, the largest diamond in the world, it was in the Crown of the regent of the UK.\nIs able to build incredibly energy dense batteries with diamond battery technology (https://en.wikipedia.org/wiki/Diamond_battery).\nWants nothing more than to erupt volcanoes."
   }
 ]

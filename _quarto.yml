@@ -96,6 +96,7 @@ website:
         - href: Nyxmera/Troops.qmd
         - href: Nyxmera/Camera_Obscura.qmd
         - href: Nyxmera/Starvatars.qmd
+        - href: Nyxmera/Sol_the_ablated.qmd
     - id: Tartarus
       title: "Tartarus"
       style: "floating"
@@ -107,6 +108,7 @@ website:
         - href: Tartarus/Kraken.qmd
         - href: Tartarus/Taloes.qmd
         - href: Tartarus/Kaiju.qmd
+        - href: Tartarus/Kohitar_the_xenolith.qmd
     - id: Proteus
       title: "Proteus"
       style: "floating"
@@ -118,7 +120,7 @@ website:
         - href: Proteus/Refraction_Sports.qmd
         - href: Proteus/Pumice_construction_ltd.qmd
         - href: Proteus/Water_bodies.qmd
-        - href: Proteus/Poutine_the_hyperborean.qmd
+        - href: Proteus/Blanchard_the_hyperborean.qmd
     - id: Gaia
       title: "Gaia"
       style: "floating"
@@ -154,7 +156,7 @@ website:
             #- href: Missions/M-TIDY.qmd
         - section: "Primeval Polytheist"
           contents:
-            - href: Missions/M-Poutines_winter.qmd
+            - href: Missions/M-Blanchards_winter.qmd
     - id: Catalog
       title: "Catalog"
       style: "floating"

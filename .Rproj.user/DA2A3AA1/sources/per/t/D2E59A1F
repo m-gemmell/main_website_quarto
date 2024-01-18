@@ -3,7 +3,7 @@
     "path": "F:/Git/PRIMEVAL_DEITIES/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "3099212783",
+    "hash": "2918038433",
     "contents": "",
     "dirty": false,
     "created": 1702633749472.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "163,33",
-        "scrollLine": "105"
+        "cursorPosition": "180,20",
+        "scrollLine": "119"
     },
     "folds": "",
-    "lastKnownWriteTime": 1705485726,
+    "lastKnownWriteTime": 1705598246,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1705485726330,
+    "last_content_update": 1705598246692,
     "read_only": false,
     "read_only_alternatives": []
 }
