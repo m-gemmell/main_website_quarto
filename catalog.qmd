@@ -5,4 +5,4 @@ editor:
     wrap: sentence
 ---
 
-This part of the website contains different sections on Units, gear, traits, etc. These section contains links to where these are in the website.
+This part of the website contains different sections on Units, gear, traits, etc.

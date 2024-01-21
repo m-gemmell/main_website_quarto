@@ -151,9 +151,9 @@ website:
           contents:
             - href: Missions/M-AWE.qmd
             - href: Missions/M-DELVE.qmd
-        #- section: "Bombastic"
-          #contents:
-            #- href: Missions/M-TIDY.qmd
+        - section: "Bombastic"
+          contents:
+            - href: Missions/M-TIDY.qmd
         - section: "Primeval Polytheist"
           contents:
             - href: Missions/M-Blanchards_winter.qmd
@@ -164,16 +164,17 @@ website:
       contents:
         - href: catalog.qmd
         - href: Catalog/units.qmd
+        - href: Catalog/weapon_tags.qmd
 
 
 #Format
 format:
   html:
     grid:
-      sidebar-width: 250px
+      sidebar-width: 200px
       body-width: 1000px
-      margin-width: 150px
-      gutter-width: 1.5em
+      margin-width: 200px
+      gutter-width: 0.75em
     #HTML themes: https://quarto.org/docs/output-formats/html-themes.html
     theme: 
       dark: [cyborg, styles.scss]

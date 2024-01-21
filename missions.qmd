@@ -47,6 +47,12 @@ An new entrance to the DOT has opened. Investigate and stop further raids from o
 
 These missions won't be categorised normally.
 
+### [TIDY: Terrifying Infiltration of Dump Yard](/Missions/M-TIDY.qmd)
+
+DOT raiders are sick of being stuck in the DOT. 
+They hire the team to disable the defenses where governments dump there trash into the DOT.
+This however leads to a Kaiju and Mecha throwdown.
+
 ## The Primeval Polytheist's Seasonal Schemes
 
 [Dr. Petra Pufferfish](Gaia/Dr_Petra_Pufferfish.qmd) is the Primeval Polytheist.
