@@ -9,22 +9,22 @@ editor:
 
 ## Mission
 
-[DOT raiders](/Tartarus/DOT_Raiders.qmd) charge the team with infiltrating The Big Hole dump yard in Kimberley, South Africa.
-Dump yards are where trash, chemicals, and nuclear waste are disposed of by tipping it into the [DOT](/tartarus/qmd#the-dot).
-These sites are heavily guarded due to the contents but also to stop [DOT raiders](/Tartarus/DOT_Raiders.qmd) and [kaiju](/Tartarus/Kaiju.qmd) from reaching the surface via the mouth into and out of the DOT.
+[DOT raiders](/Tartarus/DOT_raiders.qmd) charge the team with infiltrating The Big Hole dump yard in Kimberley, South Africa.
+Dump yards are where trash, chemicals, and nuclear waste are disposed of by tipping it into the [DOT](/tartarus.html#the-dot).
+These sites are heavily guarded due to the contents but also to stop [DOT raiders](/Tartarus/DOT_raiders.qmd) and [kaiju](/Tartarus/Kaiju.qmd) from reaching the surface via the mouth into and out of the DOT.
 
 This site was originally the [Big Hole](https://en.wikipedia.org/wiki/Big_Hole) open pit quarry.
-However, once they found the mouth into the [DOT](/tartarus/qmd#the-dot) it was developed into a dump yard.
+However, once they found the mouth into the [DOT](/tartarus.html#the-dot) it was developed into a dump yard.
 They made the hole wider and now it is used to remove the vast majority of hazardous trash for the [CAC](/History/CAC.qmd) and some neighbouring countries.
 It is run by __Carafe__, a subsidiary company of [Kraken](/Tartarus/Kraken.qmd).
 
-The team are provided with a __floppy disk__ by the [DOT raiders](/Tartarus/DOT_Raiders.qmd) to disable the security systems including automated turrets. 
+The team are provided with a __floppy disk__ by the [DOT raiders](/Tartarus/DOT_raiders.qmd) to disable the security systems including automated turrets. 
 However, it will also disable the Kaiju Sonic Disruption System (KSDS).
 When/if this occurs small kaiju, [SCORPIUS](/Tartarus/Kaiju.qmd#scorpius), will rush into the dumping site only to be followed by a massive kaiju, [PYTHON](/Tartarus/Kaiju.qmd#python). 
 [PYTHON](/Tartarus/Kaiju.qmd#python) consists of three gigantic serpents connected by a giant obsidian orb.
 
 Double twist, this was a plan by [The Mooners](/History/The_moon.html) to test out their [CARGO MECHA](/History/The_moon.html#cargo-mecha) against a real kaiju. 
-Once [PYTHON](/Tartarus/Kaiju.qmd#python) emerges the KSDS will reactivate, stopping further [kaiju](/Tartarus/Kaiju.qmd) from leaving the [DOT](/tartarus/qmd#the-dot).
+Once [PYTHON](/Tartarus/Kaiju.qmd#python) emerges the KSDS will reactivate, stopping further [kaiju](/Tartarus/Kaiju.qmd) from leaving the [DOT](/tartarus.html#the-dot).
 The team will be able to pilot [CARGO MECHAS](/History/The_moon.html#cargo-mecha) hidden within cargo crates to stop the [kaiju](/Tartarus/Kaiju.qmd).
 There will also be back-up rods from god on hand if the [CARGO MECHAS](/History/The_moon.html#cargo-mecha) fail.
 
@@ -53,7 +53,7 @@ It makes up for this by being able to transport 20,000 cargo crates at a time.
 ### The Mouth
 
 At the south of the hole is a large cave.
-Within this is a Mouth of Tartarus, an entrance to the [DOT](/tartarus/qmd#the-dot).
+Within this is a Mouth of Tartarus, an entrance to the [DOT](/tartarus.html#the-dot).
 The mouth is a pitch black circle that lays completely flat to the earth.
 Remote controlled machines tip trash filled cargo crates into the mouth, the operators at a safe distance on the second floor of the Node. 
 
@@ -73,7 +73,7 @@ __Reception, museum, and canteen (Level 1 security)__
 
 The entrance of the building contains a reception and a small museum about The Big Hole and the Carafe company. 
 It is all boring, sterile corporate propaganda.
-It shows how proud the company is to have automated defences to resist [DOT raider](/Tartarus/DOT_Raiders.qmd) and [kaiju](/Tartarus/Kaiju.qmd) incursions.
+It shows how proud the company is to have automated defences to resist [DOT raider](/Tartarus/DOT_raiders.qmd) and [kaiju](/Tartarus/Kaiju.qmd) incursions.
 
 A large room at the back contains a canteen for the staff.
 
