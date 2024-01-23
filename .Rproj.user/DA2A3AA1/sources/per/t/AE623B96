@@ -1,27 +1,27 @@
 {
-    "id": "AA934968",
-    "path": "F:/Git/PRIMEVAL_DEITIES/Tartarus/Kraken.qmd",
-    "project_path": "Tartarus/Kraken.qmd",
+    "id": "AE623B96",
+    "path": "F:/Git/PRIMEVAL_DEITIES/Missions/M-DEBT.qmd",
+    "project_path": "Missions/M-DEBT.qmd",
     "type": "quarto_markdown",
-    "hash": "3093358601",
+    "hash": "2200334987",
     "contents": "",
     "dirty": false,
-    "created": 1705877009946.0,
+    "created": 1706040307172.0,
     "source_on_save": false,
-    "relative_order": 4,
+    "relative_order": 3,
     "properties": {
         "rmdVisualMode": "false",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "7,0",
-        "scrollLine": "0"
+        "cursorPosition": "87,84",
+        "scrollLine": "58"
     },
     "folds": "",
-    "lastKnownWriteTime": 1705881018,
+    "lastKnownWriteTime": 1706040375,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1705881018346,
+    "last_content_update": 1706040375190,
     "read_only": false,
     "read_only_alternatives": []
 }
