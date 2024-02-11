@@ -129,6 +129,7 @@ website:
         - href: gaia.qmd
         - href: Gaia/TAG.qmd
         - href: Gaia/Skyuss.qmd
+        - href: Gaia/CGC.qmd
         - href: Gaia/Dr_Petra_Pufferfish.qmd
     - id: Missions
       title: "Missions"

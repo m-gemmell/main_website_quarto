@@ -32,7 +32,7 @@ All the below gear is too large to be used by human sized beings.
 - __1-2__: Mecha hand cannon (1D6+3 DAMAGE) & Mecha shield (1 ARMOR, accessory)
 - __3-4__: Duel [Ho-8](https://en.wikipedia.org/wiki/Ho-5_cannon) auto cannon (2D6 DAMAGE)
 - __5-6__: Light-gas long range cannon (1D6+3 DAMAGE, ARMOR-PIERCING).
-  - **ARMOR-PIERCING** weapon tag: Attacks with this weapon ignore ARMOR bonuses granted by physical means. \[F:UE\](https://claymorerpgs.itch.io/fist))
+  - **ARMOR-PIERCING** weapon tag: Attacks with this weapon ignore ARMOR bonuses granted by physical means. [F:UE](https://claymorerpgs.itch.io/fist))
 
 ### Melee weapons
 

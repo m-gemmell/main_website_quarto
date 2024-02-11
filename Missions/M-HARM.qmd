@@ -1,0 +1,10 @@
+---
+title: "HARM: Horseshoe crabs Attack Ranga's Methods"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+## Mission
+
+The team are hired by __Ranga Doshi__, to take care of escaped [HORSESHOE CRAB MUTANTS](/Gaia/CGC.qmd#horseshoe_crab_mutant).

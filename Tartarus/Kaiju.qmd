@@ -27,7 +27,7 @@ DAMAGE is applied normally to the target and the SCORPIUS avoids this DAMAGE if 
 
 ## PYTHON
 
-(HP in total)
+(72 HP in total)
 
 A massive kaiju named after the Greek serpent that lived in the centre of the earth (https://en.wikipedia.org/wiki/Python_(mythology)).
 It consists of three 70 foot long serpents, a rattle snake, cobra, and boa.
@@ -35,7 +35,7 @@ They are connected in the middle by an obsidian orb, with the bodies of the ratt
 
 ### OBSIDIAN ORB
 
-(30 HP, 3 ARMOR)
+(16 HP, 3 ARMOR)
 
 A glowing obsidian orb with red cracks, it radiates rage. 
 Whilst intact the three snakes act as one, whenever one serpent attacks the other two heads also attack.
@@ -71,7 +71,7 @@ Failing a movement incurs 2 damage from lava either falling or on the ground.
 
 ### BOA
 
-(35 HP, 2 ARMOR)
+(22 HP, 2 ARMOR)
 
 - Bite (1D6+2 DAMAGE)
 - Constrict, grapples and incapacitates target (2D6 DAMAGE)

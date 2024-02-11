@@ -37,8 +37,8 @@ __MESSY__ weapon tag: Enemies explode into gore/goo/scrap etc. on ultra successe
 
 (6 HP)
 
-- Obsidian arm blades (1D6+2 DAMAGE)
-- Obsidian lava spear (2D6 DAMAGE, talos takes one damage when it creates one, 1 use)
+- Obsidian arm blades (1D6 DAMAGE)
+- Obsidian lava spear (1D6+2 DAMAGE, talos takes one damage when it creates one, 1 use)
 - Obsidian scales (1 ARMOR)
 - Fast, and ruthless
 
@@ -48,7 +48,7 @@ __GLASSBLOWER:__ The true form of this talos is lava. The talos can change any l
 
 (9 HP)
 
-- Plasma rifle (2D6 DAMAGE, ENERGY-HUNGRY)
+- Plasma rifle (1D6+2 DAMAGE, ENERGY-HUNGRY)
 - Arm mounted power drills (1D6+2 DAMAGE, DIG)
 - Power armor (2 ARMOR, ENERGY-HUNGRY)
 - Quartz, amethyst, violet fluorite, blue salt, yellow sapphires or green diamond core.
