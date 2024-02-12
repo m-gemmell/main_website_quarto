@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "Catalog/items.html",
+    "href": "Catalog/items.html",
+    "title": "Units",
+    "section": "",
+    "text": "Imbued with the sight of Nyxmera it can be used to re-roll one of the two dice used for any TACTICAL roll. Four meteorites can be used to change one of the 2 dice to a result of 6. Once used it shatters into pure light."
+  },
+  {
+    "objectID": "Catalog/items.html#nyxmera",
+    "href": "Catalog/items.html#nyxmera",
+    "title": "Units",
+    "section": "",
+    "text": "Imbued with the sight of Nyxmera it can be used to re-roll one of the two dice used for any TACTICAL roll. Four meteorites can be used to change one of the 2 dice to a result of 6. Once used it shatters into pure light."
+  },
+  {
+    "objectID": "Catalog/items.html#tartarus",
+    "href": "Catalog/items.html#tartarus",
+    "title": "Units",
+    "section": "Tartarus",
+    "text": "Tartarus\n\nRock of Tartarus\nImbued with the power of Tartarus it can be used to re-roll one of the two dice used for any FORCEFUL roll. Four rocks can be used to change one of the 2 dice to a result of 6. Once used it crumbles into inert gravel."
+  },
+  {
+    "objectID": "Catalog/items.html#proteus",
+    "href": "Catalog/items.html#proteus",
+    "title": "Units",
+    "section": "Proteus",
+    "text": "Proteus\n\nWater orb of Proteus\nImbued with the flow of Proteus it can be used to re-roll one of the two dice used for any REFLEXIVE roll. Four water orbs can be used to change one of the 2 dice to a result of 6. Once used it evaporates into steam."
+  },
+  {
+    "objectID": "Catalog/items.html#gaia",
+    "href": "Catalog/items.html#gaia",
+    "title": "Units",
+    "section": "Gaia",
+    "text": "Gaia\n\nHeart of Gaia\nImbued with the life of Gaia it can be used to re-roll one of the two dice used for any CREATIVE roll. Four hearts can be used to change one of the 2 dice to a result of 6. Once used it dissolves into blood."
+  },
+  {
     "objectID": "Catalog/units.html",
     "href": "Catalog/units.html",
     "title": "Units",
@@ -133,8 +168,29 @@
     "text": "The CGC is the Centre for Genomics and Cloning. They are a worldwide institute with a focus on healthcare. They hope to fix all the world’s ailments with genetic engineering and if that doesn’t work they clone new body parts.\nAlthough a lot of their bespoke treatment is too expensive for normal citizens a lot of their breakthroughs have been adopted throughout the industry. UNknown to the public, the company was inspired by the mutations in the DOT and create their own mutants for various purposes."
   },
   {
-    "objectID": "Gaia/CGC.html#horseshoe-crab-mutant",
-    "href": "Gaia/CGC.html#horseshoe-crab-mutant",
+    "objectID": "Gaia/CGC.html#cgc-scientist",
+    "href": "Gaia/CGC.html#cgc-scientist",
+    "title": "CGC",
+    "section": "CGC SCIENTIST",
+    "text": "CGC SCIENTIST\n(2 HP, CHOKE 4: Consumes their CGC serum)\n\nLab coat\nLab book full of encrypted jargon\nIntelligent individual with imposter syndrome\nCGC serum (1 use)\n\nENGAGED: Science is the greatest calling in the world and the greatest calling in science is from CGC. Altering and creating new life, the possibility is endless. The CGC scientist loves their work and hates the boundaries set by society and ethics. CGC frequently pushes and breaks these boundaries. With the right equipment and price the CGC scientist can swap a character’s trait for any other."
+  },
+  {
+    "objectID": "Gaia/CGC.html#cgc-security",
+    "href": "Gaia/CGC.html#cgc-security",
+    "title": "CGC",
+    "section": "CGC SECURITY",
+    "text": "CGC SECURITY\n(3 HP, 1D6 appear)\n\nBioresonance stun rifle (NON-LETHAL)\nCattle prod (PRIMAL-FEAR)\nCombat knife (1D6 DAMAGE)\nNet gun (1 use)\nHeavy riot shield (2 ARMOR, equip as weapon)\nKnife and bite proof clothing (1 ARMOR)\nGrim face with bite and claw scars\n\nKEEPERS: Although the security is used to stop intruders their primary purpose is to keep test subjects inside. Their frequent handling of the various mutated animals and clones have left them scarred and hardened to force. CGC SECURITY do not want to harm anyone or anything, preferring to capture.\nNON-LETHAL weapon tag: Does not deal DAMAGE; has a 3-in-1D6 chance to knock unconscious on a success. (F:UE)\nPRIMAL-FEAR weapon tag: When used on animals it will induce fear & obedience. However, it has a 1-in-1D6 chance of enraging the animal instead."
+  },
+  {
+    "objectID": "Gaia/CGC.html#cgc-serum",
+    "href": "Gaia/CGC.html#cgc-serum",
+    "title": "CGC",
+    "section": "CGC serum",
+    "text": "CGC serum\nA temporary super soldier serum. The consumer gains +1 to all attributes, +1D6 health, and 1 ARMOR from thickened skin. After ten minutes the character’s stats and health are returned to normal and they become unconscious for 1 hour."
+  },
+  {
+    "objectID": "Gaia/CGC.html#horseshoe_crab_mutant",
+    "href": "Gaia/CGC.html#horseshoe_crab_mutant",
     "title": "CGC",
     "section": "HORSESHOE CRAB MUTANT",
     "text": "HORSESHOE CRAB MUTANT\n(4 HP, 1D6 appear)\n\nBlade arms (1D6 DAMAGE)\nCarapace (1 ARMOR)\nA 1 metre tall horseshoe crab in a humanoid shape\nBack and head lined with photoreceptors\n\nBLOOD-DONOR: These MUTANTS were created by genetically engineering Horseshoe crabs. Created so their precious blood can be harvested, to help in the testing of vaccines. This specific species also contains tetrodotoxin, a potent neurotoxin which used correctly can relieve pain of cancer-associated pain. Anyone who consumes the blood or flesh of the HORSESHOE CRAB MUTANT will die."
@@ -431,7 +487,7 @@
     "href": "Missions/M-AWE.html#reward",
     "title": "AWE: Auroras & Worm Eradication",
     "section": "Reward",
-    "text": "Reward\nAurora diamond sword (1D6+1 DAMAGE, VALUABLE)\nVALUABLE weapon tag: Utterly unique in history or make. Can be used as a bargaining chip in almost any situation."
+    "text": "Reward\nAurora diamond sword (1D6+1 DAMAGE, VALUABLE)\nVALUABLE weapon tag: Utterly unique in history or make. Can be used as a bargaining chip in almost any situation. (F:UE)"
   },
   {
     "objectID": "Missions/M-AWE.html#consequences",
@@ -677,6 +733,20 @@
     "title": "FAIR: Fiery Arsonists Instill Rage",
     "section": "",
     "text": "UNDER CONSTRUCTION\nProteus & Tartarus: Tartarus group of arsons have been carrying out an arson spree. Protean firefighters want these arsonists caught. Arsonists will pay FIST to cause a distracting fire so their real target will burn more. Firefighters will pay FIST to catch the arsonists."
+  },
+  {
+    "objectID": "Missions/M-HARM.html",
+    "href": "Missions/M-HARM.html",
+    "title": "HARM: Horseshoe crabs Attack Ranga’s Methods",
+    "section": "",
+    "text": "The team are hired by Pumice construction to investigate the deadly infestation of bipedal Horseshoe crabs (HORSESHOE CRAB MUTANTS) on Lantau Island and Chek Lap Kok. Pumice construction had started building the Hong Kong International airport on Chek Lap Kok, this has been stopped due to the infestation.\nThe islands are being quarantined from the rest of Hong Kong with martial law in place. All citizens have been rounded up to Tung Chung, a fishing village turned town due to the new labour force for airport construction.\nThe team has special dispensation to take care of the menace but the military and others will not look kindly if they are caught snooping in the affairs of government of other companies. Pumice construction will provide them with a translator who knows the main language of the team and Cantonese (the main language of Hong Kong), the translator will only stay in the military guarded safe zone ."
+  },
+  {
+    "objectID": "Missions/M-HARM.html#mission",
+    "href": "Missions/M-HARM.html#mission",
+    "title": "HARM: Horseshoe crabs Attack Ranga’s Methods",
+    "section": "",
+    "text": "The team are hired by Pumice construction to investigate the deadly infestation of bipedal Horseshoe crabs (HORSESHOE CRAB MUTANTS) on Lantau Island and Chek Lap Kok. Pumice construction had started building the Hong Kong International airport on Chek Lap Kok, this has been stopped due to the infestation.\nThe islands are being quarantined from the rest of Hong Kong with martial law in place. All citizens have been rounded up to Tung Chung, a fishing village turned town due to the new labour force for airport construction.\nThe team has special dispensation to take care of the menace but the military and others will not look kindly if they are caught snooping in the affairs of government of other companies. Pumice construction will provide them with a translator who knows the main language of the team and Cantonese (the main language of Hong Kong), the translator will only stay in the military guarded safe zone ."
   },
   {
     "objectID": "Missions/M-PLAY.html",
@@ -1407,31 +1477,24 @@
     "text": "Sub Factions\nThere are many sub factions of Dotters. The following pages are brief descriptions of various sub factions with stat blocks for different non player characters.\n\nDotters of Tartarus: Typical Dotters of Tartarus.\nDOT raiders: Groups who live in the DOT and need to raid the surface for food and supplies.\nKraken: A large company with an almost world wide monopoly on mining and energy.\nTaloes: Animated beings made from the will and bounties of Taratrus."
   },
   {
-    "objectID": "Gaia/CGC.html#cgc-scientist",
-    "href": "Gaia/CGC.html#cgc-scientist",
-    "title": "CGC",
-    "section": "CGC SCIENTIST",
-    "text": "CGC SCIENTIST\n(2 HP, CHOKE 4: Consumes their CGC serum)\n\nLab coat\nLab book full of encrypted jargon\nIntelligent individual with imposter syndrome\nCGC serum (1 use)\n\nENGAGED: Science is the greatest calling in the world and the greatest calling in science is from CGC. Altering and creating new life, the possibility is endless. The CGC scientist loves their work and hates the boundaries set by society and ethics. CGC frequently pushes and breaks these boundaries. With the right equipment and price the CGC scientist can swap a character’s trait for any other."
+    "objectID": "Missions/M-HARM.html#what-is-going-on",
+    "href": "Missions/M-HARM.html#what-is-going-on",
+    "title": "HARM: Horseshoe crabs Attack Ranga’s Methods",
+    "section": "What is going on?",
+    "text": "What is going on?\nRangi Doshi (CGC SCIENTIST) and his team of CGC SCIENTISTS have created the HORSESHOE CRAB MUTANTS, see why below. One of the breeding FEMALE HORSESHOE CRAB MUTANTS was blessed by all four of the Primeval deities, it then escaped the facility via the sewers. It became a BROODING HORSESHOE CRAB MUTANT, producing many HORSESHOE CRAB MUTANTS.\nIt has become intelligent and formed a hive mind with its children, aiming to find and rescue its brethren from the CGC. It is staying within the Mangrove west of Tung Chung (Hong Kong Wetland Park as of 2006). It does not remember where it escaped from only that it smelt of human blood, the sick, and the dead. It sends out most of its daughters (FEMALE HORSESHOE CRAB MUTANTS) to search. It produces an abundance of offspring with 4 MALE HORSESHOE CRAB MUTANTS that were on the its back when it escaped the lab."
   },
   {
-    "objectID": "Gaia/CGC.html#cgc-serum",
-    "href": "Gaia/CGC.html#cgc-serum",
-    "title": "CGC",
-    "section": "CGC serum",
-    "text": "CGC serum\nA temporary super soldier serum. The consumer gains +1 to all attributes, +1D6 health, and 1 ARMOR from thickened skin. After ten minutes the character’s stats and health are returned to normal and they become unconscious for 1 hour."
+    "objectID": "Missions/M-HARM.html#clues",
+    "href": "Missions/M-HARM.html#clues",
+    "title": "HARM: Horseshoe crabs Attack Ranga’s Methods",
+    "section": "Clues",
+    "text": "Clues\n\nSightings\nThe FEMALE HORSESHOE CRAB MUTANTS\n\n\nFood poisoning\nA local restaurant, famous for only serving crustaceans and no fish, is being closed down by the police as patrons have died of food poisoning. Some victims who were admitted to Yan Oi Tong (The University Of Hong Kong Chinese Medicine Centre For Training And Research) are being successfully treated. Those who went to North Lantau Hospital or Tung Chung Health Centre did not survive.\nIf they confront the owner or get information from the police they will find out the owner has been serving the HORSESHOE CRAB MUTANTS. This is because their usual supply of canned horseshoe meat has a shortage. Unknown to them their supply was from CGC who’s prized spawner escaped.\nIf the team successfully investigate at Yan Oi Tong they will find out the patients were treated for pufferfish poisoning (tetrodotoxin). One of the CGC scientists gave this advice to one of the doctors.\n\n\nMedical conference\nUnfortunately a medical conference was in force at one of Tung Chung’s hotels. This means many medical researchers and doctors are stuck during the quarantine. This keeps the nicest hotel out of the hands on evacuees and the military which they are more than happy to grumble about.\nThe large conference room has been changed into a disaster relief zone with many makeshift beds. The occupants are using the leftover posters as extra blankets. One poster is about Horseshoe crabs and how their blood is harvested to create compounds to help test vaccines.\n\n\nClogged sewers"
   },
   {
-    "objectID": "Gaia/CGC.html#horseshoe_crab_mutant",
-    "href": "Gaia/CGC.html#horseshoe_crab_mutant",
-    "title": "CGC",
-    "section": "HORSESHOE CRAB MUTANT",
-    "text": "HORSESHOE CRAB MUTANT\n(4 HP, 1D6 appear)\n\nBlade arms (1D6 DAMAGE)\nCarapace (1 ARMOR)\nA 1 metre tall horseshoe crab in a humanoid shape\nBack and head lined with photoreceptors\n\nBLOOD-DONOR: These MUTANTS were created by genetically engineering Horseshoe crabs. Created so their precious blood can be harvested, to help in the testing of vaccines. This specific species also contains tetrodotoxin, a potent neurotoxin which used correctly can relieve pain of cancer-associated pain. Anyone who consumes the blood or flesh of the HORSESHOE CRAB MUTANT will die."
-  },
-  {
-    "objectID": "Gaia/CGC.html#cgc-security",
-    "href": "Gaia/CGC.html#cgc-security",
-    "title": "CGC",
-    "section": "CGC SECURITY",
-    "text": "CGC SECURITY\n(3 HP, 1D6 appear)\n\nBioresonance stun rifle (NON-LETHAL)\nCattle prod (PRIMAL-FEAR)\nCombat knife (1D6)\nNet gun (1 use)\nHeavy riot shield (2 ARMOR, equip as weapon)\nKnife and bite proof clothing (1 ARMOR)\nGrim face with bite and claw scars\n\nKEEPERS: Although the security is used to stop intruders their primary purpose is to keep test subjects inside. Their frequent handling of the various mutated animals and clones have left them scarred and hardened to force. CGC SECURITY are immune to intimidation but appreciate kindness and mercy.\nNON-LETHAL weapon tag: Does not deal DAMAGE; has a 3-in-1D6 chance to knock unconscious on a success. (F:UE)\nPRIMAL-FEAR weapon tag: When used on animals it will induce fear & obedience. However, it has a 1-in-1D6 chance of enraging the animal instead."
+    "objectID": "Missions/M-HARM.html#ranga_n_cgc",
+    "href": "Missions/M-HARM.html#ranga_n_cgc",
+    "title": "HARM: Horseshoe crabs Attack Ranga’s Methods",
+    "section": "Ranga and the CGC",
+    "text": "Ranga and the CGC\nRanga Doshi and his team works for the CGC. They carry out research in a hidden and secure floor below the basement of the Yan Oi Tong (The University Of Hong Kong Chinese Medicine Centre For Training And Research). Although they can speak cantonese, yhey are so secretive they communicate and write in Hindi for the job. CGC specifically sent a hindi team to Hong Kong for this reason.\nThe team carries out research and experiments on Mangrove horseshoe crabs and Atlantic horseshoe crabs.\nAtlantic horseshoe crabs are collected to harvest their blood. The blood contains amebocytes which are used to create LALs, used to test vaccines.\nMangrove horseshoe crabs contain tetrodotoxin. This is a lethal neurotoxin, the same that makes pufferfish, blue-ringed octopuses and other animals so deadly. Although deadly, if used correctly it can also be used as a treatment of cancer-associated pain. Additionally, it may also be able to be used as a recreational drug, as seen by dolphins who get high on it via pufferfish.\nThe team genetically engineered the Horseshoe crab mutants. The blood of the FEMALE HORSESHOE CRAB MUTANTS is harvested for LALs. Additionally, their roe is sold as food. A few FEMALE HORSESHOE CRAB MUTANTS are used to spawn more Horseshoe crab mutants. Once their blood production or spawn rate reduces below a threshold they are killed and their tetrodotoxin is harvested. The MALE HORSESHOE CRAB MUTANTS are either used to fertilise eggs or sell as meat since they do not contain tetrodotoxin.\nThe CGC research floor contains research rooms, dissection rooms, harvesting pens, spawning pens, and preparation rooms. All rooms have large windows that allow a generous view into and from the hallways. The CGC SCIENTISTS are working within the research rooms and dissection rooms. CGC SECURITY patrol the halls and attend the Horseshoe crab mutants in the harvesting pens.\nCGC SCIENTISTS and CGC SECURITY who are unlucky or have annoyed Ranga are stuck in the preparation rooms. There are four different preparation rooms:\n\nRoe prep: Roe are passed through a fine-mesh screen, salted and packed into metal tins, ready for sale.\nMeat prep: Males are cleaned and cut. The meat is then shredded and refrigerated. It is then sent to a canning company.\n\nTheir are no recreational rooms, staff having to use other floors for this. Their are 2 toilets but one is out of service as it was ripped off the floor when the BROODING HORSESHOE CRAB MUTANT escaped. The exposed pipe has been blocked."
   }
 ]

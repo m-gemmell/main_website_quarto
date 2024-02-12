@@ -152,6 +152,7 @@ website:
           contents:
             - href: Missions/M-AWE.qmd
             - href: Missions/M-DELVE.qmd
+            - href: Missions/M-HARM.qmd
         - section: "Bombastic"
           contents:
             - href: Missions/M-TIDY.qmd

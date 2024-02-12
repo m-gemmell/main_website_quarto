@@ -3,7 +3,7 @@
     "path": "F:/Git/PRIMEVAL_DEITIES/Gaia/CGC.qmd",
     "project_path": "Gaia/CGC.qmd",
     "type": "quarto_markdown",
-    "hash": "3514318101",
+    "hash": "2715123696",
     "contents": "",
     "dirty": false,
     "created": 1707688371992.0,
@@ -13,15 +13,15 @@
         "rmdVisualMode": "false",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "43,74",
-        "scrollLine": "9"
+        "cursorPosition": "81,1",
+        "scrollLine": "22"
     },
     "folds": "",
-    "lastKnownWriteTime": 1707691318,
+    "lastKnownWriteTime": 1707775277,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1707691318378,
+    "last_content_update": 1707775277569,
     "read_only": false,
     "read_only_alternatives": []
 }
