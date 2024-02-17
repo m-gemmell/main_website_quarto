@@ -53,6 +53,18 @@ A temporary super soldier serum.
 The consumer gains +1 to all attributes, +1D6 health, and 1 ARMOR from thickened skin.
 After ten minutes the character's stats and health are returned to normal and they become unconscious for 1 hour.
 
+## CGC body serum {#cgc_body_serum}
+
+A super soldier serum.
+The consumer gains +1 to the FORCEFUL and REFLEXIVE attributes.
+However, they gain -1 to the TACTICAL and CREATIVE attributes.
+
+## CGC mind serum {#cgc_mind_serum}
+
+A super scientist serum.
+The consumer gains +1 to the TACTICAL and CREATIVE attributes.
+However, they gain -1 to the FORCEFUL and REFLEXIVE attributes.
+
 ## FEMALE HORSESHOE CRAB MUTANT {#female_horseshoe_crab_mutant}
 
 (4 HP, 1D6 appear)
@@ -81,3 +93,20 @@ One male clings onto a female to fertilise its eggs.
 The males have been engineered without tetrodotoxin, and to be particularly tasty. 
 Spare males are sold by CGC for meat.
 Consuming the meat of one MALE HORSESHOE CRAB MUTANT will heal +1D6 HP as long as it is properly prepared and cooked.
+
+## BROODING HORSESHOE CRAB MUTANT {#brooding_horseshoe_crab_mutant}
+
+(15 HP)
+
+- Large claws (1D6 + 1 DAMAGE)
+- Black carapace with deep red cracks and star like eyes lining it (2 ARMOR)
+- A 3 metre tall humanoid horse shoe crab
+- Regularly releasing a clutch of eggs
+- Covered by MALE HORSESHOE CRAB MUTANTS
+
+__BROODING:__ This creature is favoured by all four of the Primeval deities.
+A keen intellect from Nyxmera and strength from Tartarus.
+It is able to spawn an abundance of life from Gaia.
+Proteus allows it to control all its children like one body of water as a hive mind.
+
+__SUMMON (BOSS MOVE):__ With a psychic brain blast it summons 3D6 FEMALE HORSESHOE CRAB MUTANT.
