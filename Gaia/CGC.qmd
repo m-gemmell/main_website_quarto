@@ -10,7 +10,7 @@ They are a worldwide institute with a focus on healthcare.
 They hope to fix all the world's ailments with genetic engineering and if that doesn't work they clone new body parts.
 
 Although a lot of their bespoke treatment is too expensive for normal citizens a lot of their breakthroughs have been adopted throughout the industry.
-UNknown to the public, the company was inspired by the mutations in the DOT and create their own mutants for various purposes.
+Unknown to the public, the company was inspired by the mutations in the DOT and create their own mutants for various purposes.
 
 ## CGC SCIENTIST {#scientist}
 
@@ -21,11 +21,11 @@ UNknown to the public, the company was inspired by the mutations in the DOT and 
 - Intelligent individual with imposter syndrome
 - CGC serum (1 use)
 
-__ENGAGED:__ Science is the greatest calling in the world and the greatest calling in science is from CGC.
-Altering and creating new life, the possibility is endless.
-The CGC scientist loves their work and hates the boundaries set by society and ethics.
-CGC frequently pushes and breaks these boundaries.
-With the right equipment and price the CGC scientist can swap a character's trait for any other.
+__ENGAGED:__ Science is the greatest calling in the world and the greatest calling in science is from the CGC.
+Altering and creating new life, the possibilities are endless.
+The CGC SCIENTIST loves their work and hates the boundaries set by society and its ethics.
+The CGC frequently pushes and breaks these boundaries.
+Within their lab and with the right price the CGC SCIENTIST can swap a character's trait for any other, once per character.
 
 ## CGC SECURITY {#security}
 
@@ -39,9 +39,9 @@ With the right equipment and price the CGC scientist can swap a character's trai
 - Knife and bite proof clothing (1 ARMOR)
 - Grim face with bite and claw scars
 
-__KEEPERS:__ Although the security is used to stop intruders their primary purpose is to keep test subjects inside.
+__KEEPERS:__ Their primary purpose is to contain specimens.
 Their frequent handling of the various mutated animals and clones have left them scarred and hardened to force.
-CGC SECURITY do not want to harm anyone or anything, preferring to capture.
+CGC SECURITY do not want to harm anyone or anything, preferring to subdue and capture.
 
 __NON-LETHAL__ weapon tag: Does not deal DAMAGE; has a 3-in-1D6 chance to knock unconscious on a success. ([F:UE](https://claymorerpgs.itch.io/fist))
 

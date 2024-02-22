@@ -12,18 +12,26 @@ editor:
 The team are hired by [Pumice construction](/Proteus/pumice_construction_ltd.qmd) to investigate the deadly infestation of bipedal Horseshoe crabs ([HORSESHOE CRAB MUTANTS](/Gaia/CGC.qmd)) on [Lantau Island](https://en.wikipedia.org/wiki/Lantau_Island) and [Chek Lap Kok](https://en.wikipedia.org/wiki/Chek_Lap_Kok).
 [Pumice construction](/Proteus/pumice_construction_ltd.qmd) had started building the Hong Kong International airport on [Chek Lap Kok](https://en.wikipedia.org/wiki/Chek_Lap_Kok), this has been stopped due to the infestation.
 
-The islands are being quarantined from the rest of Hong Kong with martial law in place.
-All citizens have been rounded up to [Tung Chung](https://en.wikipedia.org/wiki/Tung_Chung), a fishing village turned town due to the new labour force for airport construction.
-
-The team has special dispensation to take care of the menace but the military and others will not look kindly if they are caught snooping in the affairs of government of other companies.
-[Pumice construction](/Proteus/pumice_construction_ltd.qmd) will provide them with a translator who knows the main language of the team and Cantonese (the main language of Hong Kong), the translator will not leave [Tung Chung](https://en.wikipedia.org/wiki/Tung_Chung).
-
 ## What is going on?
 
-__Rangi Doshi__ ([CGC SCIENTIST](/Gaia/CGC.qmd#scientist)) and his team of [CGC SCIENTISTS](/Gaia/CGC.qmd#scientist) have created the [HORSESHOE CRAB MUTANTS](/Gaia/CGC.qmd), see why [below](#ranga_n_cgc).
+__Rangi Doshi__ ([CGC SCIENTIST](/Gaia/CGC.qmd#scientist)) and his team of [CGC SCIENTISTS](/Gaia/CGC.qmd#scientist) have created the [HORSESHOE CRAB MUTANTS](/Gaia/CGC.qmd).
 One of the breeding [FEMALE HORSESHOE CRAB MUTANTS](/Gaia/CGC.qmd#female_horseshoe_crab_mutant) was blessed by all four of the Primeval deities, it then escaped the facility via the sewers.
 It became a [BROODING HORSESHOE CRAB MUTANT](/Gaia/CGC.qmd#brooding_horseshoe_crab_mutant), producing many HORSESHOE CRAB MUTANTS.
 It named itself __Farrier__ and it's brood scour the city, looking to rescue their kin.
+
+## Quarantine and martial law
+
+[Lantau Island](https://en.wikipedia.org/wiki/Lantau_Island) and [Chek Lap Kok](https://en.wikipedia.org/wiki/Chek_Lap_Kok) are being quarantined from the rest of Hong Kong with martial law in place.
+The military on the island only consists of [foot soldiers] with [Beijing BJ212s](https://en.wikipedia.org/wiki/Beijing_BJ212) (Light util. vehicle, 12HP, 1 ARMOR).
+The military have rounded up all citizens to [Tung Chung](https://en.wikipedia.org/wiki/Tung_Chung), a fishing village turned town due to the new labour force for airport construction.
+No one i
+
+
+The islands .
+All citizens have been rounded up to 
+
+The team has special dispensation to take care of the menace but the military and others will not look kindly if they are caught snooping in the affairs of government of other companies.
+[Pumice construction](/Proteus/pumice_construction_ltd.qmd) will provide them with a translator who knows the main language of the team and Cantonese (the main language of Hong Kong), the translator will not leave [Tung Chung](https://en.wikipedia.org/wiki/Tung_Chung).
 
 ## Clues
 
@@ -34,15 +42,20 @@ There are various clues that can help the team figure out what is going on.
 The [FEMALE HORSESHOE CRAB MUTANTS](/Gaia/CGC.qmd#female_horseshoe_crab_mutant) are sighted in many areas but there is a noticeably higher amount near hospitals and graveyards.
 They have also been sighted stalking the sick and elderly.
 
+Surprisingly they are not that violent, seemingly only attacking when provoked.
+However, there are some humans they have attacked without provocation.
+If they team look up the victim's health records they will see that most were diagnosed with gout.
+This is because __Farrier__ has been tortured by __Dr. Ranga Doshi__ in the past and she remembers the smell of gout on him.
+
 ### Food poisoning
 
-A local restaurant, famous for only serving crustaceans and no fish, is being closed down by the police as patrons have died of food poisoning. 
+A local restaurant, famous for only serving shellfish based meals is being closed down by the police as patrons have died of food poisoning. 
 Some victims who were admitted to Yan Oi Tong (The University Of Hong Kong Chinese Medicine Centre For Training And Research) are being successfully treated.
 Those who went to North Lantau Hospital or Tung Chung Health Centre did not survive.
 
-If they confront the owner or get information from the police they will find out the owner has been serving the [HORSESHOE CRAB MUTANTS](/Gaia/CGC.qmd#horseshoe_crab_mutant).
-This is because their usual supply of canned horseshoe meat has a shortage.
-Unknown to them their supply was from CGC who's prized spawner escaped.
+If they confront the owner or get information from the police they will find out the owner has been serving the [HORSESHOE CRAB MUTANT](/Gaia/CGC.qmd#horseshoe_crab_mutant) meat.
+Their usual supply of canned horseshoe meat currently has a shortage.
+Unknown to them their supply was from the CGC who's prized spawner (__Farrier__) escaped.
 
 If the team successfully investigate at Yan Oi Tong they will find out the patients were treated for pufferfish poisoning (tetrodotoxin).
 One of the CGC scientists gave this advice to one of the doctors.
@@ -56,12 +69,17 @@ This keeps the nicest hotel out of the hands on evacuees and the military which 
 The large conference room has been changed into a disaster relief zone with many makeshift beds.
 The occupants are using the leftover posters as extra blankets.
 One poster is about Horseshoe crabs and how their blood is harvested to create compounds to help test vaccines.
-It was being presented by a PhD students of Dr. Ranga Roshi, based at Yan Oi Tong (The University Of Hong Kong Chinese Medicine Centre For Training And Research).
+It was being presented by a PhD student of __Dr. Ranga Roshi__, based at Yan Oi Tong (The University Of Hong Kong Chinese Medicine Centre For Training And Research).
 
 ### Environmental scientists
 
 Environmental scientists are trying to map out the diversity of the island.
-They may share the fact that [Mangrove horseshoe crabs](https://en.wikipedia.org/wiki/Mangrove_horseshoe_crab) frequent the Mangrove forest west of [Tung Chung](https://en.wikipedia.org/wiki/Tung_Chung), where __Farrier__ is located.
+They have been keeping track of the HORSESHOE CRAB MUTANTS movements.
+The player's team may find them following the mutants around the __Tung Chung__ and even outside of it, sneaking through a construction zone at the edge of the town.
+
+The scientists have deduced they are some sort of hybrid between [Atlantic horseshoe crabs](https://en.wikipedia.org/wiki/Atlantic_horseshoe_crab)and [Mangrove horseshoe crabs](https://en.wikipedia.org/wiki/Mangrove_horseshoe_crab).
+They have also deduced that the mutants are coming from the Mangrove forest west of [Tung Chung](https://en.wikipedia.org/wiki/Tung_Chung).
+This is where __Farrier__ is located.
 
 ### Clogged sewers
 
@@ -74,7 +92,7 @@ __Dr. Ranga Doshi__ ([CGC SCIENTIST](/Gaia/CGC.qmd#scientist)) and his team work
 They are responsible for the creation of the HORSEHOE CRAB MUTANTS.
 The CGC are powerful and the Hong Kong military and police will not take kindly to the team openly investigating them.
 
-Dr. Doshi's team carries out research in a hidden and secure floor below the basement of the Yan Oi Tong (The University Of Hong Kong Chinese Medicine Centre For Training And Research). 
+__Dr. Doshi's__ team carries out research in a hidden and secure floor below the basement of the Yan Oi Tong (The University Of Hong Kong Chinese Medicine Centre For Training And Research). 
 Although they can speak Cantonese, they are so secretive they communicate and write in Hindi within the lab.
 The CGC specifically sent a hindi team to Hong Kong for this reason.
 
@@ -84,28 +102,30 @@ __Dr. Ranga Doshi__ is a well respected scientist of the CGC.
 He is a tired man with a limp due to his gout.
 He takes great care of his team and is a very likeable man.
 However, he hates animals and enjoys inflicting pain on them.
-He is smart and hides his zoosadism, except when it comes to crustaceans.
+He is smart and hides his zoosadism, except when it comes to arthropods.
 He loves eating animals, especially shellfish. 
-The only non meat food he eats are carby foods such as rice and bread to eat along with meat.
+The only non meat food he eats are carb-based foods such as rice and bread to eat along with meat.
 
 He is normally found in one of 6 places:
 
-1. __His office__. Taking calls, having one-on-one meetings, researching, preparing lectures etc. He can also be found sleeping in a temporary cot.
-2. __Patrolling the lab__. Although an nice boss in ways he tends to micromanage and change his mind often
-3. __Teaching__. He gives lectures and tutorials within the lecture tehatres and labs of the main hospital
-4. __Mingling__. He will go to the hotel hosting the medical conference to mingle with other medical researchers
-5. __Restaurants__. He always eats at restaurants.
-6. __Spawning pen__. He sometimes likes to find a newly spawned MUTANT HORSESHOE CRAB to torture alone
+1. __His office:__ Taking calls, having one-on-one meetings, researching, preparing lectures etc. He can also be found sleeping in a temporary cot.
+2. __Patrolling the lab:__ Although a nice boss in ways he tends to micromanage and change his mind often.
+3. __Teaching:__ He gives lectures and tutorials within the lecture tehatres and labs of the main hospital.
+4. __Mingling:__ He will go to the hotel hosting the medical conference to mingle with other medical researchers.
+5. __Restaurants:__ He always eats at restaurants.
+6. __Spawning pen:__ He sometimes likes to find a newly spawned MUTANT HORSESHOE CRAB to torture alone.
+
+Outside of his research lab he is always escorted by two [CGC SECURITY](/Gaia/CGC.qmd#security) members.
 
 ### CGC staff
 
-Dr. Doshi's team consists of 2 types of staff:
+__Dr. Doshi's__ team consists of 2 types of staff:
 
 - [CGC SCIENTISTS](/Gaia/CGC.qmd#scientist): Members of his research team.
 - [CGC SECURITY](/Gaia/CGC.qmd#security): Security to keep people out and the specimens in the lab.
 
-Dr. Doshi's team can be found in the main hospital from time to time.
-The scientists teach in the lecture theatre.
+The team can be found in the main hospital from time to time.
+The scientists help tutor students.
 All the staff take their breaks in the canteen and recreational rooms of the main hospital.
 Currently some are sleeping in the main hospital due to the quarantine and martial law.
 
@@ -113,12 +133,12 @@ Currently some are sleeping in the main hospital due to the quarantine and marti
 
 The team carries out research and experiments on:
 
-- [Atlantic horseshoe crabs](https://en.wikipedia.org/wiki/Atlantic_horseshoe_crab): collected for blood harvesting
+- [Atlantic horseshoe crabs](https://en.wikipedia.org/wiki/Atlantic_horseshoe_crab): collected for blood harvesting.
   - The blood contains amebocytes which are used to create LALs, used to test vaccines.
 - [Mangrove horseshoe crabs](https://en.wikipedia.org/wiki/Mangrove_horseshoe_crab): contain [tetrodotoxin](https://en.wikipedia.org/wiki/Tetrodotoxin).
-  - Lethal neurotoxin, the same that makes pufferfish, blue-ringed octopuses and other animals so deadly
-  - If used correctly it can also be used as a treatment of cancer-associated pain
-  - May also be able to be used as a recreational drug, as seen by dolphins who get high on it via pufferfish
+  - Lethal neurotoxin, the same that makes pufferfish, and blue-ringed octopuses so deadly.
+  - If used correctly it can also be used as a treatment of cancer-associated pain.
+  - May also be able to be used as a recreational drug, as seen by dolphins who get high on it via pufferfish.
 
 The team genetically engineered the HORSESHOE CRAB MUTANTS.
 They have carried this out to get a variety of uses from them.
@@ -132,8 +152,8 @@ They have carried this out to get a variety of uses from them.
   - Fertilisers
   - Sold as meat as they do not contain tetrodotoxin
 
-The team have also created a taxin that only kills the HORSESHOE CRAB MUTANTS.
-__Dr. Doshi__ initially does not want to use it as it will taint the islands water supply and most likely make its way into their research lab, killing their specimens.
+The team have also created a toxin that only kills the HORSESHOE CRAB MUTANTS.
+__Dr. Doshi__ initially does not want to use it as it will taint the island's water supply and most likely make its way into their research lab, killing their specimens.
 
 ### Research floor
 
@@ -142,14 +162,14 @@ All rooms have large windows that allow a generous view into and from the hallwa
 
 The [CGC SCIENTISTS](/Gaia/CGC.qmd#scientist) primarily work in the:
 
-- __Research rooms:__ Tables with computers and notes along with a library of medical & zoology textbooks
-- __Dissection lab:__ Room to study the anatomy of Horseshoe crabs and the mutants
+- __Research rooms:__ Tables with computers and notes along with a library of medical & zoology textbooks.
+- __Dissection lab:__ Room to study the anatomy of Horseshoe crabs and the mutants.
 - __Tetrodotoxin extraction:__ The scientists carry out tetrodotoxin extraction as it is too technical for the security staff.
 
 The [CGC SECURITY](/Gaia/CGC.qmd#security) patrol the halls and work within the following rooms:
 
 - __Spawning pen:__  Contains 6 dedicated cages for [FEMALE HORSESHOE CRAB MUTANTS](/Gaia/CGC.qmd#female_horseshoe_crab_mutant) to produce new spawn. One cage has been ripped apart from the inside.
-- __Harvesting room:__ Along the walls are tied up [FEMALE HORSESHOE CRAB MUTANTS](/Gaia/CGC.qmd#female_horseshoe_crab_mutant). Tubes are collecting their dark blood blood.
+- __Harvesting room:__ Along the walls are tied up [FEMALE HORSESHOE CRAB MUTANTS](/Gaia/CGC.qmd#female_horseshoe_crab_mutant). Tubes are collecting their dark blue blood.
 - __Roe prep:__ Roe are passed through a fine-mesh screen, salted and packed into metal tins, ready for sale.
 - __Meat prep:__ Males are cleaned and cut. The meat is then shredded, refrigerated, and sent to a canning company.
 
@@ -167,7 +187,7 @@ It sends out its daughters ([FEMALE HORSESHOE CRAB MUTANTS](/Gaia/CGC.qmd#female
 It produces an abundance of offspring with 4 [MALE HORSESHOE CRAB MUTANTS](/Gaia/CGC.qmd#female_horseshoe_crab_mutant) that were on the its back when it escaped the lab.
 
 The [Mangrove forests](https://en.wikipedia.org/wiki/Mangrove_forest) are wetlands in coastal intertidal zones.
-The are named for the [Mangroves](https://en.wikipedia.org/wiki/Mangrove) that inhabit them.
+They are named for the [Mangroves](https://en.wikipedia.org/wiki/Mangrove) that inhabit them.
 They are incredibly wet making travel by car or foot very difficult.
 If the team wants to explore the Mangrove forest they will most likely need a boat.
 They could fly by helicopter but will find it difficult to find __Farrier's__ nest due to the Mangrove canopy.
@@ -176,11 +196,15 @@ They could fly by helicopter but will find it difficult to find __Farrier's__ ne
 
 Although the team could resolve this in many ways there are 2 main methods.
 
+### Kill Farrier
+
 The most obvious method is to kill __Farrier__, the [BROODING HORSESHOE CRAB MUTANT](/Gaia/CGC.qmd#brooding_horseshoe_crab_mutant).
 If she is killed the hivemind will break and cannot be reformed.
 This will cause all the remaining HORSESHOE CRAB MUTANTS to become unintelligent and unorganised creatures that can be easily dealt with by the Hong Kong military.
 With this option the team may be able to talk with __Dr. Doshi__ to gain his help in their plan.
 If, so and they successfully kill __Farrier__, he will reward the team with a choice of either a [CGC body serum](#cgc_body_serum) or a [CGC mind serum](#cgc_mind_serum)
+
+### Help Farrier
 
 The other method is to help __Farrier__, the [BROODING HORSESHOE CRAB MUTANT](/Gaia/CGC.qmd#brooding_horseshoe_crab_mutant).
 If the team encounter her she will telepathically communicate with them.
@@ -189,11 +213,12 @@ If they do she will leave the island to go live within the oceans.
 She will reward the team with a __blessed barnacle__.
 
 __Blessed barnacle:__ Once per mission attach the barnacle surface to a hard surface. 
-This causes many large barnacles to cover the surface. 
-These can be used as handholds and increases the armor rating of cover by 1.
-It is not only limited to these uses.
+This causes many tennis ball sized barnacles to cover the surface. 
+This may strengthen the surface and make it more climbable.
 
-Either method will make the team's employer ([Pumice construction](/Proteus/pumice_construction_ltd.qmd)) happy. They will reward the team with:
+### Mission completion
+
+As long as they rid the islands of the MUTANT HORSESHOE CRAB infestation the team's employer ([Pumice construction](/Proteus/pumice_construction_ltd.qmd)) will be happy. They will reward the team with:
 
 [Type 79 submachine gun](https://en.wikipedia.org/wiki/Type_79_submachine_gun) (1D6+1 DAMAGE, LIGHT)
 
