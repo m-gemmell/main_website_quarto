@@ -1,14 +1,22 @@
 ---
 title: "The Biways"
-editor: visual
 ---
 
 The British Isles, also known as the Biways, consists of England, Scotland, Ireland, Wales, Greenland, Iceland, and other smaller islands.
 
-The Biways is the financial hub of the world. The pound is the most traded and trusted currency in the world. A great place for off shore bank accounts and laundering money. It is a haven for fugitives of other countries. As long as the fugitive has capital. Many of the world's elites and most dangerous live in the Biways, benefiting from interacting with each other.
+## Primary deity
 
-Although it has many criminals, violent crimes are not tolerated in the British isles. It is a great place for FIST to be based but in one of the less wealthy areas (Ireland, Wales, Isle of Man, or Isle of Wight).
+None/agnostic
 
-Greenland is used for nuclear power generation to sell to the world (primarily the USA) and to keep large standing military, air-force, and naval powers.
+## Positives
 
-Iceland is where many dangerous scientific research is carried out is carried out by super scientists across the world.
+- __Rich:__ The Biways is the financial hub of the world. The pound is the most traded and trusted currency in the world.
+- __Nuclear power:__ Greenland is used for nuclear power generation to sell to the world, especially the USA.
+- __Research:__ Contains many universities with leading research.
+
+
+## Negatives
+
+- __Corrupt:__ It is a great place for off shore bank accounts and laundering money. It is a haven for fugitives of other countries. As long as the fugitive has capital. Many of the world's elites and most dangerous live in the Biways, benefiting from interacting with each other.
+- __Dangerous science:__ Iceland is where many dangerous scientific research is carried out is carried out by super scientists across the world.
+- __Brain drain:__ The Biways is very attractive to experts across the world. This unfortunately takes away specilaists from other countries that may need them more.

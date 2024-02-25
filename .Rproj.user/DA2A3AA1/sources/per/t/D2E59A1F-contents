@@ -69,17 +69,18 @@ website:
         - section: "USA"
           contents:
           - href: History/USA.qmd
-          - href: History/USA_navy.qmd
+          - href: History/USA_military.qmd
         - section: "ERA"
           contents:
           - href: History/ERA.qmd
-          - href: History/ERA_navy.qmd
+          - href: History/ERA_military.qmd
         - section: "CAC"
           contents:
           - href: History/CAC.qmd
         - section: "SAE"
           contents:
           - href: History/SAE.qmd
+          - href: History/SAE_military.qmd
         - section: "Oceania"
           contents:
           - href: History/Oceania.qmd

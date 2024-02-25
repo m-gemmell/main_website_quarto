@@ -44,7 +44,7 @@ Additionally, the FIST team will be provided with 1:
 Whilst on board FIST can also:
 
 - Enquire about more more intel
-- Give their [CYBORG COLOSSAL SQUIDS](/History/ERA_navy.qmd#cyborg_colossal_squid) their 10 word directive.
+- Give their [CYBORG COLOSSAL SQUIDS](/History/ERA_military.qmd#cyborg_colossal_squid) their 10 word directive.
 - Talk to the leaders of Whale-1 & Whale-2
 
 
@@ -62,7 +62,7 @@ Reaching the Iceberg is the path to victory.
 ### Frontal forces
 
 During the sea invasion FIST's team will trail behind 2 military groups in the water, Whale-1 & Whale-2.
-These military groups each consist of 6 marines riding [CYBORG DOLPHINS](/History/USA_navy.qmd#cyborg_dolphin), 2 [CYBORG COLOSSAL SQUIDS](/History/ERA_navy.qmd#cyborg_colossal_squid), and a [HUMPBACK WHALE SUBMERSIBLE](/History/USA_navy.qmd#humpback_sub).
+These military groups each consist of 6 marines riding [CYBORG DOLPHINS](/History/USA_military.qmd#cyborg_dolphin), 2 [CYBORG COLOSSAL SQUIDS](/History/ERA_military.qmd#cyborg_colossal_squid), and a [HUMPBACK WHALE SUBMERSIBLE](/History/USA_military.qmd#humpback_sub).
 Do not control directly control these units.
 Rather, during the sea invasion, narrate their actions every so often making them succeed and fail in line with the rolls of the FIST characters.
 For example, if a FIST character rolls a success you can also narrate how the front teams are holding off and killing their enemies.
@@ -74,9 +74,9 @@ On partial successes the front team may take some losses but also kill some enem
 FISTS crew will consists of:
 
 - The FIST mercs
-- A number of [CYBORG DOLPHINS](/History/USA_navy.qmd#cyborg_dolphin) equal to 1.5X the number of FIST mercs (rounded down)
-- 2 [CYBORG COLOSSAL SQUIDS](/History/ERA_navy.qmd#cyborg_colossal_squid)
-- A [HUMPBACK WHALE SUBMERSIBLE](/History/USA_navy.qmd#humpback_sub)
+- A number of [CYBORG DOLPHINS](/History/USA_military.qmd#cyborg_dolphin) equal to 1.5X the number of FIST mercs (rounded down)
+- 2 [CYBORG COLOSSAL SQUIDS](/History/ERA_military.qmd#cyborg_colossal_squid)
+- A [HUMPBACK WHALE SUBMERSIBLE](/History/USA_military.qmd#humpback_sub)
 
 ### Blanchard's sea forces
 
@@ -86,11 +86,11 @@ The frontal forces will be attacked by the same enemies but in larger numbers.
 
 ### Victory
 
-The main goal of FIST is to protect the [HUMPBACK WHALE SUBMERSIBLE](/History/USA_navy.qmd#humpback_sub) to the iceberg.
+The main goal of FIST is to protect the [HUMPBACK WHALE SUBMERSIBLE](/History/USA_military.qmd#humpback_sub) to the iceberg.
 It will take 3-6 turns, or however else you measure combat, to reach the iceberg.
 If FIST are doing well in combat it will take less time than if they are performing poorly.
 
-Once the Iceberg has been reached the [CYBORG DOLPHINS](/History/USA_navy.qmd#cyborg_dolphin) and [HUMPBACK WHALE SUBMERSIBLE](/History/USA_navy.qmd#humpback_sub) can climb onto it.
+Once the Iceberg has been reached the [CYBORG DOLPHINS](/History/USA_military.qmd#cyborg_dolphin) and [HUMPBACK WHALE SUBMERSIBLE](/History/USA_military.qmd#humpback_sub) can climb onto it.
 
 ## Ground invasion
 
@@ -103,7 +103,7 @@ As FIST sets up the silence is broken by the sound of fast approaching heavy foo
 
 ### Landfall
 
-Once on land the surviving [HUMPBACK WHALE SUBMERSIBLES](/History/USA_navy.qmd#humpback_sub) will deploy into [HUMPBACK WHALE WEAPONS PLATFORM](/History/USA_navy.qmd#humpback_plat).
+Once on land the surviving [HUMPBACK WHALE SUBMERSIBLES](/History/USA_military.qmd#humpback_sub) will deploy into [HUMPBACK WHALE WEAPONS PLATFORM](/History/USA_military.qmd#humpback_plat).
 This will take a minute or 2 requiring FIST to protect the whale.
 The mercs will need to remove their Heated aqua combat suits and unpack their gear from their bags.
 If the other whale teams successfully made it to land this will give more time for FIST's team to set-up before combatants engage them.

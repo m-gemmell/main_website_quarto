@@ -193,5 +193,14 @@
   },
   "Missions/M-HARM.qmd": {
     "M-HARM.html": "d2d5f6ac"
+  },
+  "History/ERA_military.qmd": {
+    "ERA_military.html": "93c2456f"
+  },
+  "History/SAE_military.qmd": {
+    "SAE_military.html": "59e08e44"
+  },
+  "History/USA_military.qmd": {
+    "USA_military.html": "375ce9bd"
   }
 }

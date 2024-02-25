@@ -1,8 +1,8 @@
 ---
-title: "USA Navy"
+title: "USA military"
 ---
 
-The USA Navy.
+# USA Navy
 
 ## CYBORG DOLPHIN {#cyborg_dolphin}
 
