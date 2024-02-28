@@ -17,7 +17,7 @@ The team are hired by [Pumice construction](/Proteus/pumice_construction_ltd.qmd
 __Rangi Doshi__ ([CGC SCIENTIST](/Gaia/CGC.qmd#scientist)) and his team of [CGC SCIENTISTS](/Gaia/CGC.qmd#scientist) have created the [HORSESHOE CRAB MUTANTS](/Gaia/CGC.qmd).
 One of the breeding [FEMALE HORSESHOE CRAB MUTANTS](/Gaia/CGC.qmd#female_horseshoe_crab_mutant) was blessed by all four of the Primeval deities, it then escaped the facility via the sewers.
 It became a [BROODING HORSESHOE CRAB MUTANT](/Gaia/CGC.qmd#brooding_horseshoe_crab_mutant), producing many HORSESHOE CRAB MUTANTS.
-It named itself __Farrier__ and it's brood scour the city, looking to rescue their kin.
+It named itself __Farrier__ and its brood scour the city, looking to rescue their kin.
 
 ## Quarantine and martial law
 
@@ -26,7 +26,7 @@ The military on the island only consists of [SAE INFANTRY](/History/SAE_military
 The military have rounded up all citizens to [Tung Chung](https://en.wikipedia.org/wiki/Tung_Chung), a fishing village turned town due to the new labour force for airport construction.
 None of the citizens are allowed to leave the town.
 
-The team has special dispensation to take care of the menace but the military and others will not look kindly if they are caught snooping in the affairs of government of other companies.
+The team has special dispensation to take care of the menace but the military and others will not look kindly if they are caught snooping in the affairs of government or other companies.
 [Pumice construction](/Proteus/pumice_construction_ltd.qmd) will provide them with a translator who knows the main language of the team and Cantonese (the main language of Hong Kong), the translator will not leave [Tung Chung](https://en.wikipedia.org/wiki/Tung_Chung).
 
 ## Clues
@@ -36,11 +36,11 @@ There are various clues that can help the team figure out what is going on. Plea
 ### Sightings & attacks
 
 The [FEMALE HORSESHOE CRAB MUTANTS](/Gaia/CGC.qmd#female_horseshoe_crab_mutant) are sighted in many areas but there is a noticeably higher amount near hospitals and graveyards.
-They have also been sighted stalking the sick and elderly.
+They have also been sighted, stalking the sick and elderly.
 
 Surprisingly they are not that violent, seemingly only attacking when provoked.
 However, there are some humans they have attacked without provocation.
-If they team look up the victim's health records they will see that most were diagnosed with gout.
+If the team looks up the victim's health records they will see that most were diagnosed with gout.
 This is because __Farrier__ has been tortured by __Dr. Ranga Doshi__ in the past and she remembers the smell of gout on him.
 
 ### Food poisoning
@@ -53,7 +53,7 @@ If they confront the owner or get information from the police they will find out
 Their usual supply of canned horseshoe meat currently has a shortage.
 Unknown to them their supply was from the CGC who's prized spawner (__Farrier__) escaped.
 
-If the team successfully investigate at Yan Oi Tong they will find out the patients were treated for pufferfish poisoning (tetrodotoxin).
+If the team successfully investigates at Yan Oi Tong they will find out the patients were treated for pufferfish poisoning (tetrodotoxin).
 One of the CGC scientists gave this advice to one of the doctors.
 
 ### Medical conference
@@ -73,7 +73,7 @@ Environmental scientists are trying to map out the diversity of the island.
 They have been keeping track of the HORSESHOE CRAB MUTANTS movements.
 The player's team may find them following the mutants around the __Tung Chung__ and even outside of it, sneaking through a construction zone at the edge of the town.
 
-The scientists have deduced they are some sort of hybrid between [Atlantic horseshoe crabs](https://en.wikipedia.org/wiki/Atlantic_horseshoe_crab)and [Mangrove horseshoe crabs](https://en.wikipedia.org/wiki/Mangrove_horseshoe_crab).
+The scientists have deduced they are some sort of hybrid between [Atlantic horseshoe crabs](https://en.wikipedia.org/wiki/Atlantic_horseshoe_crab) and [Mangrove horseshoe crabs](https://en.wikipedia.org/wiki/Mangrove_horseshoe_crab).
 They have also deduced that the mutants are coming from the Mangrove forest west of [Tung Chung](https://en.wikipedia.org/wiki/Tung_Chung).
 This is where __Farrier__ is located.
 
@@ -85,18 +85,24 @@ This is also where the [FEMALE HORSESHOE CRAB MUTANTS](/Gaia/CGC.qmd#female_hors
 ## Ranga and the CGC {#ranga_n_cgc}
 
 __Dr. Ranga Doshi__ ([CGC SCIENTIST](/Gaia/CGC.qmd#scientist)) and his team works for the [CGC](/Gaia/CGC.qmd).
-They are responsible for the creation of the HORSEHOE CRAB MUTANTS.
+They are responsible for the creation of the HORSESHOE CRAB MUTANTS.
 The CGC are powerful and the Hong Kong military and police will not take kindly to the team openly investigating them.
 
-__Dr. Doshi's__ team carries out research in a hidden and secure floor below the basement of the Yan Oi Tong (The University Of Hong Kong Chinese Medicine Centre For Training And Research). 
+__Dr. Doshi's__ team carries out research in a hidden and secure floor below the basement of the __Yan Oi Tong__ (The University Of Hong Kong Chinese Medicine Centre For Training And Research). 
 Although they can speak Cantonese, they are so secretive they communicate and write in Hindi within the lab.
-The CGC specifically sent a hindi team to Hong Kong for this reason.
+The CGC specifically sent a Hindi team to Hong Kong for this reason.
+
+<center>
+![](images/MARM-hospital.png){style="width:400px; border-radius:5px; border:2px solid #dc267f; background:null"}
+
+__Yan Oi Tong__ (The University Of Hong Kong Chinese Medicine Centre For Training And Research)
+</center>
 
 ### Dr. Ranga Doshi
 
 __Dr. Ranga Doshi__ is a well respected scientist of the CGC.
 He is a tired man with a limp due to his gout.
-He takes great care of his team and is a very likeable man.
+He takes great care of his team and is a very likable man.
 However, he hates animals and enjoys inflicting pain on them.
 He is smart and hides his zoosadism, except when it comes to arthropods.
 He loves eating animals, especially shellfish. 
@@ -106,7 +112,7 @@ He is normally found in one of 6 places:
 
 1. __His office:__ Taking calls, having one-on-one meetings, researching, preparing lectures etc. He can also be found sleeping in a temporary cot.
 2. __Patrolling the lab:__ Although a nice boss in ways he tends to micromanage and change his mind often.
-3. __Teaching:__ He gives lectures and tutorials within the lecture tehatres and labs of the main hospital.
+3. __Teaching:__ He gives lectures and tutorials within the lecture theatres and labs of the main hospital.
 4. __Mingling:__ He will go to the hotel hosting the medical conference to mingle with other medical researchers.
 5. __Restaurants:__ He always eats at restaurants.
 6. __Spawning pen:__ He sometimes likes to find a newly spawned MUTANT HORSESHOE CRAB to torture alone.
@@ -178,9 +184,9 @@ The exposed pipe has been blocked.
 __Farrier__ is a [BROODING HORSESHOE CRAB MUTANT](/Gaia/CGC.qmd#brooding_horseshoe_crab_mutant).
 It has become intelligent and formed a hive mind with its children, aiming to find and rescue its brethren from the [CGC](/Gaia/CGC.qmd).
 It is staying within the Mangrove forest west of [Tung Chung](https://en.wikipedia.org/wiki/Tung_Chung) ([Hong Kong Wetland Park](https://en.wikipedia.org/wiki/Hong_Kong_Wetland_Park) as of 2006).
-It does not remember where it escaped from only that it smelt of human blood, the sick, and the dead.
+It does not remember where it escaped from, only that it smelt of human blood, the sick, and the dead.
 It sends out its daughters ([FEMALE HORSESHOE CRAB MUTANTS](/Gaia/CGC.qmd#female_horseshoe_crab_mutant)) to search.
-It produces an abundance of offspring with 4 [MALE HORSESHOE CRAB MUTANTS](/Gaia/CGC.qmd#female_horseshoe_crab_mutant) that were on the its back when it escaped the lab.
+It produces an abundance of offspring with 4 [MALE HORSESHOE CRAB MUTANTS](/Gaia/CGC.qmd#female_horseshoe_crab_mutant) that were on its back when it escaped the lab.
 
 The [Mangrove forests](https://en.wikipedia.org/wiki/Mangrove_forest) are wetlands in coastal intertidal zones.
 They are named for the [Mangroves](https://en.wikipedia.org/wiki/Mangrove) that inhabit them.
@@ -203,9 +209,9 @@ If, so and they successfully kill __Farrier__, he will reward the team with a ch
 ### Help Farrier
 
 The other method is to help __Farrier__, the [BROODING HORSESHOE CRAB MUTANT](/Gaia/CGC.qmd#brooding_horseshoe_crab_mutant).
-If the team encounter her she will telepathically communicate with them.
+If the team encounters her she will telepathically communicate with them.
 She will ask they help her free her kin from the CGC.
-If they do she will leave the island to go live within the oceans.
+If they do, she will leave the island to go live within the oceans.
 She will reward the team with a __blessed barnacle__.
 
 __Blessed barnacle:__ Once per mission attach the barnacle surface to a hard surface. 

@@ -112,12 +112,12 @@ editor:
 
 ### USA Navy
 
-- [CYBORG DOLPHIN](/History/USA_navy.qmd#cyborg_dolphin)
-- [HUMPBACK WHALE SUBMERSIBLE](/History/USA_navy.qmd#humpback_sub)
-- [HUMPBACK WHALE WEAPONS PLATFORM](/History/USA_navy.qmd#humpback_plat)
+- [CYBORG DOLPHIN](/History/USA_military.qmd#cyborg_dolphin)
+- [HUMPBACK WHALE SUBMERSIBLE](/History/USA_military.qmd#humpback_sub)
+- [HUMPBACK WHALE WEAPONS PLATFORM](/History/USA_military.qmd#humpback_plat)
 
 ## ERA
 
 ### ERA Navy
 
-- [CYBORG COLOSSAL SQUID](/History/ERA_navy.qmd#cyborg_colossal_squid)
+- [CYBORG COLOSSAL SQUID](/History/ERA_military.qmd#cyborg_colossal_squid)

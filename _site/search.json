@@ -343,11 +343,60 @@
     "text": "The British Isles, also known as the Biways, consists of England, Scotland, Ireland, Wales, Greenland, Iceland, and other smaller islands."
   },
   {
+    "objectID": "History/Biways.html#primary-deity",
+    "href": "History/Biways.html#primary-deity",
+    "title": "The Biways",
+    "section": "Primary deity",
+    "text": "Primary deity\nNone/agnostic"
+  },
+  {
+    "objectID": "History/Biways.html#positives",
+    "href": "History/Biways.html#positives",
+    "title": "The Biways",
+    "section": "Positives",
+    "text": "Positives\n\nRich: The Biways is the financial hub of the world. The pound is the most traded and trusted currency in the world.\nNuclear power: Greenland is used for nuclear power generation to sell to the world, especially the USA.\nResearch: Contains many universities with leading research."
+  },
+  {
+    "objectID": "History/Biways.html#negatives",
+    "href": "History/Biways.html#negatives",
+    "title": "The Biways",
+    "section": "Negatives",
+    "text": "Negatives\n\nCorrupt: It is a great place for off shore bank accounts and laundering money. It is a haven for fugitives of other countries. As long as the fugitive has capital. Many of the world’s elites and most dangerous live in the Biways, benefiting from interacting with each other.\nDangerous science: Iceland is where many dangerous scientific research is carried out is carried out by super scientists across the world.\nBrain drain: The Biways is very attractive to experts across the world. This unfortunately takes away specilaists from other countries that may need them more."
+  },
+  {
+    "objectID": "History/Biways_military.html",
+    "href": "History/Biways_military.html",
+    "title": "The Biways",
+    "section": "",
+    "text": "The biways keeps a large standing army, air-force, and naval force on Greenland."
+  },
+  {
     "objectID": "History/CAC.html",
     "href": "History/CAC.html",
     "title": "CAC",
     "section": "",
     "text": "Coalition of African Countries. All of Africa."
+  },
+  {
+    "objectID": "History/CAC.html#primary-deity",
+    "href": "History/CAC.html#primary-deity",
+    "title": "CAC",
+    "section": "Primary deity",
+    "text": "Primary deity\nThe primary deity of the CAC is Tartarus."
+  },
+  {
+    "objectID": "History/CAC.html#positives",
+    "href": "History/CAC.html#positives",
+    "title": "CAC",
+    "section": "Positives",
+    "text": "Positives\n\nCommunity: Life can be a struggle in the CAC, however this with the culture leads to strong bonds of communities.\nReformers: The power and its citizens believe in second chances. They abhor imprisonment and instead try to reform criminals.\nJustice: They will not stand for any form of oppression. They tolerate much except intolerance."
+  },
+  {
+    "objectID": "History/CAC.html#negatives",
+    "href": "History/CAC.html#negatives",
+    "title": "CAC",
+    "section": "Negatives",
+    "text": "Negatives\n\nHabitat destruction: The natural resources are heavily extracted in the continent.\nCapital punishment: The death sentence is commonly used for repeat offenders of severe crimes.\nExploited: As in history the land and people of the CAC are exploited by the other powers of the world."
   },
   {
     "objectID": "History/ERA.html",
@@ -357,16 +406,37 @@
     "text": "The European & Russian Alliance. Europe & Russia."
   },
   {
-    "objectID": "History/ERA_navy.html",
-    "href": "History/ERA_navy.html",
-    "title": "ERA navy",
-    "section": "",
-    "text": "The ERA navy."
+    "objectID": "History/ERA.html#primary-deity",
+    "href": "History/ERA.html#primary-deity",
+    "title": "ERA",
+    "section": "Primary deity",
+    "text": "Primary deity\nThe primary deity of the ERA is Proteus."
   },
   {
-    "objectID": "History/ERA_navy.html#cyborg_colossal_squid",
-    "href": "History/ERA_navy.html#cyborg_colossal_squid",
-    "title": "ERA navy",
+    "objectID": "History/ERA.html#positives",
+    "href": "History/ERA.html#positives",
+    "title": "ERA",
+    "section": "Positives",
+    "text": "Positives\n\nFree movement: Has a lingua franca (English). This allows lots of movement across countries therefore sharing skills and knowledge across the alliance.\nCoastal: Most of their major cities are on coasts allowing most of their war torn (WWII) inner lands to be claimed by nature. This benefit’s the physical and mental health of the citizens.\nWorld trade: They are the world’s port trade hub."
+  },
+  {
+    "objectID": "History/ERA.html#negatives",
+    "href": "History/ERA.html#negatives",
+    "title": "ERA",
+    "section": "Negatives",
+    "text": "Negatives\n\nImpressionable: They are easily swayed by the culture of other powers, primarily the USA. This means they place less value on their own cultures.\nLow hanging fruit pickers: They like easy fixes and jobs even if it ends up costing them more in the long run.\nScarred: Due to the damage of WWII the power is traumatised. They do not deal well with aggression and tend to allow others to get their way when threatened."
+  },
+  {
+    "objectID": "History/ERA_military.html",
+    "href": "History/ERA_military.html",
+    "title": "ERA military",
+    "section": "",
+    "text": "The ERA military."
+  },
+  {
+    "objectID": "History/ERA_military.html#cyborg_colossal_squid",
+    "href": "History/ERA_military.html#cyborg_colossal_squid",
+    "title": "ERA military",
     "section": "CYBORG COLOSSAL SQUID",
     "text": "CYBORG COLOSSAL SQUID\n(10 HP)\n\nTitanium coated beak (1D6+2 DAMAGE), target needs to be grappled by squid\nTentacles with steel tipped hooks (3, DAMAGE) successful attack grapples the target\nAluminium plating (1 ARMOR)\nInk cloud (accessory, 1 use)\nFront facing soccer ball eyes with in built headlights (photophores)\nRussian designed programming interface\n\nSIMPLE: Although large and powerful they have low intellect. Before they are deployed they must be given a 10 word directive that they will follow. No punctuation can be used and it must be a complete sentence that makes sense."
   },
@@ -378,6 +448,27 @@
     "text": "Oceania: Australia, New Zealand, Tasmania, and other small islands."
   },
   {
+    "objectID": "History/Oceania.html#primary-deity",
+    "href": "History/Oceania.html#primary-deity",
+    "title": "Oceania",
+    "section": "Primary deity",
+    "text": "Primary deity\nOceania cannot decide on a single deity and can be described as polytheist."
+  },
+  {
+    "objectID": "History/Oceania.html#positives",
+    "href": "History/Oceania.html#positives",
+    "title": "Oceania",
+    "section": "Positives",
+    "text": "Positives"
+  },
+  {
+    "objectID": "History/Oceania.html#negatives",
+    "href": "History/Oceania.html#negatives",
+    "title": "Oceania",
+    "section": "Negatives",
+    "text": "Negatives"
+  },
+  {
     "objectID": "History/SAE.html",
     "href": "History/SAE.html",
     "title": "SAE",
@@ -385,11 +476,39 @@
     "text": "The Supreme Asian Empire. All countries of the Asian continent except Russia with India & China co-leading uneasily."
   },
   {
-    "objectID": "History/SAE.html#sae-infantry",
-    "href": "History/SAE.html#sae-infantry",
+    "objectID": "History/SAE.html#primary-deity",
+    "href": "History/SAE.html#primary-deity",
     "title": "SAE",
+    "section": "Primary deity",
+    "text": "Primary deity\nThe primary deity of the SAE is Nyxmera."
+  },
+  {
+    "objectID": "History/SAE.html#positives",
+    "href": "History/SAE.html#positives",
+    "title": "SAE",
+    "section": "Positives",
+    "text": "Positives\n\nVariety: The different cultures across the empire are allowed to flourish.\nGrowth: The power is in a period of rapid growth. Many super and mega projects are under way in the empire.\nPopulation & food: They have the largest population in the world. Rather than being a weakness they are able to fully utilise economies of scale with a primarily vegetarian diet to have very good food security."
+  },
+  {
+    "objectID": "History/SAE.html#negatives",
+    "href": "History/SAE.html#negatives",
+    "title": "SAE",
+    "section": "Negatives",
+    "text": "Negatives\n\nDisputes: Many disagreements in the empire with China and India constantly arguing. This can lead to progress being impeded.\nTotalitarian: Law and order is heavily enforced.\nStatic: Many language with no lingua franca amongst the population. This causes little movement of people across countries."
+  },
+  {
+    "objectID": "History/SAE_military.html",
+    "href": "History/SAE_military.html",
+    "title": "SAE military",
+    "section": "",
+    "text": "Military troops from various countries are mixed together into groups and deployed all over the SAE. There are too many oral languages and no consensus was made for a lingua franca of the military. Instead all members of the military learn a specialised gesture based language based on hand and arm signals and a mixture of Asian sign languages. This allows one member of a team who understands the spoken language of the current officer in charge to distribute the commands on the field."
+  },
+  {
+    "objectID": "History/SAE_military.html#sae_infantry",
+    "href": "History/SAE_military.html#sae_infantry",
+    "title": "SAE military",
     "section": "SAE INFANTRY",
-    "text": "SAE INFANTRY\n(3 HP, 2D6 appear)"
+    "text": "SAE INFANTRY\n(3 HP, 2D6 appear)\n\nType 63 assault rifle (1D6+1 DAMAGE)\nPistol Auto 9mm 1A (1D6 DAMAGE)\nCombat knife (1D6 DAMAGE)\nBulletproof vest (1 ARMOR)\n1 Smoke grenade (1 use)\nMixture of Asian ethnicities\n\nNUMEROUS: Although the SAE does not have the newest military tech they make up for it with sheer numbers of infantry. They are eerily silent, primarily communicating in the SAE military sign language. Due to this SAE INFANTRY are great at stealth and it is difficult to catch them unaware."
   },
   {
     "objectID": "History/The_moon.html",
@@ -420,32 +539,53 @@
     "text": "The United States of America. The number one power consisting of all the Americas."
   },
   {
-    "objectID": "History/USA_navy.html",
-    "href": "History/USA_navy.html",
-    "title": "USA Navy",
+    "objectID": "History/USA.html#primary-deity",
+    "href": "History/USA.html#primary-deity",
+    "title": "USA",
+    "section": "Primary deity",
+    "text": "Primary deity\nThe primary deity of the USA is Gaia."
+  },
+  {
+    "objectID": "History/USA.html#positives",
+    "href": "History/USA.html#positives",
+    "title": "USA",
+    "section": "Positives",
+    "text": "Positives\n\nPowerful: It is the most powerful and advanced power in the world. This leads to a comfortable way of life for many citizens.\nEducation: Top notch education leads to an intelligent population. All citizens learn English, Spanish and French from a young age.\nUnited: The power is united in their ideals and are able to accomplish what they want with minimal issues."
+  },
+  {
+    "objectID": "History/USA.html#negatives",
+    "href": "History/USA.html#negatives",
+    "title": "USA",
+    "section": "Negatives",
+    "text": "Negatives\n\nSuperiority complex: The USA and its citizens are confident of their superiority. They look down on other powers and cultures.\nGroup mind: All citizens are taught in the same way and watch the same media. They are as close to a hive mind without being connected to each other. This has lead to poor creativity and no devil’s advocates.\nHyper capitalist: Believe that citizens are for the benefit of the economy."
+  },
+  {
+    "objectID": "History/USA_military.html",
+    "href": "History/USA_military.html",
+    "title": "USA military",
     "section": "",
-    "text": "The USA Navy."
+    "text": "(4 HP)\n\nSpear mouth guard (1D6 DAMAGE)\nLaser (1D6+1 DAMAGE) works in air and water\nCyborg armor (1 ARMOR)\nRetractile quad legs, sharp pointed ends for safe ice travel vertically & horizontally\nSaddle for 1 passenger\nTranslator & comms module (TCM)\nEcholocation\n\nSOCIAL: CYBORG DOLPHINS are prized due to their communication skills. Humans can orally speak with them if they connect to their TCM. However, Dolphins can only use and understand single syllable words. They will listen to their rider if they are respected and treated well.\n\n\n\n(20 HP)\n\n4 torpedoes (1D6+2 DAMAGE)\nSparse titanium plates (1 ARMOR)\nControl dock mounted in front of blow hole, connected to brain of whale. Human captain controls it like a vehicle (2HP, 4 ARMOR)\nLarge hump crate on back\nDeployable millipede like legs to get onto ground\n\nAMPHIBIOUS: The true purpose of the submersible is to emerge from the waters and become a ground borne weapons platform. Once out of the water and with some time it deploys its gear from it hump crate. It retains its HP but become a HUMPBACK WHALE WEAPONS PLATFORM.\n\n\n\n(20 HP)\n\nForward mounted cannons controlled by pilot (3D6+3 DAMAGE, ANTI-MATERIAL, 2 uses)\nFully deployed titanium plating (3 ARMOR), supports whale’s weight\nControl dock mounted in front of blow hole, connected to brain of whale. Human captain controls it like a vehicle (2HP, 4 ARMOR)\nDeck on back with 1 ARMOR walls\nMetal ladders on both sides towards the tail\nOne Left and one right side mounted Ball turret (6HP, 2 ARMOR) each with 2 M2 Browing heavy machine guns XM214 Microgun (1D6+2 DAMAGE), need to be manned\n\nPAKICETUS: Whales are back on land and they are packing. These armoured cetaceans get troops where they need to be by carving a path of destruction.\nANTI-MATERIEL weapon tag: Deals double DAMAGE to vehicles and structures; cumbersome to carry around. (F:UE)"
   },
   {
-    "objectID": "History/USA_navy.html#cyborg_dolphin",
-    "href": "History/USA_navy.html#cyborg_dolphin",
-    "title": "USA Navy",
-    "section": "CYBORG DOLPHIN",
-    "text": "CYBORG DOLPHIN\n(4 HP)\n\nSpear mouth guard (1D6 DAMAGE)\nLaser (1D6+1 DAMAGE) works in air and water\nCyborg armor (1 ARMOR)\nRetractile quad legs, sharp pointed ends for safe ice travel vertically & horizontally\nSaddle for 1 passenger\nTranslator & comms module (TCM)\nEcholocation\n\nSOCIAL: CYBORG DOLPHINS are prized due to their communication skills. Humans can orally speak with them if they connect to their TCM. However, Dolphins can only use and understand single syllable words. They will listen to their rider if they are respected and treated well."
+    "objectID": "History/USA_military.html#cyborg_dolphin",
+    "href": "History/USA_military.html#cyborg_dolphin",
+    "title": "USA military",
+    "section": "",
+    "text": "(4 HP)\n\nSpear mouth guard (1D6 DAMAGE)\nLaser (1D6+1 DAMAGE) works in air and water\nCyborg armor (1 ARMOR)\nRetractile quad legs, sharp pointed ends for safe ice travel vertically & horizontally\nSaddle for 1 passenger\nTranslator & comms module (TCM)\nEcholocation\n\nSOCIAL: CYBORG DOLPHINS are prized due to their communication skills. Humans can orally speak with them if they connect to their TCM. However, Dolphins can only use and understand single syllable words. They will listen to their rider if they are respected and treated well."
   },
   {
-    "objectID": "History/USA_navy.html#humpback_sub",
-    "href": "History/USA_navy.html#humpback_sub",
-    "title": "USA Navy",
-    "section": "HUMPBACK WHALE SUBMERSIBLE",
-    "text": "HUMPBACK WHALE SUBMERSIBLE\n(20 HP)\n\n4 torpedoes (1D6+2 DAMAGE)\nSparse titanium plates (1 ARMOR)\nControl dock mounted in front of blow hole, connected to brain of whale. Human captain controls it like a vehicle (2HP, 4 ARMOR)\nLarge hump crate on back\nDeployable millipede like legs to get onto ground\n\nAMPHIBIOUS: The true purpose of the submersible is to emerge from the waters and become a ground borne weapons platform. Once out of the water and with some time it deploys its gear from it hump crate. It retains its HP but become a HUMPBACK WHALE WEAPONS PLATFORM."
+    "objectID": "History/USA_military.html#humpback_sub",
+    "href": "History/USA_military.html#humpback_sub",
+    "title": "USA military",
+    "section": "",
+    "text": "(20 HP)\n\n4 torpedoes (1D6+2 DAMAGE)\nSparse titanium plates (1 ARMOR)\nControl dock mounted in front of blow hole, connected to brain of whale. Human captain controls it like a vehicle (2HP, 4 ARMOR)\nLarge hump crate on back\nDeployable millipede like legs to get onto ground\n\nAMPHIBIOUS: The true purpose of the submersible is to emerge from the waters and become a ground borne weapons platform. Once out of the water and with some time it deploys its gear from it hump crate. It retains its HP but become a HUMPBACK WHALE WEAPONS PLATFORM."
   },
   {
-    "objectID": "History/USA_navy.html#humpback_plat",
-    "href": "History/USA_navy.html#humpback_plat",
-    "title": "USA Navy",
-    "section": "HUMPBACK WHALE WEAPONS PLATFORM",
-    "text": "HUMPBACK WHALE WEAPONS PLATFORM\n(20 HP)\n\nForward mounted cannons controlled by pilot (3D6+3 DAMAGE, ANTI-MATERIAL, 2 uses)\nFully deployed titanium plating (3 ARMOR), supports whale’s weight\nControl dock mounted in front of blow hole, connected to brain of whale. Human captain controls it like a vehicle (2HP, 4 ARMOR)\nDeck on back with 1 ARMOR walls\nMetal ladders on both sides towards the tail\nOne Left and one right side mounted Ball turret (6HP, 2 ARMOR) each with 2 M2 Browing heavy machine guns XM214 Microgun (1D6+2 DAMAGE), need to be manned\n\nPAKICETUS: Whales are back on land and they are packing. These armoured cetaceans get troops where they need to be by carving a path of destruction.\nANTI-MATERIEL weapon tag: Deals double DAMAGE to vehicles and structures; cumbersome to carry around. (F:UE)"
+    "objectID": "History/USA_military.html#humpback_plat",
+    "href": "History/USA_military.html#humpback_plat",
+    "title": "USA military",
+    "section": "",
+    "text": "(20 HP)\n\nForward mounted cannons controlled by pilot (3D6+3 DAMAGE, ANTI-MATERIAL, 2 uses)\nFully deployed titanium plating (3 ARMOR), supports whale’s weight\nControl dock mounted in front of blow hole, connected to brain of whale. Human captain controls it like a vehicle (2HP, 4 ARMOR)\nDeck on back with 1 ARMOR walls\nMetal ladders on both sides towards the tail\nOne Left and one right side mounted Ball turret (6HP, 2 ARMOR) each with 2 M2 Browing heavy machine guns XM214 Microgun (1D6+2 DAMAGE), need to be manned\n\nPAKICETUS: Whales are back on land and they are packing. These armoured cetaceans get troops where they need to be by carving a path of destruction.\nANTI-MATERIEL weapon tag: Deals double DAMAGE to vehicles and structures; cumbersome to carry around. (F:UE)"
   },
   {
     "objectID": "history.html",
@@ -781,42 +921,42 @@
     "href": "Missions/M-HARM.html#what-is-going-on",
     "title": "HARM: Horseshoe crabs Attack Ranga’s Methods",
     "section": "What is going on?",
-    "text": "What is going on?\nRangi Doshi (CGC SCIENTIST) and his team of CGC SCIENTISTS have created the HORSESHOE CRAB MUTANTS. One of the breeding FEMALE HORSESHOE CRAB MUTANTS was blessed by all four of the Primeval deities, it then escaped the facility via the sewers. It became a BROODING HORSESHOE CRAB MUTANT, producing many HORSESHOE CRAB MUTANTS. It named itself Farrier and it’s brood scour the city, looking to rescue their kin."
+    "text": "What is going on?\nRangi Doshi (CGC SCIENTIST) and his team of CGC SCIENTISTS have created the HORSESHOE CRAB MUTANTS. One of the breeding FEMALE HORSESHOE CRAB MUTANTS was blessed by all four of the Primeval deities, it then escaped the facility via the sewers. It became a BROODING HORSESHOE CRAB MUTANT, producing many HORSESHOE CRAB MUTANTS. It named itself Farrier and its brood scour the city, looking to rescue their kin."
   },
   {
     "objectID": "Missions/M-HARM.html#quarantine-and-martial-law",
     "href": "Missions/M-HARM.html#quarantine-and-martial-law",
     "title": "HARM: Horseshoe crabs Attack Ranga’s Methods",
     "section": "Quarantine and martial law",
-    "text": "Quarantine and martial law\nLantau Island and Chek Lap Kok are being quarantined from the rest of Hong Kong with martial law in place. The military on the island only consists of SAE INFANTRY with Beijing BJ212s (Light util. vehicle, 12HP, 1 ARMOR). The military have rounded up all citizens to Tung Chung, a fishing village turned town due to the new labour force for airport construction. None of the citizens are allowed to leave the town.\nThe team has special dispensation to take care of the menace but the military and others will not look kindly if they are caught snooping in the affairs of government of other companies. Pumice construction will provide them with a translator who knows the main language of the team and Cantonese (the main language of Hong Kong), the translator will not leave Tung Chung."
+    "text": "Quarantine and martial law\nLantau Island and Chek Lap Kok are being quarantined from the rest of Hong Kong with martial law in place. The military on the island only consists of SAE INFANTRY with Beijing BJ212s (Light util. vehicle, 12HP, 1 ARMOR). The military have rounded up all citizens to Tung Chung, a fishing village turned town due to the new labour force for airport construction. None of the citizens are allowed to leave the town.\nThe team has special dispensation to take care of the menace but the military and others will not look kindly if they are caught snooping in the affairs of government or other companies. Pumice construction will provide them with a translator who knows the main language of the team and Cantonese (the main language of Hong Kong), the translator will not leave Tung Chung."
   },
   {
     "objectID": "Missions/M-HARM.html#clues",
     "href": "Missions/M-HARM.html#clues",
     "title": "HARM: Horseshoe crabs Attack Ranga’s Methods",
     "section": "Clues",
-    "text": "Clues\nThere are various clues that can help the team figure out what is going on. Please include your own if you would like.\n\nSightings & attacks\nThe FEMALE HORSESHOE CRAB MUTANTS are sighted in many areas but there is a noticeably higher amount near hospitals and graveyards. They have also been sighted stalking the sick and elderly.\nSurprisingly they are not that violent, seemingly only attacking when provoked. However, there are some humans they have attacked without provocation. If they team look up the victim’s health records they will see that most were diagnosed with gout. This is because Farrier has been tortured by Dr. Ranga Doshi in the past and she remembers the smell of gout on him.\n\n\nFood poisoning\nA local restaurant, famous for only serving shellfish based meals is being closed down by the police as patrons have died of food poisoning. Some victims who were admitted to Yan Oi Tong (The University Of Hong Kong Chinese Medicine Centre For Training And Research) are being successfully treated. Those who went to North Lantau Hospital or Tung Chung Health Centre did not survive.\nIf they confront the owner or get information from the police they will find out the owner has been serving the HORSESHOE CRAB MUTANT meat. Their usual supply of canned horseshoe meat currently has a shortage. Unknown to them their supply was from the CGC who’s prized spawner (Farrier) escaped.\nIf the team successfully investigate at Yan Oi Tong they will find out the patients were treated for pufferfish poisoning (tetrodotoxin). One of the CGC scientists gave this advice to one of the doctors.\n\n\nMedical conference\nA medical conference was in force at one of Tung Chung’s hotels. Many medical researchers and doctors are now stuck during the quarantine. This keeps the nicest hotel out of the hands on evacuees and the military which they are more than happy to grumble about.\nThe large conference room has been changed into a disaster relief zone with many makeshift beds. The occupants are using the leftover posters as extra blankets. One poster is about Horseshoe crabs and how their blood is harvested to create compounds to help test vaccines. It was being presented by a PhD student of Dr. Ranga Roshi, based at Yan Oi Tong (The University Of Hong Kong Chinese Medicine Centre For Training And Research).\n\n\nEnvironmental scientists\nEnvironmental scientists are trying to map out the diversity of the island. They have been keeping track of the HORSESHOE CRAB MUTANTS movements. The player’s team may find them following the mutants around the Tung Chung and even outside of it, sneaking through a construction zone at the edge of the town.\nThe scientists have deduced they are some sort of hybrid between Atlantic horseshoe crabsand Mangrove horseshoe crabs. They have also deduced that the mutants are coming from the Mangrove forest west of Tung Chung. This is where Farrier is located.\n\n\nClogged sewers\nThere are issues with the sewers being clogged. This is due to the roe of the BROODING HORSESHOE CRAB MUTANT accumulating in the sewers. This is also where the FEMALE HORSESHOE CRAB MUTANTS hatch and emerge from."
+    "text": "Clues\nThere are various clues that can help the team figure out what is going on. Please include your own if you would like.\n\nSightings & attacks\nThe FEMALE HORSESHOE CRAB MUTANTS are sighted in many areas but there is a noticeably higher amount near hospitals and graveyards. They have also been sighted, stalking the sick and elderly.\nSurprisingly they are not that violent, seemingly only attacking when provoked. However, there are some humans they have attacked without provocation. If the team looks up the victim’s health records they will see that most were diagnosed with gout. This is because Farrier has been tortured by Dr. Ranga Doshi in the past and she remembers the smell of gout on him.\n\n\nFood poisoning\nA local restaurant, famous for only serving shellfish based meals is being closed down by the police as patrons have died of food poisoning. Some victims who were admitted to Yan Oi Tong (The University Of Hong Kong Chinese Medicine Centre For Training And Research) are being successfully treated. Those who went to North Lantau Hospital or Tung Chung Health Centre did not survive.\nIf they confront the owner or get information from the police they will find out the owner has been serving the HORSESHOE CRAB MUTANT meat. Their usual supply of canned horseshoe meat currently has a shortage. Unknown to them their supply was from the CGC who’s prized spawner (Farrier) escaped.\nIf the team successfully investigates at Yan Oi Tong they will find out the patients were treated for pufferfish poisoning (tetrodotoxin). One of the CGC scientists gave this advice to one of the doctors.\n\n\nMedical conference\nA medical conference was in force at one of Tung Chung’s hotels. Many medical researchers and doctors are now stuck during the quarantine. This keeps the nicest hotel out of the hands on evacuees and the military which they are more than happy to grumble about.\nThe large conference room has been changed into a disaster relief zone with many makeshift beds. The occupants are using the leftover posters as extra blankets. One poster is about Horseshoe crabs and how their blood is harvested to create compounds to help test vaccines. It was being presented by a PhD student of Dr. Ranga Roshi, based at Yan Oi Tong (The University Of Hong Kong Chinese Medicine Centre For Training And Research).\n\n\nEnvironmental scientists\nEnvironmental scientists are trying to map out the diversity of the island. They have been keeping track of the HORSESHOE CRAB MUTANTS movements. The player’s team may find them following the mutants around the Tung Chung and even outside of it, sneaking through a construction zone at the edge of the town.\nThe scientists have deduced they are some sort of hybrid between Atlantic horseshoe crabs and Mangrove horseshoe crabs. They have also deduced that the mutants are coming from the Mangrove forest west of Tung Chung. This is where Farrier is located.\n\n\nClogged sewers\nThere are issues with the sewers being clogged. This is due to the roe of the BROODING HORSESHOE CRAB MUTANT accumulating in the sewers. This is also where the FEMALE HORSESHOE CRAB MUTANTS hatch and emerge from."
   },
   {
     "objectID": "Missions/M-HARM.html#ranga_n_cgc",
     "href": "Missions/M-HARM.html#ranga_n_cgc",
     "title": "HARM: Horseshoe crabs Attack Ranga’s Methods",
     "section": "Ranga and the CGC",
-    "text": "Ranga and the CGC\nDr. Ranga Doshi (CGC SCIENTIST) and his team works for the CGC. They are responsible for the creation of the HORSEHOE CRAB MUTANTS. The CGC are powerful and the Hong Kong military and police will not take kindly to the team openly investigating them.\nDr. Doshi’s team carries out research in a hidden and secure floor below the basement of the Yan Oi Tong (The University Of Hong Kong Chinese Medicine Centre For Training And Research). Although they can speak Cantonese, they are so secretive they communicate and write in Hindi within the lab. The CGC specifically sent a hindi team to Hong Kong for this reason.\n\nDr. Ranga Doshi\nDr. Ranga Doshi is a well respected scientist of the CGC. He is a tired man with a limp due to his gout. He takes great care of his team and is a very likeable man. However, he hates animals and enjoys inflicting pain on them. He is smart and hides his zoosadism, except when it comes to arthropods. He loves eating animals, especially shellfish. The only non meat food he eats are carb-based foods such as rice and bread to eat along with meat.\nHe is normally found in one of 6 places:\n\nHis office: Taking calls, having one-on-one meetings, researching, preparing lectures etc. He can also be found sleeping in a temporary cot.\nPatrolling the lab: Although a nice boss in ways he tends to micromanage and change his mind often.\nTeaching: He gives lectures and tutorials within the lecture tehatres and labs of the main hospital.\nMingling: He will go to the hotel hosting the medical conference to mingle with other medical researchers.\nRestaurants: He always eats at restaurants.\nSpawning pen: He sometimes likes to find a newly spawned MUTANT HORSESHOE CRAB to torture alone.\n\nOutside of his research lab he is always escorted by two CGC SECURITY members.\n\n\nCGC staff\nDr. Doshi’s team consists of 2 types of staff:\n\nCGC SCIENTISTS: Members of his research team.\nCGC SECURITY: Security to keep people out and the specimens in the lab.\n\nThe team can be found in the main hospital from time to time. The scientists help tutor students. All the staff take their breaks in the canteen and recreational rooms of the main hospital. Currently some are sleeping in the main hospital due to the quarantine and martial law.\n\n\nResearch\nThe team carries out research and experiments on:\n\nAtlantic horseshoe crabs: collected for blood harvesting.\n\nThe blood contains amebocytes which are used to create LALs, used to test vaccines.\n\nMangrove horseshoe crabs: contain tetrodotoxin.\n\nLethal neurotoxin, the same that makes pufferfish, and blue-ringed octopuses so deadly.\nIf used correctly it can also be used as a treatment of cancer-associated pain.\nMay also be able to be used as a recreational drug, as seen by dolphins who get high on it via pufferfish.\n\n\nThe team genetically engineered the HORSESHOE CRAB MUTANTS. They have carried this out to get a variety of uses from them.\n\nFEMALE HORSESHOE CRAB MUTANTS\n\nBlood harvested for LALs\nRoe is sold as food\nSome used to spawn more HORSESHOE CRAB MUTANTS\nOnce no longer of use they are killed and their tetrodotoxin is harvested\n\nMALE HORSESHOE CRAB MUTANTS\n\nFertilisers\nSold as meat as they do not contain tetrodotoxin\n\n\nThe team have also created a toxin that only kills the HORSESHOE CRAB MUTANTS. Dr. Doshi initially does not want to use it as it will taint the island’s water supply and most likely make its way into their research lab, killing their specimens.\n\n\nResearch floor\nThe CGC research floor is a large hallway branching off like a trident from the elevator. All rooms have large windows that allow a generous view into and from the hallway.\nThe CGC SCIENTISTS primarily work in the:\n\nResearch rooms: Tables with computers and notes along with a library of medical & zoology textbooks.\nDissection lab: Room to study the anatomy of Horseshoe crabs and the mutants.\nTetrodotoxin extraction: The scientists carry out tetrodotoxin extraction as it is too technical for the security staff.\n\nThe CGC SECURITY patrol the halls and work within the following rooms:\n\nSpawning pen: Contains 6 dedicated cages for FEMALE HORSESHOE CRAB MUTANTS to produce new spawn. One cage has been ripped apart from the inside.\nHarvesting room: Along the walls are tied up FEMALE HORSESHOE CRAB MUTANTS. Tubes are collecting their dark blue blood.\nRoe prep: Roe are passed through a fine-mesh screen, salted and packed into metal tins, ready for sale.\nMeat prep: Males are cleaned and cut. The meat is then shredded, refrigerated, and sent to a canning company.\n\nThere are no recreational rooms, staff having to use other floors for this. There are 2 toilets but one is out of service as it was ripped off the floor when the BROODING HORSESHOE CRAB MUTANT escaped. The exposed pipe has been blocked."
+    "text": "Ranga and the CGC\nDr. Ranga Doshi (CGC SCIENTIST) and his team works for the CGC. They are responsible for the creation of the HORSESHOE CRAB MUTANTS. The CGC are powerful and the Hong Kong military and police will not take kindly to the team openly investigating them.\nDr. Doshi’s team carries out research in a hidden and secure floor below the basement of the Yan Oi Tong (The University Of Hong Kong Chinese Medicine Centre For Training And Research). Although they can speak Cantonese, they are so secretive they communicate and write in Hindi within the lab. The CGC specifically sent a Hindi team to Hong Kong for this reason.\n\n\nYan Oi Tong (The University Of Hong Kong Chinese Medicine Centre For Training And Research)\n\n\nDr. Ranga Doshi\nDr. Ranga Doshi is a well respected scientist of the CGC. He is a tired man with a limp due to his gout. He takes great care of his team and is a very likable man. However, he hates animals and enjoys inflicting pain on them. He is smart and hides his zoosadism, except when it comes to arthropods. He loves eating animals, especially shellfish. The only non meat food he eats are carb-based foods such as rice and bread to eat along with meat.\nHe is normally found in one of 6 places:\n\nHis office: Taking calls, having one-on-one meetings, researching, preparing lectures etc. He can also be found sleeping in a temporary cot.\nPatrolling the lab: Although a nice boss in ways he tends to micromanage and change his mind often.\nTeaching: He gives lectures and tutorials within the lecture theatres and labs of the main hospital.\nMingling: He will go to the hotel hosting the medical conference to mingle with other medical researchers.\nRestaurants: He always eats at restaurants.\nSpawning pen: He sometimes likes to find a newly spawned MUTANT HORSESHOE CRAB to torture alone.\n\nOutside of his research lab he is always escorted by two CGC SECURITY members.\n\n\nCGC staff\nDr. Doshi’s team consists of 2 types of staff:\n\nCGC SCIENTISTS: Members of his research team.\nCGC SECURITY: Security to keep people out and the specimens in the lab.\n\nThe team can be found in the main hospital from time to time. The scientists help tutor students. All the staff take their breaks in the canteen and recreational rooms of the main hospital. Currently some are sleeping in the main hospital due to the quarantine and martial law.\n\n\nResearch\nThe team carries out research and experiments on:\n\nAtlantic horseshoe crabs: collected for blood harvesting.\n\nThe blood contains amebocytes which are used to create LALs, used to test vaccines.\n\nMangrove horseshoe crabs: contain tetrodotoxin.\n\nLethal neurotoxin, the same that makes pufferfish, and blue-ringed octopuses so deadly.\nIf used correctly it can also be used as a treatment of cancer-associated pain.\nMay also be able to be used as a recreational drug, as seen by dolphins who get high on it via pufferfish.\n\n\nThe team genetically engineered the HORSESHOE CRAB MUTANTS. They have carried this out to get a variety of uses from them.\n\nFEMALE HORSESHOE CRAB MUTANTS\n\nBlood harvested for LALs\nRoe is sold as food\nSome used to spawn more HORSESHOE CRAB MUTANTS\nOnce no longer of use they are killed and their tetrodotoxin is harvested\n\nMALE HORSESHOE CRAB MUTANTS\n\nFertilisers\nSold as meat as they do not contain tetrodotoxin\n\n\nThe team have also created a toxin that only kills the HORSESHOE CRAB MUTANTS. Dr. Doshi initially does not want to use it as it will taint the island’s water supply and most likely make its way into their research lab, killing their specimens.\n\n\nResearch floor\nThe CGC research floor is a large hallway branching off like a trident from the elevator. All rooms have large windows that allow a generous view into and from the hallway.\nThe CGC SCIENTISTS primarily work in the:\n\nResearch rooms: Tables with computers and notes along with a library of medical & zoology textbooks.\nDissection lab: Room to study the anatomy of Horseshoe crabs and the mutants.\nTetrodotoxin extraction: The scientists carry out tetrodotoxin extraction as it is too technical for the security staff.\n\nThe CGC SECURITY patrol the halls and work within the following rooms:\n\nSpawning pen: Contains 6 dedicated cages for FEMALE HORSESHOE CRAB MUTANTS to produce new spawn. One cage has been ripped apart from the inside.\nHarvesting room: Along the walls are tied up FEMALE HORSESHOE CRAB MUTANTS. Tubes are collecting their dark blue blood.\nRoe prep: Roe are passed through a fine-mesh screen, salted and packed into metal tins, ready for sale.\nMeat prep: Males are cleaned and cut. The meat is then shredded, refrigerated, and sent to a canning company.\n\nThere are no recreational rooms, staff having to use other floors for this. There are 2 toilets but one is out of service as it was ripped off the floor when the BROODING HORSESHOE CRAB MUTANT escaped. The exposed pipe has been blocked."
   },
   {
     "objectID": "Missions/M-HARM.html#farrier",
     "href": "Missions/M-HARM.html#farrier",
     "title": "HARM: Horseshoe crabs Attack Ranga’s Methods",
     "section": "Farrier",
-    "text": "Farrier\nFarrier is a BROODING HORSESHOE CRAB MUTANT. It has become intelligent and formed a hive mind with its children, aiming to find and rescue its brethren from the CGC. It is staying within the Mangrove forest west of Tung Chung (Hong Kong Wetland Park as of 2006). It does not remember where it escaped from only that it smelt of human blood, the sick, and the dead. It sends out its daughters (FEMALE HORSESHOE CRAB MUTANTS) to search. It produces an abundance of offspring with 4 MALE HORSESHOE CRAB MUTANTS that were on the its back when it escaped the lab.\nThe Mangrove forests are wetlands in coastal intertidal zones. They are named for the Mangroves that inhabit them. They are incredibly wet making travel by car or foot very difficult. If the team wants to explore the Mangrove forest they will most likely need a boat. They could fly by helicopter but will find it difficult to find Farrier’s nest due to the Mangrove canopy."
+    "text": "Farrier\nFarrier is a BROODING HORSESHOE CRAB MUTANT. It has become intelligent and formed a hive mind with its children, aiming to find and rescue its brethren from the CGC. It is staying within the Mangrove forest west of Tung Chung (Hong Kong Wetland Park as of 2006). It does not remember where it escaped from, only that it smelt of human blood, the sick, and the dead. It sends out its daughters (FEMALE HORSESHOE CRAB MUTANTS) to search. It produces an abundance of offspring with 4 MALE HORSESHOE CRAB MUTANTS that were on its back when it escaped the lab.\nThe Mangrove forests are wetlands in coastal intertidal zones. They are named for the Mangroves that inhabit them. They are incredibly wet making travel by car or foot very difficult. If the team wants to explore the Mangrove forest they will most likely need a boat. They could fly by helicopter but will find it difficult to find Farrier’s nest due to the Mangrove canopy."
   },
   {
     "objectID": "Missions/M-HARM.html#resolution",
     "href": "Missions/M-HARM.html#resolution",
     "title": "HARM: Horseshoe crabs Attack Ranga’s Methods",
     "section": "Resolution",
-    "text": "Resolution\nAlthough the team could resolve this in many ways there are 2 main methods.\n\nKill Farrier\nThe most obvious method is to kill Farrier, the BROODING HORSESHOE CRAB MUTANT. If she is killed the hivemind will break and cannot be reformed. This will cause all the remaining HORSESHOE CRAB MUTANTS to become unintelligent and unorganised creatures that can be easily dealt with by the Hong Kong military. With this option the team may be able to talk with Dr. Doshi to gain his help in their plan. If, so and they successfully kill Farrier, he will reward the team with a choice of either a CGC body serum or a CGC mind serum\n\n\nHelp Farrier\nThe other method is to help Farrier, the BROODING HORSESHOE CRAB MUTANT. If the team encounter her she will telepathically communicate with them. She will ask they help her free her kin from the CGC. If they do she will leave the island to go live within the oceans. She will reward the team with a blessed barnacle.\nBlessed barnacle: Once per mission attach the barnacle surface to a hard surface. This causes many tennis ball sized barnacles to cover the surface. This may strengthen the surface and make it more climbable.\n\n\nMission completion\nAs long as they rid the islands of the MUTANT HORSESHOE CRAB infestation the team’s employer (Pumice construction) will be happy. They will reward the team with:\nType 79 submachine gun (1D6+1 DAMAGE, LIGHT)\nLIGHT weapon tag: Weighs almost nothing. Grants +1 on REFLEXIVE rolls that involve this weapon. (F:UE)"
+    "text": "Resolution\nAlthough the team could resolve this in many ways there are 2 main methods.\n\nKill Farrier\nThe most obvious method is to kill Farrier, the BROODING HORSESHOE CRAB MUTANT. If she is killed the hivemind will break and cannot be reformed. This will cause all the remaining HORSESHOE CRAB MUTANTS to become unintelligent and unorganised creatures that can be easily dealt with by the Hong Kong military. With this option the team may be able to talk with Dr. Doshi to gain his help in their plan. If, so and they successfully kill Farrier, he will reward the team with a choice of either a CGC body serum or a CGC mind serum\n\n\nHelp Farrier\nThe other method is to help Farrier, the BROODING HORSESHOE CRAB MUTANT. If the team encounters her she will telepathically communicate with them. She will ask they help her free her kin from the CGC. If they do, she will leave the island to go live within the oceans. She will reward the team with a blessed barnacle.\nBlessed barnacle: Once per mission attach the barnacle surface to a hard surface. This causes many tennis ball sized barnacles to cover the surface. This may strengthen the surface and make it more climbable.\n\n\nMission completion\nAs long as they rid the islands of the MUTANT HORSESHOE CRAB infestation the team’s employer (Pumice construction) will be happy. They will reward the team with:\nType 79 submachine gun (1D6+1 DAMAGE, LIGHT)\nLIGHT weapon tag: Weighs almost nothing. Grants +1 on REFLEXIVE rolls that involve this weapon. (F:UE)"
   },
   {
     "objectID": "Missions/M-PLAY.html",
@@ -1545,166 +1685,5 @@
     "title": "Tartarus",
     "section": "Sub Factions",
     "text": "Sub Factions\nThere are many sub factions of Dotters. The following pages are brief descriptions of various sub factions with stat blocks for different non player characters.\n\nDotters of Tartarus: Typical Dotters of Tartarus.\nDOT raiders: Groups who live in the DOT and need to raid the surface for food and supplies.\nKraken: A large company with an almost world wide monopoly on mining and energy.\nTaloes: Animated beings made from the will and bounties of Taratrus."
-  },
-  {
-    "objectID": "History/SAE.html#primary-deity",
-    "href": "History/SAE.html#primary-deity",
-    "title": "SAE",
-    "section": "Primary deity",
-    "text": "Primary deity\nThe primary deity of the SAE is Nyxmera."
-  },
-  {
-    "objectID": "History/SAE.html#positives",
-    "href": "History/SAE.html#positives",
-    "title": "SAE",
-    "section": "Positives",
-    "text": "Positives\n\nVariety: The different cultures across the empire are allowed to flourish.\nGrowth: The power is in a period of rapid growth. Many super and mega projects are under way in the empire.\nPopulation & food: They have the largest population in the world. Rather than being a weakness they are able to fully utilise economies of scale with a primarily vegetarian diet to have very good food security."
-  },
-  {
-    "objectID": "History/SAE.html#negatives",
-    "href": "History/SAE.html#negatives",
-    "title": "SAE",
-    "section": "Negatives",
-    "text": "Negatives\n\nDisputes: Many disagreements in the empire with China and India constantly arguing. This can lead to progress being impeded.\nTotalitarian: Law and order is heavily enforced.\nStatic: Many language with no lingua franca amongst the population. This causes little movement of people across countries."
-  },
-  {
-    "objectID": "History/USA.html#primary-deity",
-    "href": "History/USA.html#primary-deity",
-    "title": "USA",
-    "section": "Primary deity",
-    "text": "Primary deity\nThe primary deity of the SAE is Gaia."
-  },
-  {
-    "objectID": "History/USA.html#positives",
-    "href": "History/USA.html#positives",
-    "title": "USA",
-    "section": "Positives",
-    "text": "Positives\n\nPowerful: It is the most powerful and advanced power in the world. This leads to a comfortable way of life for many citizens.\nEducation: Top notch education leads to an intelligent population. All citizens learn English, Spanish and French from a young age.\nUnited: The power is united in their ideals and are able to accomplish what they want with minimal issues."
-  },
-  {
-    "objectID": "History/USA.html#negatives",
-    "href": "History/USA.html#negatives",
-    "title": "USA",
-    "section": "Negatives",
-    "text": "Negatives\n\nSuperiority complex: The USA and its citizens are confident of their superiority. They look down on other powers and cultures.\nGroup mind: All citizens are taught in the same way and watch the same media. They are as close to a hive mind without being connected to each other. This has lead to poor creativity and no devil’s advocates.\nHyper capitalist: Believe that citizens are for the benefit of the economy."
-  },
-  {
-    "objectID": "History/ERA_military.html",
-    "href": "History/ERA_military.html",
-    "title": "ERA military",
-    "section": "",
-    "text": "The ERA military."
-  },
-  {
-    "objectID": "History/ERA_military.html#cyborg_colossal_squid",
-    "href": "History/ERA_military.html#cyborg_colossal_squid",
-    "title": "ERA military",
-    "section": "CYBORG COLOSSAL SQUID",
-    "text": "CYBORG COLOSSAL SQUID\n(10 HP)\n\nTitanium coated beak (1D6+2 DAMAGE), target needs to be grappled by squid\nTentacles with steel tipped hooks (3, DAMAGE) successful attack grapples the target\nAluminium plating (1 ARMOR)\nInk cloud (accessory, 1 use)\nFront facing soccer ball eyes with in built headlights (photophores)\nRussian designed programming interface\n\nSIMPLE: Although large and powerful they have low intellect. Before they are deployed they must be given a 10 word directive that they will follow. No punctuation can be used and it must be a complete sentence that makes sense."
-  },
-  {
-    "objectID": "History/SAE_military.html",
-    "href": "History/SAE_military.html",
-    "title": "SAE military",
-    "section": "",
-    "text": "Military troops from various countries are mixed together into groups and deployed all over the SAE. There are too many oral languages and no consensus was made for a lingua franca of the military. Instead all members of the military learn a specialised gesture based language based on hand and arm signals and a mixture of Asian sign languages. This allows one member of a team who understands the spoken language of the current officer in charge to distribute the commands on the field."
-  },
-  {
-    "objectID": "History/SAE_military.html#sae_infantry",
-    "href": "History/SAE_military.html#sae_infantry",
-    "title": "SAE military",
-    "section": "SAE INFANTRY",
-    "text": "SAE INFANTRY\n(3 HP, 2D6 appear)\n\nType 63 assault rifle (1D6+1 DAMAGE)\nPistol Auto 9mm 1A (1D6 DAMAGE)\nCombat knife (1D6 DAMAGE)\nBulletproof vest (1 ARMOR)\n1 Smoke grenade (1 use)\nMixture of Asian ethnicities\n\nNUMEROUS: Although the SAE does not have the newest military tech they make up for it with sheer numbers of infantry. They are eerily silent primarily communicating in the SAE military sign language. Due to this SAE INFANTRY are great at stealth and it is difficult to cath them unaware."
-  },
-  {
-    "objectID": "History/USA_military.html",
-    "href": "History/USA_military.html",
-    "title": "USA military",
-    "section": "",
-    "text": "(4 HP)\n\nSpear mouth guard (1D6 DAMAGE)\nLaser (1D6+1 DAMAGE) works in air and water\nCyborg armor (1 ARMOR)\nRetractile quad legs, sharp pointed ends for safe ice travel vertically & horizontally\nSaddle for 1 passenger\nTranslator & comms module (TCM)\nEcholocation\n\nSOCIAL: CYBORG DOLPHINS are prized due to their communication skills. Humans can orally speak with them if they connect to their TCM. However, Dolphins can only use and understand single syllable words. They will listen to their rider if they are respected and treated well.\n\n\n\n(20 HP)\n\n4 torpedoes (1D6+2 DAMAGE)\nSparse titanium plates (1 ARMOR)\nControl dock mounted in front of blow hole, connected to brain of whale. Human captain controls it like a vehicle (2HP, 4 ARMOR)\nLarge hump crate on back\nDeployable millipede like legs to get onto ground\n\nAMPHIBIOUS: The true purpose of the submersible is to emerge from the waters and become a ground borne weapons platform. Once out of the water and with some time it deploys its gear from it hump crate. It retains its HP but become a HUMPBACK WHALE WEAPONS PLATFORM.\n\n\n\n(20 HP)\n\nForward mounted cannons controlled by pilot (3D6+3 DAMAGE, ANTI-MATERIAL, 2 uses)\nFully deployed titanium plating (3 ARMOR), supports whale’s weight\nControl dock mounted in front of blow hole, connected to brain of whale. Human captain controls it like a vehicle (2HP, 4 ARMOR)\nDeck on back with 1 ARMOR walls\nMetal ladders on both sides towards the tail\nOne Left and one right side mounted Ball turret (6HP, 2 ARMOR) each with 2 M2 Browing heavy machine guns XM214 Microgun (1D6+2 DAMAGE), need to be manned\n\nPAKICETUS: Whales are back on land and they are packing. These armoured cetaceans get troops where they need to be by carving a path of destruction.\nANTI-MATERIEL weapon tag: Deals double DAMAGE to vehicles and structures; cumbersome to carry around. (F:UE)"
-  },
-  {
-    "objectID": "History/USA_military.html#cyborg_dolphin",
-    "href": "History/USA_military.html#cyborg_dolphin",
-    "title": "USA military",
-    "section": "",
-    "text": "(4 HP)\n\nSpear mouth guard (1D6 DAMAGE)\nLaser (1D6+1 DAMAGE) works in air and water\nCyborg armor (1 ARMOR)\nRetractile quad legs, sharp pointed ends for safe ice travel vertically & horizontally\nSaddle for 1 passenger\nTranslator & comms module (TCM)\nEcholocation\n\nSOCIAL: CYBORG DOLPHINS are prized due to their communication skills. Humans can orally speak with them if they connect to their TCM. However, Dolphins can only use and understand single syllable words. They will listen to their rider if they are respected and treated well."
-  },
-  {
-    "objectID": "History/USA_military.html#humpback_sub",
-    "href": "History/USA_military.html#humpback_sub",
-    "title": "USA military",
-    "section": "",
-    "text": "(20 HP)\n\n4 torpedoes (1D6+2 DAMAGE)\nSparse titanium plates (1 ARMOR)\nControl dock mounted in front of blow hole, connected to brain of whale. Human captain controls it like a vehicle (2HP, 4 ARMOR)\nLarge hump crate on back\nDeployable millipede like legs to get onto ground\n\nAMPHIBIOUS: The true purpose of the submersible is to emerge from the waters and become a ground borne weapons platform. Once out of the water and with some time it deploys its gear from it hump crate. It retains its HP but become a HUMPBACK WHALE WEAPONS PLATFORM."
-  },
-  {
-    "objectID": "History/USA_military.html#humpback_plat",
-    "href": "History/USA_military.html#humpback_plat",
-    "title": "USA military",
-    "section": "",
-    "text": "(20 HP)\n\nForward mounted cannons controlled by pilot (3D6+3 DAMAGE, ANTI-MATERIAL, 2 uses)\nFully deployed titanium plating (3 ARMOR), supports whale’s weight\nControl dock mounted in front of blow hole, connected to brain of whale. Human captain controls it like a vehicle (2HP, 4 ARMOR)\nDeck on back with 1 ARMOR walls\nMetal ladders on both sides towards the tail\nOne Left and one right side mounted Ball turret (6HP, 2 ARMOR) each with 2 M2 Browing heavy machine guns XM214 Microgun (1D6+2 DAMAGE), need to be manned\n\nPAKICETUS: Whales are back on land and they are packing. These armoured cetaceans get troops where they need to be by carving a path of destruction.\nANTI-MATERIEL weapon tag: Deals double DAMAGE to vehicles and structures; cumbersome to carry around. (F:UE)"
-  },
-  {
-    "objectID": "History/ERA.html#primary-deity",
-    "href": "History/ERA.html#primary-deity",
-    "title": "ERA",
-    "section": "Primary deity",
-    "text": "Primary deity\nThe primary deity of the SAE is Proteus."
-  },
-  {
-    "objectID": "History/ERA.html#positives",
-    "href": "History/ERA.html#positives",
-    "title": "ERA",
-    "section": "Positives",
-    "text": "Positives\n\nFree movement: Has a lingua franca (English). This allows lots of movement across countries therefore sharing skills and knowledge across the alliance.\nCoastal: Most of their major cities are on coasts allowing most of their war torn (WWII) inner lands to be claimed by nature. This benefit’s the physical and mental health of the citizens.\nWorld trade: They are the world’s port trade hub."
-  },
-  {
-    "objectID": "History/ERA.html#negatives",
-    "href": "History/ERA.html#negatives",
-    "title": "ERA",
-    "section": "Negatives",
-    "text": "Negatives\n\nImpressionable: They are easily swayed by the culture of other powers, primarily the USA. This means they place less value on their own cultures.\nLow hanging fruit pickers: They like easy fixes and jobs even if it ends up costing them more in the long run.\nScarred: Due to the damage of WWII the power is traumatised. They do not deal well with aggression and tend to allow others to get their way when threatened."
-  },
-  {
-    "objectID": "History/Biways.html#primary-deity",
-    "href": "History/Biways.html#primary-deity",
-    "title": "The Biways",
-    "section": "Primary deity",
-    "text": "Primary deity\nNone/agnostic"
-  },
-  {
-    "objectID": "History/Biways.html#positives",
-    "href": "History/Biways.html#positives",
-    "title": "The Biways",
-    "section": "Positives",
-    "text": "Positives\n\nRich: The Biways is the financial hub of the world. The pound is the most traded and trusted currency in the world.\nNuclear power: Greenland is used for nuclear power generation to sell to the world, especially the USA.\nResearch: Contains many universities with leading research."
-  },
-  {
-    "objectID": "History/Biways.html#negatives",
-    "href": "History/Biways.html#negatives",
-    "title": "The Biways",
-    "section": "Negatives",
-    "text": "Negatives\n\nCorrupt: It is a great place for off shore bank accounts and laundering money. It is a haven for fugitives of other countries. As long as the fugitive has capital. Many of the world’s elites and most dangerous live in the Biways, benefiting from interacting with each other.\nDangerous science: Iceland is where many dangerous scientific research is carried out is carried out by super scientists across the world.\nBrain drain: The Biways is very attractive to experts across the world. This unfortunately takes away specilaists from other countries that may need them more."
-  },
-  {
-    "objectID": "History/CAC.html#primary-deity",
-    "href": "History/CAC.html#primary-deity",
-    "title": "CAC",
-    "section": "Primary deity",
-    "text": "Primary deity\nThe primary deity of the CAC is Tartarus."
-  },
-  {
-    "objectID": "History/CAC.html#positives",
-    "href": "History/CAC.html#positives",
-    "title": "CAC",
-    "section": "Positives",
-    "text": "Positives\n\n\nReformers: The power and its citizens believe in second chances. They abhor imprisonment and instead try to reform criminals."
-  },
-  {
-    "objectID": "History/CAC.html#negatives",
-    "href": "History/CAC.html#negatives",
-    "title": "CAC",
-    "section": "Negatives",
-    "text": "Negatives\n\nHabitat destruction: The natural resources are heavily extracted in the continent.\nCapital punishment: The death sentence is commonly used for repeat offenders of severe crimes."
   }
 ]
