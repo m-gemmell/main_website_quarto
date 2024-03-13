@@ -1,27 +1,27 @@
 {
-    "id": "530D1924",
-    "path": "F:/Git/PRIMEVAL_DEITIES/Missions/M-HARM.qmd",
-    "project_path": "Missions/M-HARM.qmd",
+    "id": "46873C7E",
+    "path": "F:/Git/PRIMEVAL_DEITIES/History/USA_military.qmd",
+    "project_path": "History/USA_military.qmd",
     "type": "quarto_markdown",
-    "hash": "58029738",
+    "hash": "1483904782",
     "contents": "",
     "dirty": false,
-    "created": 1707689895597.0,
+    "created": 1710100984307.0,
     "source_on_save": false,
-    "relative_order": 3,
+    "relative_order": 5,
     "properties": {
         "rmdVisualMode": "false",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "97,0",
-        "scrollLine": "65"
+        "cursorPosition": "38,143",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1709120119,
+    "lastKnownWriteTime": 1710101118,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1709120119331,
+    "last_content_update": 1710101118117,
     "read_only": false,
     "read_only_alternatives": []
 }
