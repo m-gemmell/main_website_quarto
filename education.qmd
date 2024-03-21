@@ -1,0 +1,33 @@
+---
+title: "Education"
+---
+<center>
+![](images/training_course.png){style="width:100px"}
+</center>
+
+Below are links to my various education websites.
+
+## R for Everyone
+
+<center>
+![](images/R.png){style="width:100px"}
+</center>
+
+A course book that aims to each the fundamentals of R which is intended for beginners. 
+
+Link: [https://m-gemmell.github.io/R_for_everyone/](https://m-gemmell.github.io/R_for_everyone/)
+
+## Time over motivation
+
+<center>
+![](images/clock.png){style="width:100px"}
+</center>
+
+Slides about the Comparison of the engagement and completion of synchronous and asynchronous online courses for adult learners.
+
+Link: [https://m-gemmell.github.io/PGCAP/MG_PGCAP.html](https://m-gemmell.github.io/PGCAP/MG_PGCAP.html)
+
+YouTube link of recorded talk: [https://www.youtube.com/watch?v=068Wx19OjxM&t=1s](https://www.youtube.com/watch?v=068Wx19OjxM&t=1s)
+
+
+

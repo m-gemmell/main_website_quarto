@@ -1,0 +1,31 @@
+---
+title: "Hobbies"
+---
+<center>
+![](images/wave_of_inspiration.png){style="width:100px"}
+</center>
+<br>
+Websites realted to my hobbies. These are primarily related to role playing games.
+
+## Primeval Deities
+
+<center>
+![](images/primeval_deities.png){style="width:150px"}
+</center>
+<br>
+A website to host faction information of the Primeval deities for the [FIST RPG](https://claymorerpgs.itch.io/fist). Contains missions, lore, and a "bestiary".
+
+Link: [https://m-gemmell.github.io/Primeval_Deities_FIST/](https://m-gemmell.github.io/Primeval_Deities_FIST/)
+
+## The Aurora's Avarice
+
+<center>
+![](images/aurora.png){style="width:100px"}
+</center>
+<br>
+A Mystery for the RPG [Monster of the Week](https://evilhat.com/product/monster-of-the-week/). It includes a skiing mpouintain town on the off season, a cult, and giant Ice worms.
+
+Link: [https://m-gemmell.github.io/RPGs/Monster_of_the_week/The_auroras_avarice/01-The_auroras_avarice.html](https://m-gemmell.github.io/RPGs/Monster_of_the_week/The_auroras_avarice/01-The_auroras_avarice.html)
+
+
+

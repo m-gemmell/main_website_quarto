@@ -1,0 +1,101 @@
+---
+title: "Academia"
+---
+<center>
+![](images/journal_impact.png){style="width:200px"}
+</center>
+
+Below are links to my various published papers and their related github pages.
+
+Many of my papers come from having been a contributor of the COVID-19 Genomics UK Consortium at The University of Liverpool ([source](https://webarchive.nationalarchives.gov.uk/ukgwa/20230522153320/https://www.cogconsortium.uk/cog-uk/consortium-partners/university-of-liverpool/)).
+
+## 2023
+
+### Investigation of hospital discharge cases and SARS-CoV-2 introduction into Lothian care homes
+
+Link: [https://www.sciencedirect.com/science/article/pii/S0195670123000671](https://www.sciencedirect.com/science/article/pii/S0195670123000671)
+
+### The Hypolimnas misippus genome supports a common origin of the W chromosome in Lepidoptera
+
+Link: [https://www.biorxiv.org/content/10.1101/2023.03.24.533969v2.abstract](https://www.biorxiv.org/content/10.1101/2023.03.24.533969v2.abstract)
+
+### The ecology of viruses in urban rodents with a focus on SARS-CoV-2
+
+Link: [https://www.tandfonline.com/doi/full/10.1080/22221751.2023.2217940](https://www.tandfonline.com/doi/full/10.1080/22221751.2023.2217940)
+
+## 2021
+
+### Evaluating the Effects of SARS-CoV-2 Spike Mutation D614G on Transmissibility and Pathogenicity
+
+Link: [https://www.cell.com/cell/pdf/S0092-8674(20)31537-3.pdf](https://www.cell.com/cell/pdf/S0092-8674(20)31537-3.pdf)
+
+### Recurrent emergence of SARS-CoV-2 spike deletion H69/V70 and its role in the Alpha variant B.1.1.7
+
+Link: [https://www.cell.com/cell-reports/pdf/S2211-1247(21)00663-X.pdf](https://www.cell.com/cell-reports/pdf/S2211-1247(21)00663-X.pdf)
+
+### Changes in symptomatology, reinfection, and transmissibility associated with the SARS-CoV-2 variant B.1.1.7: an ecological study
+
+Link: [https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(21)00055-4/fulltext](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(21)00055-4/fulltext)
+
+### Exponential growth, high prevalence of SARS-CoV-2, and vaccine effectiveness associated with the Delta variant
+
+Link: [https://www.science.org/doi/full/10.1126/science.abl9551](https://www.science.org/doi/full/10.1126/science.abl9551)
+
+### The impact of viral mutations on recognition by SARS-CoV-2 specific T cells
+
+Link: [https://www.cell.com/iscience/pdf/S2589-0042(21)01322-5.pdf](https://www.cell.com/iscience/pdf/S2589-0042(21)01322-5.pdf)
+
+### Combined epidemiological and genomic analysis of nosocomial SARS-CoV-2 infection early in the pandemic and the role of unidentified cases in transmission
+
+Link: [https://www.sciencedirect.com/science/article/pii/S1198743X21004353](https://www.sciencedirect.com/science/article/pii/S1198743X21004353)
+
+### Amplicon and Metagenomic Analysis of Middle East Respiratory Syndrome (MERS) Coronavirus and the Microbiome in Patients with Severe MERS
+
+Link: [https://journals.asm.org/doi/full/10.1128/msphere.00219-21](https://journals.asm.org/doi/full/10.1128/msphere.00219-21)
+
+## 2020
+
+### Oral bacterial diversity is inversely correlated with mucosal inflammation
+
+Link: [https://onlinelibrary.wiley.com/doi/full/10.1111/odi.13420](https://onlinelibrary.wiley.com/doi/full/10.1111/odi.13420)
+
+## 2019
+
+### Draft Genome Assembly of the Poultry Red Mite, Dermanyssus gallinae
+
+Link: [https://journals.asm.org/doi/full/10.1128/mra.01221-18](https://journals.asm.org/doi/full/10.1128/mra.01221-18)
+
+### P093 CD4 T-cell transcriptome analysis at baseline predicts clinical remission to anti-TNF agents in ulcerative colitis (UC)
+
+Link: [https://academic.oup.com/ecco-jcc/article/13/Supplement_1/S132/5300569?login=false](https://academic.oup.com/ecco-jcc/article/13/Supplement_1/S132/5300569?login=false)
+
+### Draft genome sequences of a Campylobacter curvus and three Campylobacter ureolyticus strains isolated from human colonic mucosal tissue
+
+Link: [https://www.microbiotajournal.com/wp-content/uploads/sites/7/2020/01/e148-Draft-genome-sequences-of-a-Campylobacter-curvus-and-three-Campylobacter-ureolyticus-strains-isolated-from-human-colonic-mucosal-tissue-.pdf](https://www.microbiotajournal.com/wp-content/uploads/sites/7/2020/01/e148-Draft-genome-sequences-of-a-Campylobacter-curvus-and-three-Campylobacter-ureolyticus-strains-isolated-from-human-colonic-mucosal-tissue-.pdf)
+
+## 2018
+
+### Comparative genomics of Campylobacter concisus: Analysis of clinical strains reveals genome diversity and pathogenic potential
+
+Link: [https://www.tandfonline.com/doi/full/10.1038/s41426-018-0118-x](https://www.tandfonline.com/doi/full/10.1038/s41426-018-0118-x)
+
+### Draft Genome Assembly of the Poultry Red Mite, Dermanyssus gallinae
+
+Link: [https://journals.asm.org/doi/full/10.1128/mra.01221-18](https://journals.asm.org/doi/full/10.1128/mra.01221-18)
+
+### Comparative genomics and genome biology of Campylobacter showae
+
+Link: [https://www.tandfonline.com/doi/full/10.1080/22221751.2019.1622455][https://www.tandfonline.com/doi/full/10.1080/22221751.2019.1622455]
+
+### Novel Campylobacter concisus lipooligosaccharide is a determinant of inflammatory potential and virulence
+
+Link: [https://www.jlr.org/article/S0022-2275(20)34181-X/fulltext](https://www.jlr.org/article/S0022-2275(20)34181-X/fulltext)
+
+## 2016
+
+### Extending colonic mucosal microbiome analysis—assessment of colonic lavage as a proxy for endoscopic colonic biopsies
+
+Link: [https://link.springer.com/article/10.1186/s40168-016-0207-9](https://link.springer.com/article/10.1186/s40168-016-0207-9)
+
+
+
