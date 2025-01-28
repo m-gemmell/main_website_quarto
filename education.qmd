@@ -13,7 +13,7 @@ Below are links to my various education websites.
 ![](images/R.png){style="width:100px"}
 </center>
 
-A course book that aims to each the fundamentals of R which is intended for beginners. 
+A course book that aims to teach the fundamentals of R which is intended for beginners. 
 
 Link: [https://m-gemmell.github.io/R_for_everyone/](https://m-gemmell.github.io/R_for_everyone/)
 

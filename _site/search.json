@@ -39,7 +39,7 @@
     "href": "academia.html#section-4",
     "title": "Academia",
     "section": "2019",
-    "text": "2019\n\nDraft Genome Assembly of the Poultry Red Mite, Dermanyssus gallinae\nLink: https://journals.asm.org/doi/full/10.1128/mra.01221-18\n\n\nP093 CD4 T-cell transcriptome analysis at baseline predicts clinical remission to anti-TNF agents in ulcerative colitis (UC)\nLink: https://academic.oup.com/ecco-jcc/article/13/Supplement_1/S132/5300569?login=false\n\n\nDraft genome sequences of a Campylobacter curvus and three Campylobacter ureolyticus strains isolated from human colonic mucosal tissue\nLink: https://www.microbiotajournal.com/wp-content/uploads/sites/7/2020/01/e148-Draft-genome-sequences-of-a-Campylobacter-curvus-and-three-Campylobacter-ureolyticus-strains-isolated-from-human-colonic-mucosal-tissue-.pdf"
+    "text": "2019\n\nP093 CD4 T-cell transcriptome analysis at baseline predicts clinical remission to anti-TNF agents in ulcerative colitis (UC)\nLink: https://academic.oup.com/ecco-jcc/article/13/Supplement_1/S132/5300569?login=false\n\n\nDraft genome sequences of a Campylobacter curvus and three Campylobacter ureolyticus strains isolated from human colonic mucosal tissue\nLink: https://www.microbiotajournal.com/wp-content/uploads/sites/7/2020/01/e148-Draft-genome-sequences-of-a-Campylobacter-curvus-and-three-Campylobacter-ureolyticus-strains-isolated-from-human-colonic-mucosal-tissue-.pdf"
   },
   {
     "objectID": "academia.html#section-5",
@@ -67,7 +67,7 @@
     "href": "education.html#r-for-everyone",
     "title": "Education",
     "section": "R for Everyone",
-    "text": "R for Everyone\n\n\n\nA course book that aims to each the fundamentals of R which is intended for beginners.\nLink: https://m-gemmell.github.io/R_for_everyone/"
+    "text": "R for Everyone\n\n\n\nA course book that aims to teach the fundamentals of R which is intended for beginners.\nLink: https://m-gemmell.github.io/R_for_everyone/"
   },
   {
     "objectID": "education.html#time-over-motivation",
@@ -95,7 +95,14 @@
     "href": "hobbies.html",
     "title": "Hobbies",
     "section": "",
-    "text": "Websites realted to my hobbies. These are primarily related to role playing games."
+    "text": "Websites realted to my hobbies. These are primarily related to role playing games.\nMy itch.io page"
+  },
+  {
+    "objectID": "hobbies.html#puml",
+    "href": "hobbies.html#puml",
+    "title": "Hobbies",
+    "section": "PUML",
+    "text": "PUML\n\n\n\n PUML is a homebrewed variant of the FIST RPG. Whereas FIST is a high lethality system, PUML attempts to be less lethal allowing characters to more easily survive through a campaign.\nLink: https://m-gemmell.itch.io/puml"
   },
   {
     "objectID": "hobbies.html#primeval-deities",
@@ -103,6 +110,27 @@
     "title": "Hobbies",
     "section": "Primeval Deities",
     "text": "Primeval Deities\n\n\n\n A website to host faction information of the Primeval deities for the FIST RPG. Contains missions, lore, and a “bestiary”.\nLink: https://m-gemmell.github.io/Primeval_Deities_FIST/"
+  },
+  {
+    "objectID": "hobbies.html#the-rustlands",
+    "href": "hobbies.html#the-rustlands",
+    "title": "Hobbies",
+    "section": "THE RUSTLANDS",
+    "text": "THE RUSTLANDS\n\n\n\n\nThe Rustlands is a setting for FIST. It is heavily steeped in speculative biology with various sentient creatures roaming the lands. Due to the war of 2 deities the waters of this alternate Earth have drained into the ground. Storms rage across the whole world with only a few safe havens formed by the presence of 2 other deities. It is one of these safe havens where the team will enter and explore.\nLink: https://m-gemmell.itch.io/the-rust-lands"
+  },
+  {
+    "objectID": "hobbies.html#pops-possible-oil-pipe-sabotage",
+    "href": "hobbies.html#pops-possible-oil-pipe-sabotage",
+    "title": "Hobbies",
+    "section": "POPS: Possible Oil Pipe Sabotage",
+    "text": "POPS: Possible Oil Pipe Sabotage\n\n\n\n\nA Dilemma mission for the FIST RPG, were the PCs mercenary crew must decide between protecting an oil pipeline or sabotaging it. Descend into the dense Black forest and lay down you mark on the world.\nLink: https://m-gemmell.itch.io/pops-possible-oil-pipe-sabotage"
+  },
+  {
+    "objectID": "hobbies.html#awe-auroras-worm-eradication",
+    "href": "hobbies.html#awe-auroras-worm-eradication",
+    "title": "Hobbies",
+    "section": "AWE: Auroras & Worm Eradication",
+    "text": "AWE: Auroras & Worm Eradication\nSnow sport enthusiasts are being found dead with shark-like bites at the Aurora ski resort in Skifry, Canada. Refraction Sports are planning to hold a televised event next year at the Aurora. They want these deaths to stop. Discover the mystery in this FIST RPG mission.\nLink: https://m-gemmell.itch.io/awe-auroras-and-worm-eradication"
   },
   {
     "objectID": "hobbies.html#the-auroras-avarice",
@@ -123,7 +151,14 @@
     "href": "index.html#contact",
     "title": "Overview",
     "section": "Contact",
-    "text": "Contact\nIf you would like to contact me you can donate and private message me on my Ko-fi with your contact details (you can donate a min of £1):"
+    "text": "Contact\nYou can contact me on my Bluesky account\nYou can also check out my Linkedin account"
+  },
+  {
+    "objectID": "index.html#donations",
+    "href": "index.html#donations",
+    "title": "Overview",
+    "section": "Donations",
+    "text": "Donations\nIf you would like to donate to me you can do so on my Ko-fi:"
   },
   {
     "objectID": "index.html#license",
@@ -131,12 +166,5 @@
     "title": "Overview",
     "section": "License",
     "text": "License\nThis website and its materials are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)\nThis online work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International. Visit here for more information about the license."
-  },
-  {
-    "objectID": "hobbies.html#the-bead",
-    "href": "hobbies.html#the-bead",
-    "title": "Hobbies",
-    "section": "THE BEAD",
-    "text": "THE BEAD\n\n\n\n A trans-dimensional expansion to the Primeval Deities setting for the FIST RPG. Contains different settings for your trans-dimensional travels.\nLink: https://m-gemmell.github.io/BEAD/"
   }
 ]

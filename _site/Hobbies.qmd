@@ -7,6 +7,17 @@ title: "Hobbies"
 <br>
 Websites realted to my hobbies. These are primarily related to role playing games.
 
+[My itch.io page](https://m-gemmell.itch.io/)
+
+## PUML
+<center>
+![](images/PUML_itch_civer.png){style="width:200px; border-radius:15px"}
+</center>
+<br>
+PUML is a homebrewed variant of the [FIST RPG](https://claymorerpgs.itch.io/fist). Whereas FIST is a high lethality system, PUML attempts to be less lethal allowing characters to more easily survive through a campaign.
+
+Link: [https://m-gemmell.itch.io/puml](https://m-gemmell.itch.io/puml)
+
 ## Primeval Deities
 
 <center>
@@ -17,13 +28,38 @@ A website to host faction information of the Primeval deities for the [FIST RPG]
 
 Link: [https://m-gemmell.github.io/Primeval_Deities_FIST/](https://m-gemmell.github.io/Primeval_Deities_FIST/)
 
+## THE RUSTLANDS
+<center>
+![](images/RUSTLANDS_LOGO.png){style="width:150px"}
+</center>
+<br>
+
+The Rustlands is a setting for FIST. It is heavily steeped in speculative biology with various sentient creatures roaming the lands. Due to the war of 2 deities the waters of this alternate Earth have drained into the ground. Storms rage across the whole world with only a few safe havens formed by the presence of 2 other deities. It is one of these safe havens where the team will enter and explore.
+
+Link: [https://m-gemmell.itch.io/the-rust-lands](https://m-gemmell.itch.io/the-rust-lands)
+
+## POPS: Possible Oil Pipe Sabotage
+<center>
+![](images/M-POPS.png){style="width:150px"}
+</center>
+<br>
+
+A Dilemma mission for the [FIST RPG](https://claymorerpgs.itch.io/fist), were the PCs mercenary crew must decide between protecting an oil pipeline or sabotaging it. Descend into the dense Black forest and lay down you mark on the world.
+
+Link: [https://m-gemmell.itch.io/pops-possible-oil-pipe-sabotage](https://m-gemmell.itch.io/pops-possible-oil-pipe-sabotage)
+
+## AWE: Auroras & Worm Eradication
+Snow sport enthusiasts are being found dead with shark-like bites at the Aurora ski resort in Skifry, Canada. Refraction Sports are planning to hold a televised event next year at the Aurora. They want these deaths to stop. Discover the mystery in this [FIST RPG](https://claymorerpgs.itch.io/fist) mission.
+
+Link: [https://m-gemmell.itch.io/awe-auroras-and-worm-eradication](https://m-gemmell.itch.io/awe-auroras-and-worm-eradication)
+
 ## The Aurora's Avarice
 
 <center>
 ![](images/aurora.png){style="width:100px"}
 </center>
 <br>
-A Mystery for the RPG [Monster of the Week](https://evilhat.com/product/monster-of-the-week/). It includes a skiing mpouintain town on the off season, a cult, and giant Ice worms.
+A Mystery for the RPG [Monster of the Week](https://evilhat.com/product/monster-of-the-week/). It includes a skiing mouintain town on the off season, a cult, and giant Ice worms.
 
 Link: [https://m-gemmell.github.io/RPGs/Monster_of_the_week/The_auroras_avarice/01-The_auroras_avarice.html](https://m-gemmell.github.io/RPGs/Monster_of_the_week/The_auroras_avarice/01-The_auroras_avarice.html)
 
