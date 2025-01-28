@@ -9,6 +9,12 @@ Below are links to my various published papers and their related github pages.
 
 Many of my papers come from having been a contributor of the COVID-19 Genomics UK Consortium at The University of Liverpool ([source](https://webarchive.nationalarchives.gov.uk/ukgwa/20230522153320/https://www.cogconsortium.uk/cog-uk/consortium-partners/university-of-liverpool/)).
 
+## 2025
+
+### Comparison of different microbiome analysis pipelines to validate their reproducibility of gastric mucosal microbiome composition
+
+Link: [https://journals.asm.org/doi/10.1128/msystems.01358-24](https://journals.asm.org/doi/10.1128/msystems.01358-24)
+
 ## 2024
 
 ### Optimised human stool sample collection for multi-omic microbiota analysis
