@@ -11,7 +11,7 @@
     "href": "academia.html#section",
     "title": "Academia",
     "section": "2025",
-    "text": "2025\n\nComparison of different microbiome analysis pipelines to validate their reproducibility of gastric mucosal microbiome composition\nLink: https://journals.asm.org/doi/10.1128/msystems.01358-24"
+    "text": "2025\n\nA randomised, double-blind clinical study into the effect of zinc citrate trihydrate toothpaste on oral plaque microbiome ecology and function\nLink: https://www.nature.com/articles/s41598-025-92545-0\n\n\nComparison of different microbiome analysis pipelines to validate their reproducibility of gastric mucosal microbiome composition\nLink: https://journals.asm.org/doi/10.1128/msystems.01358-24"
   },
   {
     "objectID": "academia.html#section-1",
@@ -96,6 +96,13 @@
     "title": "Academia",
     "section": "MG Bookdown guide",
     "text": "MG Bookdown guide\n\n\n\n A quick and dirty guide on how I use bookdown. It is primarily for my use but if someone else finds it I hope it will also proof useful. Additionally, this was made with R Bookdown.\nLink: https://m-gemmell.github.io/Bookdown_guide/01-MG_Bookdown_guide.html"
+  },
+  {
+    "objectID": "guides.html#mg-nextflow-guide",
+    "href": "guides.html#mg-nextflow-guide",
+    "title": "Academia",
+    "section": "MG Nextflow guide",
+    "text": "MG Nextflow guide\n\n\n\n A quick and dirty guide on how I use Nextflow It is primarily for my use but if someone else finds it I hope it will also proof useful. Additionally, this was made with R Bookdown.\nLink: https://m-gemmell.github.io/Nextflow_guide/"
   },
   {
     "objectID": "hobbies.html",

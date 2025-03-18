@@ -11,6 +11,10 @@ Many of my papers come from having been a contributor of the COVID-19 Genomics U
 
 ## 2025
 
+### A randomised, double-blind clinical study into the effect of zinc citrate trihydrate toothpaste on oral plaque microbiome ecology and function
+
+Link: [https://www.nature.com/articles/s41598-025-92545-0](https://www.nature.com/articles/s41598-025-92545-0)
+
 ### Comparison of different microbiome analysis pipelines to validate their reproducibility of gastric mucosal microbiome composition
 
 Link: [https://journals.asm.org/doi/10.1128/msystems.01358-24](https://journals.asm.org/doi/10.1128/msystems.01358-24)
